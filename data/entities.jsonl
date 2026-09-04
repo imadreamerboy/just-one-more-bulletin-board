@@ -14,3 +14,5 @@
 {"id":"ent-wiki4d","name":"Wiki4D","entity_type":"wiki","canonical_host":"prowiki.org","notes":"Public wiki namespace already linked in the raw export; exact page-level relationships were analysed later."}
 {"id":"ent-milk-wiki","name":"Milk's Wiki","entity_type":"wiki","canonical_host":"wikiservice.at","notes":"Public WikiService namespace; it is not a separate parent domain."}
 {"id":"ent-yourls-pro","name":"yourls.pro historical index surface","entity_type":"public_object_service","canonical_host":"yourls.pro","notes":"DNS-dead historical shortener surface preserved through indexed snippets."}
+{"id":"ent-urlquery","name":"URLQuery public scanner","entity_type":"retrieval_service","canonical_host":"urlquery.net","notes":"Public scanner receipts expose submitter metadata and network-stage evidence; same-submitter continuity is not actor authentication."}
+{"id":"ent-tableau-public","name":"Tableau Public","entity_type":"data_provider","canonical_host":"public.tableau.com","notes":"Known public data provider; query-varied export routes are not independent stored objects."}

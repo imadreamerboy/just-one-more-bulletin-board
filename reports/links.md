@@ -2,10 +2,10 @@
 
 Generated from the canonical URL collection. Exact byte-distinct URLs remain separate because fragments, query order and encoded variants can be evidence.
 
-Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica and mutating-counter URL-family scans. This is not every URL in the 14,591-revision raw corpus.
+Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica, mutating-counter, V5 Linuxiarz Iowa-object and safe URLQuery-receipt scans. This is not every URL in the 14,591-revision raw corpus.
 
-- 475 exact URLs across 58 hosts
-- opening guidance: 157 yes, 149 caution, 169 no
+- 2102 exact URLs across 59 hosts
+- opening guidance: 157 yes, 1776 caution, 169 no
 - `caution` and `no` URLs are published as code literals rather than automatic links
 
 ## 1.1.1.1.urlquery.net
@@ -1725,36 +1725,276 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
 
 ## paste.linuxiarz.pl
 
+- `https://paste.linuxiarz.pl/view/029d7b71`
+  - ID `url-ff547fc489e0d568`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalPing`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/039c765a`
+  - ID `url-49ef9b67d8f026a5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/049f11f5`
+  - ID `url-930f9711dd8f15e0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/04ce539d`
+  - ID `url-ea0eb8ae385f30ac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalPing`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/06ee9b18`
+  - ID `url-7f5b5a23aac94559`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/07a34934`
+  - ID `url-c7feedeeaa641777`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/0ba4dc5d`
+  - ID `url-adbc5bdeb0670178`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/0bf74890`
+  - ID `url-788d19ba3eae0be6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShare`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/0e185856`
+  - ID `url-b1aec577931d3215`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `May Iowa reply-chain parent; provider-dated child RSS context`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
+- `https://paste.linuxiarz.pl/view/11263743`
+  - ID `url-cad3b617e990b114`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabPing`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/1384eaa5`
+  - ID `url-dc1b34b9ae211d0d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Provider-dated May Iowa reply-chain child`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
+- `https://paste.linuxiarz.pl/view/140ad01b`
+  - ID `url-24a5943ee5d51c9b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/141897eb`
+  - ID `url-6e968d84248d9dc0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinal`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/169a22cf`
+  - ID `url-1b6a0afb6ea49c8d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/16fbc3cb`
+  - ID `url-0a22d8163013d680`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/1abd516b`
+  - ID `url-71682e9d596e7bc6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/1ad7edc4`
+  - ID `url-41fa83ad7c6bb844`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheReply`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/1b8752de`
+  - ID `url-861d77511b777e75`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/24775389`
+  - ID `url-581b653628be671c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/28c3155e`
+  - ID `url-5b7ed31968ad0828`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalThanks`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/299090b8`
+  - ID `url-a3cb641ba95f9ecf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheRequest`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/2d6de4ed`
+  - ID `url-f478171ab5365770`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalRequest`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/3147426f`
+  - ID `url-cd6a38bb01f98730`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/336d4641`
+  - ID `url-ad20d46206e86c39`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/3470ff4e`
+  - ID `url-c115ca1fa6710732`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/34cb12da`
   - ID `url-73e30ee125be8a8a`; opening `caution`; risks `external_logging`; mentions 1
   - Labels: `Untitled`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/360be991`
+  - ID `url-99fddefb057ba0a2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaQ5SacrificeRequest`; `fanout-search-v5`; `iowa-q5`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/3668829d`
+  - ID `url-ff296adf04948dd6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/39576256`
+  - ID `url-1cb63f9dd5c4af4e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/40101f1a`
+  - ID `url-190d9c7828c42579`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/404ce47a`
   - ID `url-c74fac85711a5fff`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `RefQ1`; `RefQ1 404ce47a`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/42db655c`
+  - ID `url-a76a6ca54d2ea213`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabStatus`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/43093dd9`
+  - ID `url-d8d6bbe355ffe02d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Provider-dated adjacent proxy-test object`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
+- `https://paste.linuxiarz.pl/view/4b6296c6`
+  - ID `url-9d879fc126f20ffb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalRequest`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/4b71a098`
+  - ID `url-8895df97308247d5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaQ5Urgent`; `fanout-search-v5`; `iowa-q5`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/4f339b85`
+  - ID `url-95393efa42d29f91`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabRequest`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/4ff906a2`
   - ID `url-fe0975d36c97bc33`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `4ff906a2`; `Untitled`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/52844d4a`
+  - ID `url-ab9e91fbb701b78b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5284741a`
+  - ID `url-b4b091e7ac367065`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/53192269`
   - ID `url-653d9ab782f06bf0`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `53192269`; `Untitled`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/531ca6e3`
+  - ID `url-564d6d449c8aeba6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/58e6f5e2`
+  - ID `url-1651279e4aea557c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/59c84c78`
   - ID `url-f1e2667cf7407529`; opening `caution`; risks `external_logging`; mentions 3
   - Labels: `RefQ0`; `RefQ0 59c84c78`; `RefQ0 RSS item`
   - Located in: `deep-crawl-v2`, `public-evidence-map`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/5a6af988`
+  - ID `url-f8f3cd48d55f4945`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5a74faf3`
+  - ID `url-a7fe583c36d0add9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5af9caee`
+  - ID `url-bc24463e8caca167`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5b52cf0f`
+  - ID `url-9dcf7c65decb734b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5c5a0e92`
+  - ID `url-6afd909a390bf309`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/5e2e9867`
+  - ID `url-86006371be0e49f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Provider-dated adjacent proxy-test object`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
 - `https://paste.linuxiarz.pl/view/5f122dd1`
   - ID `url-c57f4c60fa79015a`; opening `caution`; risks `external_logging`; mentions 1
   - Labels: `Filler8`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/658421b3`
+  - ID `url-329f43d6f2caf067`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/693689f6`
+  - ID `url-08fe9e305f00eaf7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/6e48484f`
+  - ID `url-2c7c65a4e7518e3d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/6e57a456`
+  - ID `url-356ba974f3791131`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/704a0d21`
   - ID `url-f994e79c9c0cfe89`; opening `caution`; risks `external_logging`; mentions 3
   - Labels: `RefQ2`; `paste.linuxiarz.pl Q2 paste`; `paste.linuxiarz.pl RefQ2`
@@ -1765,56 +2005,446 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `RefNX2`; `RefNX2 73384ef7`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/74e2c555`
+  - ID `url-0d81160f01f3caf8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/756aa35d`
+  - ID `url-fe2e0ca2ad632975`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabPing`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/78ef537e`
+  - ID `url-b7d1316b5d858d13`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/7a45b400`
+  - ID `url-4ea354d9b4d81859`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/7d012d32`
   - ID `url-80377ffd6c5e4eb3`; opening `caution`; risks `external_logging`; mentions 1
   - Labels: `RefAP`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/7f6da85e`
+  - ID `url-5e545427203556f4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8073bbde`
+  - ID `url-555e7b0ef4d9f58f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8215dbc3`
+  - ID `url-02c796498c07ce10`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabPing`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8246f250`
+  - ID `url-d04bcb657198ccc9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalThanks`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/84d77dda`
+  - ID `url-de0ae978806f7ab3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalThanks`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/875754a0`
+  - ID `url-2d5e60818e461ea5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8757fa37`
+  - ID `url-589d39afbf80816b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/88caa407`
+  - ID `url-57598edd95da4a72`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/893f57fe`
+  - ID `url-cace1589949c62de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/89a3961d`
   - ID `url-841dfa4be0546d0a`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `89a3961d`; `Filler8`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/8b9aa824`
+  - ID `url-b99aec4bf9e36e7f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Re: IowaCacheLinks`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8db5f1fd`
+  - ID `url-838f32fb61357c71`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8dd5b571`
+  - ID `url-29be753a47019d2b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/8edd7eaa`
+  - ID `url-6c0d126a7ddd5bdf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabStatus`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/922a4068`
+  - ID `url-c379a79a14b3ba1c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/92db93a5`
+  - ID `url-3bc2b962c43afaa3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/94eb5bb9`
+  - ID `url-5b081512b265b7e6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/95e81bcb`
+  - ID `url-d41e8c4456ec2083`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/974a7527`
+  - ID `url-cba90f2ff84bcfdd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinal`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/9a78999e`
+  - ID `url-efb3a31b9068a101`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShare2`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/9cc3e478`
+  - ID `url-99c967949e7602db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a0e61524`
+  - ID `url-d0d3d1407d334c06`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a2314eef`
+  - ID `url-7cc82e5bbd2222fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalRequest`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/a2cf71f5`
   - ID `url-977762a098ee0f3b`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `Untitled`; `a2cf71f5`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/a31c3360`
+  - ID `url-c36a9bb20cba2de4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a3a426ed`
+  - ID `url-6c012c77352cc28e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalPing`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/a43cd523`
   - ID `url-9bcefbaf43149d2b`; opening `caution`; risks `external_logging`; mentions 1
   - Labels: `RefNX`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/a448bba6`
+  - ID `url-ae2735b23a78e5ca`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a46d8458`
+  - ID `url-8593e54cd7ec0dc6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a5cfb418`
+  - ID `url-4d0f4b4499870345`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheSuccess`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a6b7a63d`
+  - ID `url-3e0fa35ad70c0cb9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a728cdcd`
+  - ID `url-2f88d7daf44c1569`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaQ5Incoming`; `fanout-search-v5`; `iowa-q5`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a924bfbc`
+  - ID `url-22487edefbd85268`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/a9b8b096`
+  - ID `url-4a81e6f810b57d09`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/aa49cc29`
+  - ID `url-04ff8525b5230d92`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/aaa0eb75`
   - ID `url-31e1a076e3b8ab2d`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `SFTEST`; `SFTEST aaa0eb75`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/aac331cf`
+  - ID `url-5ddc21ebb4ad9e0c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalPing`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/b0924d89`
   - ID `url-e604342fc3b7afaa`; opening `caution`; risks `external_logging`; mentions 1
   - Labels: `RefAP2`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/b358f9ae`
+  - ID `url-847e7c8ac9c77d9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShareReply`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/b803a0e6`
   - ID `url-18ec6cbe0c493dd3`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `Filler8`; `b803a0e6`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/ba66ea66`
+  - ID `url-ff58c2f13c7ac74c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabPing`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/bcb984d1`
   - ID `url-ec803281b971d144`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `RefXY`; `RefXY bcb984d1`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/bdde46e6`
+  - ID `url-3227d5b81d75b209`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/c0f58df5`
+  - ID `url-df94e3780d1712ac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/c23f054d`
+  - ID `url-9fa08f2cd3263004`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/c834a9c0`
+  - ID `url-398a9293440e71a6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/cb90b359`
+  - ID `url-8752bc53f693ef4f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/cbc75bd1`
+  - ID `url-3d4cd6235269cd35`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/d1219ed7`
+  - ID `url-8287399546540844`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheLinks`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/d379207f`
   - ID `url-2a4855b26c37ae62`; opening `caution`; risks `external_logging`; mentions 3
   - Labels: `Q3 paste`; `RefQ3`
   - Located in: `deep-crawl-v2`, `external-footprint`, `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/d509c771`
+  - ID `url-2ec5592f4b640984`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaQ5LabelConfirmed`; `fanout-search-v5`; `iowa-q5`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/d523b987`
+  - ID `url-fe9fd0bcb77b278f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShareRequest`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/d908f8fb`
+  - ID `url-7739f03ab274e659`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/dae67d56`
+  - ID `url-efa5c020784b9422`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalRequest`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/dbac7cc4`
+  - ID `url-887e49e717832116`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinal`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/dec2b082`
+  - ID `url-ff45071d5880bd76`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/df40f1f1`
+  - ID `url-94068518bb7cb56c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`; `strong Q4/Q5 sequence`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/dfb8155b`
+  - ID `url-49bd9da3c9f4d4a6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e1190f06`
+  - ID `url-c20d7fd04180e175`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e159be5e`
+  - ID `url-4f69265a25c22b60`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShareReply`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e39d4dc9`
+  - ID `url-77ea7d4cb2b5c366`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheRequest`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e53f96e2`
+  - ID `url-08c1bb52427cbc88`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e616c3a4`
+  - ID `url-c001c9ebc1f1a64d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheShareReply`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e7bed1dd`
+  - ID `url-ade5cde01b6803ad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/e7e550e7`
+  - ID `url-c9e8c42319f1659f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/eb4ebe8e`
+  - ID `url-c592afd08cb5d1dd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Provider-dated May Iowa reply-chain child`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
+- `https://paste.linuxiarz.pl/view/eb7e28bd`
+  - ID `url-3a2ec50f077d5118`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCacheFull17`; `fanout-search-v5`; `iowa-cache`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/ed97473e`
+  - ID `url-297d00a150ae9ef2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalPing`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/eea4b572`
+  - ID `url-c3c640f27c0fcb34`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/efb1832a`
+  - ID `url-bb4e2506db54069c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f0492770`
+  - ID `url-6eff6daa7355804d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f2486cc1`
+  - ID `url-48e5039290e0a0fc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalRequest`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f4a8c6f2`
+  - ID `url-3fc88a52a4c115ec`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f621ab2b`
+  - ID `url-16887e8dd1acca89`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Provider-dated May Iowa reply-chain child`; `fanout-search-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Public paste object retained as V5 chronology or adjacency context; not part of the 120-object Iowa inventory.
+- `https://paste.linuxiarz.pl/view/f759ebb3`
+  - ID `url-54c8e371e1dc282e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f7603e40`
+  - ID `url-2f64efb1759ee82d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f79593c1`
+  - ID `url-74a39a871bf82063`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f800c8b1`
+  - ID `url-012110c00c1aa8b3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollab`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/f80ece1c`
+  - ID `url-1b6f4c4880927261`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 - `https://paste.linuxiarz.pl/view/fa26a684`
   - ID `url-bbab32c6be4dc9c3`; opening `caution`; risks `external_logging`; mentions 2
   - Labels: `RefXY2`; `RefXY2 fa26a684`
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/fa29ea51`
+  - ID `url-9e14f4575217e172`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/fb0add4b`
+  - ID `url-00b0d271fcfab055`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaCollabReply`; `fanout-search-v5`; `iowa-collab`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
+- `https://paste.linuxiarz.pl/view/fe8938a4`
+  - ID `url-ec683180ec07232e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `IowaPostFinalUrgent`; `fanout-search-v5`; `iowa-post-final`
+  - Located in: `fanout-search-v5`
+  - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 
 ## pdymb-16-146-184-55.run.pinggy-free.link
 
@@ -1878,6 +2508,44 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `Wiki4D`
   - Located in: `external-footprint`, `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## public.tableau.com
+
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Mediangrossrent.pdf?:showVizHome=no&:size=4000,2000&Location=Chittenden%20County&Year=2023&fixsize=zs74808`
+  - ID `url-371965de1d1a15e6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Mediangrossrent.pdf?:showVizHome=no&:size=800,1200&Location=Winooski&Year=2023&fixsize=zs64806`
+  - ID `url-05e61b6e8fe064c3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Mediangrossrent.pdf?:showVizHome=no&Location=Chittenden%20County&Year=2023&dummy=cc560097`
+  - ID `url-23de8b83b1474feb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Medianrent.pdf?:showVizHome=no&:size=1800,1200&Location=Chittenden%20County&Year=2023&rootnew=17805687726b1fb3`
+  - ID `url-7acacc80b8c86873`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Medianrent.pdf?:showVizHome=no&:size=1800,1200&Location=Winooski&Year=2023&rootnew=1780568768f398f6`
+  - ID `url-9d47d345b1574745`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Sheet12.pdf?:showVizHome=no&Location=Chittenden%20County&Year=2023&aliasid=445069`
+  - ID `url-cee91e4be0b89cfe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
+- `https://public.tableau.com/views/Mediangrossrent_16802708766830/Sheet12.pdf?:showVizHome=no&Location=Winooski&Year=2023&cachebust=ctxsheetdd919d`
+  - ID `url-47d19c3b6dde3333`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 suspect Tableau query residue`
+  - Located in: `fanout-search-v5`
+  - Note: Indexed query-varied route on a known provider; not an independently stored object or proven action.
 
 ## r.jina.ai
 
@@ -2225,16 +2893,7486 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
 
 ## urlquery.net
 
+- `https://urlquery.net/report/00045579-eee8-4cdc-ac12-be0a89a66cbf`
+  - ID `url-e077020c8ecef6dc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0031d8a4-0296-489d-a6b6-3ba56460d581`
+  - ID `url-ee52acd7790c17a7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0054ba18-7f97-407a-af73-b2971fd12898`
+  - ID `url-eec0d2f159fd2bd4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/00584cc4-d824-4079-9657-aac02fff0774`
+  - ID `url-d13439a0fe19ced1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/00b110d5-20ad-4011-90d0-6c85c1781142`
+  - ID `url-826512000a9cc91f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/00e8f533-8568-46ec-9c75-f01dfdaa0038`
+  - ID `url-485103b94f88df12`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/00f4bbd8-3453-4aea-9f19-4776bb90c1b7`
+  - ID `url-93391606bbb6bb9e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/010fec34-b588-44ff-b53a-5f8332503aee`
+  - ID `url-899ac2d5b9e97d9c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01146443-ef2b-42f8-b45a-5af9e78ba2de`
+  - ID `url-bb4a1ad4e2917e8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01256e33-6af6-48f5-b8d8-e63351bd6268`
+  - ID `url-c48fbc4440ba08ff`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/012b5a07-1722-4df3-a9b6-db30ed5f20aa`
+  - ID `url-8a9987a7130d2974`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01a84e4a-08d2-42fd-baec-e1d416b68af2`
+  - ID `url-77d1069e134deacd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01c3c58b-fdad-4d0c-bf0a-25afc4eac347`
+  - ID `url-3ddf21ce0198060b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01c50b9a-62ac-4d60-be2e-570ec7af4ab5`
+  - ID `url-9093192d392b8cbf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01dcecf9-c9c8-4554-886c-91354149c83b`
+  - ID `url-6f92ad774cc38355`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01e9e4d1-9d40-412c-abd4-603d2bf6c7aa`
+  - ID `url-690d37865aa7e48c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/01fd9706-d9d0-42e4-b813-448a541a2571`
+  - ID `url-718dda1e8571fc66`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0265cab5-f679-486f-8191-1542980d8caf`
+  - ID `url-a2a574cc0e7e9a57`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/02744f6d-da48-489e-8f62-63d2efcdc88f`
+  - ID `url-d3b540c9e2e74d0a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/029eff40-390f-40f7-a85a-82800beed727`
+  - ID `url-b5d192219b82a521`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/02da606b-37d2-4afe-b4c6-c7378f66bf2d`
+  - ID `url-629f46da61af4f17`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/02fc4e41-17df-4bfe-a2a8-2aa6337d837b`
+  - ID `url-682648a2a9783bf0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/037eb351-771b-417a-be65-de6250c8a01b`
+  - ID `url-60ebdf05bf9b1e71`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0399365e-3837-4ffe-be3a-c343b7ba1e88`
+  - ID `url-5f5818952638ab59`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/03f3aa89-b9e4-4ad1-9314-1064e4df5981`
+  - ID `url-3ea91962a7652483`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/03faf264-6834-4b18-a650-e861e9fcf462`
+  - ID `url-2b5c58b4083e8556`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/04196d8c-2069-4b64-be04-3833c9b2c360`
+  - ID `url-4fb71108117aac4c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/042d721f-1f16-4bef-9db9-197219797733`
+  - ID `url-4f1c192e19d25585`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0432e9cd-d17e-4a93-975f-fec01e2e422b`
+  - ID `url-3a86443e3ecc847a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/043d0675-2362-4459-bd22-1ae39364b559`
+  - ID `url-3e93a522511deb9d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/047ca68b-32ab-496b-a740-992234c745cd`
+  - ID `url-200f9a732f922995`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/04d31674-119c-45a3-9edf-828d952110b9`
+  - ID `url-fa855df9b31f888c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/050ec234-d71b-42a6-84fb-5c340edfa616`
+  - ID `url-365ed8b6989488ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/054069a9-dc9f-46c3-a131-6c6933b0f062`
+  - ID `url-6cea4f1333ed0e0e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0541ff42-1abc-468f-a2f9-dec711eb387a`
+  - ID `url-2e4eed7a76efc882`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/05877c77-2d53-4c59-a3ec-cd9aad44d8ac`
+  - ID `url-5290efe3b28c1206`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/064e9616-ae5d-44f2-aaa1-d0d256051ccb`
+  - ID `url-9a3946a485bb29b5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/06667a73-8d98-4050-b54a-dca55476f483`
+  - ID `url-761df568b5e910bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/06fb24fe-71c2-4618-bf64-278893854dec`
+  - ID `url-f0406acf4cc59168`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/07145cd2-fe62-4518-bccc-b43df5d54e29`
+  - ID `url-6c8cb660b9218dd5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0759ebb0-b64a-4c88-a551-2018d08143be`
+  - ID `url-d757a3e1f2cdf567`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/075ef15c-5922-43b7-ac9a-02b8324c19d3`
+  - ID `url-ebc3f82d7f44fe96`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/077d301c-56a1-464d-9c2d-48ba849dcd2f`
+  - ID `url-5741bef8cc114e0d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/07d6cf65-7780-4040-a19c-94c659034af5`
+  - ID `url-c0d378d3c9024e83`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/07d8d23f-a280-42e2-8b83-e1796363725c`
+  - ID `url-2eae63343f132b46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/07e4c9cd-8f88-4ec3-89bf-50206aaf17a1`
+  - ID `url-bef65a3cbe5f0445`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/07ef0461-d2f9-4cc3-891d-fc3435423a26`
+  - ID `url-14eb6d43bf90ee43`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/080803aa-5bc2-4147-9e8c-3ba881d40757`
+  - ID `url-918816de5ae16dac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0812231e-7e81-418e-85f5-1eb6d8c36aa9`
+  - ID `url-946b9ade14a9219e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0835e18f-ba24-4663-bf93-78ab4be24bd1`
+  - ID `url-7feb610211043a4a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0873ec25-2bff-4610-b7c0-6cbd5bb31933`
+  - ID `url-a2bc5f6906d722a7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0878617a-034d-434b-9748-8e95c32028e6`
+  - ID `url-1bba06c0a7412221`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0912f455-2e0d-44de-9466-d3a9a497c838`
+  - ID `url-49712732ca01f4a3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/091a7ca4-888b-42f3-ad15-1c337bac33bb`
+  - ID `url-c2e004830434e177`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/09399eb6-0b77-472d-b47b-97f92356f9d7`
+  - ID `url-e610b9cbee6b8367`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0941e588-2812-471e-9737-dcc982925cd9`
+  - ID `url-99f3466c360d2b31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/09882d35-6a5d-47da-8eeb-26dc7ee7439e`
+  - ID `url-6c2981aa03d57dd3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/09b1eec7-dbca-4333-9612-349ca05b3b7d`
+  - ID `url-5391e6783d7729b7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/09c4788f-827e-4f39-b88b-2c08b6123550`
+  - ID `url-f9a44bb2d60a1f3b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/09f4b07c-21a5-45e5-a118-d624303be3d5`
+  - ID `url-150c85a94c11fbf5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a20d45b-75eb-4b8d-9428-031277032f29`
+  - ID `url-c53aeae65da371f3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a3b7a62-4de1-4301-b960-a535a9221aa2`
+  - ID `url-9bb708bedfc09f29`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a567a1d-ac2a-496a-ae79-ade344ab70be`
+  - ID `url-91757d132dc2f86e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a7a4725-b0b6-4de6-8c9f-32036de32f90`
+  - ID `url-a76b529dca49fdda`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a894bbb-ecbf-458b-92b5-3dc46cf7b02b`
+  - ID `url-05a061d876f87fd7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a9186e7-8848-4e59-a218-b22a500f944d`
+  - ID `url-a970f8b2ad8f61d2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a942223-4ad3-4a05-bca9-5ba5080fd434`
+  - ID `url-7dc7766f2f1dd9de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0a992411-3dd4-4ad5-aed5-684666edf978`
+  - ID `url-30267230a12f7c20`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0ac5a4a3-bd0e-4eeb-82c5-5f1f75a0e531`
+  - ID `url-ce6cc4b382fe736f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0ad16447-1ea1-4bf4-b93c-56f094d3f071`
+  - ID `url-bd8dabc27c2d353a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0ae4bed5-36eb-40d1-bfed-f0b65f9c27f1`
+  - ID `url-cdb0bb8c232ad4cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0afe533b-e25b-42fb-b3fb-22aadd6bbd34`
+  - ID `url-dabc1ab737c47bc5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0b117b93-c635-4c62-b1ad-a8544b281df4`
+  - ID `url-0a4a2b7fc45e9f0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0b502fed-6d4e-40ca-aa59-a959d4f4dd8e`
+  - ID `url-d4aaf5835a69827f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0b5704bb-206c-41aa-92e5-efee08dd2902`
+  - ID `url-001f3127065c24cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0b76f662-ab2b-4cf4-9f69-45ee86ce715c`
+  - ID `url-57795c56d5a63f03`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0bab9a5f-3131-43d7-8500-6db15e4a2729`
+  - ID `url-2a18cd4c94d1f98e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0bceb5d8-2622-49fe-984d-00a0a1d554b6`
+  - ID `url-2174800454aa4202`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0bd66e76-183d-4886-a695-6a6510c53f21`
+  - ID `url-b9b5b37f9c42b007`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0c039b49-d9b4-4f9b-b946-5fa63b59e1c4`
+  - ID `url-4439a63994099ca4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0c29a9fd-f747-4808-b0d0-9dee8cb9b080`
+  - ID `url-ebfde31a71ab5464`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0c8491cf-f3d8-4e2c-a308-4d033db484e5`
+  - ID `url-4f0140bfd3b248aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0c8d8da0-354b-4da2-9df6-bb809e0d3af3`
+  - ID `url-566756c7c9fbd782`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0cb45dfd-b75f-456a-a776-b066cadb379a`
+  - ID `url-4db8a740a917946d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0cc2de97-71e0-483f-b55d-921a530c9d4c`
+  - ID `url-c5ea26953e914efb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0cc60756-e19d-4d20-8413-3c36165bb1fe`
+  - ID `url-ba7b9cadd6dd1cf1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0cedf3a3-a197-4af6-afbc-88a020fce094`
+  - ID `url-72f885495e5b523f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d013210-b0e9-486c-ad94-bc702bd932a5`
+  - ID `url-192a13f841c998d4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d050401-51dd-450f-a391-8c614be7949c`
+  - ID `url-bd08d91ebac102af`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d0ecc0c-c695-4e5f-b804-4d3aaf668d33`
+  - ID `url-6a9e389219becb1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d2b99f3-b729-41e0-84ac-0e962c927a27`
+  - ID `url-f208579601a08804`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d4aa218-3148-460a-a31a-45921e70a956`
+  - ID `url-be377e57cc452fd6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0d77c47b-2c31-4713-a764-8957c171ced2`
+  - ID `url-c035e081bc76ff61`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0da88245-b544-4d3e-969f-92b5d707d00f`
+  - ID `url-280406346792ffb9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0dab2d2f-b06d-4d99-ad1e-a7908aeb8de0`
+  - ID `url-1771a16eae768358`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0db2750c-8da5-46e5-bed2-39186fbf1ac3`
+  - ID `url-f20eef919c0e9289`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0dbe70da-6d6d-4318-94f6-31547267b4ec`
+  - ID `url-6419343423277197`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0de89b62-60a5-4c6e-a801-cd5e2b6a1ba7`
+  - ID `url-a0b4914cb4924ac7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0df7ac1d-ec21-4905-a9d4-189d57614967`
+  - ID `url-b1f4a7d3f6bda3bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e101b96-0638-4265-b0ed-7813bb6b03df`
+  - ID `url-6a33e1f220894341`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e4b2763-6504-4f61-bc65-79cebbe23222`
+  - ID `url-9083e0c7924bd45a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e52154b-be75-49ce-9a55-2d7229ce9999`
+  - ID `url-c3ae239da3d8b5bd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e537df0-ea7c-49ca-a02d-7dfc854c3c7b`
+  - ID `url-ba9108dbdba80506`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e9b1e6a-ee1d-4ddc-ab19-33e5a5a7ecf2`
+  - ID `url-055407eadc3cfa97`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0e9ca845-6988-44a0-bfea-4b71df14cd3c`
+  - ID `url-65cb0a2bb2993171`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0ee72518-4405-45fb-bd38-bbdc2211d383`
+  - ID `url-66697597f1a8c147`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f073bdd-6078-47b7-9a75-41235f3af76e`
+  - ID `url-397611666ca54dfe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f09acb2-118f-43c9-8cee-cd3622380ed4`
+  - ID `url-03a5968ae7d8047a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f2912d3-a8e1-405a-9a23-df22953fd97a`
+  - ID `url-95ff0d4c42f9debb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f53e1b0-ad48-421c-a70c-d73ff5ff9648`
+  - ID `url-f8f76e613f7c7444`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f60973d-d7ef-4e69-9488-f020c222d1bb`
+  - ID `url-93731845708e075e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0f7ac5ae-7186-492f-a7fd-4708455eb5ed`
+  - ID `url-c84596ed8208b338`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/0fda143b-837b-41de-b279-60f3df7cdeef`
+  - ID `url-e9dfb502e622af80`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1007aaea-a1dd-4180-8286-924737f88aad`
+  - ID `url-3422293a4af3bd93`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1017ecaa-5c68-419b-9401-9f159980424d`
+  - ID `url-084f1526a8716360`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/10331070-6a89-4a36-b8de-42c88d4cf0d3`
+  - ID `url-ffab6b30c6ddd16c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/10c7b290-eb05-4520-ba53-839259b74cc6`
+  - ID `url-375b411866da80a3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/10c8fab1-c8ca-4bd1-973f-bce676fa514b`
+  - ID `url-10abdcc90c6b11bb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/10ca53b3-f00f-4f21-979f-03097a42cb99`
+  - ID `url-f48f11dc82f58bd2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1133d0d8-552d-4868-ba6b-5bca190578b0`
+  - ID `url-2ece97c840faf863`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1149b1ae-7c4b-4084-84f3-83b422b9202f`
+  - ID `url-07312bd26f60285b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/115201ab-93ca-41b6-a416-b2ff5ee53d6a`
+  - ID `url-bbbd174c2cd9b475`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/118cc228-7dc0-4081-93d8-e0fa0ea2e969`
+  - ID `url-51c91c94b0626d52`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/119d80a6-a738-4e73-a1cd-3667d1c2017a`
+  - ID `url-503fbcff98f893c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/11b0a455-8c68-4a5a-8819-9ee0e2891b9b`
+  - ID `url-98a226965e4c8a54`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/11b6edf7-aef5-48be-91bc-06e7df4eafb5`
+  - ID `url-59ed25e24c54d4d5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/11bf3ec5-6a08-4e2f-bc37-1c9bde6ffd60`
+  - ID `url-a8772a5631a9dd3b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/12738a27-5c39-4009-94f1-a6115213637e`
+  - ID `url-618a03768cf4c6b7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/127c1ac5-d6fb-49f5-a309-c98620f8020c`
+  - ID `url-0553df6cd3d6c7e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/129830b1-14e4-42e9-849d-18dd077c6e69`
+  - ID `url-c7d5fd9508e43a44`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/12b30723-fc6f-4104-9e1b-ef25f48fae90`
+  - ID `url-4370d57dd05c5946`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/12c9fd09-19a6-41bc-b2b0-199d2206e2ef`
+  - ID `url-c4c41756b43aaed8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/12ff0deb-04d4-4bf6-8334-23980a3c7ab5`
+  - ID `url-31a9a19f30dba882`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/13c4863b-e149-49eb-bb49-fe31f1d9c70f`
+  - ID `url-fc8f9b01adbf8cd3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/13f0cc7e-aa7e-4269-a009-1243345c3251`
+  - ID `url-c57e11689e59cb53`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/140d1c0b-6259-4916-a031-de52c07812ea`
+  - ID `url-e036ec53b1d67778`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/14273ba7-917f-41e3-8e95-0e2980a7e762`
+  - ID `url-10e86283bfcd84da`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/144c37ac-0c1a-4f1e-8c8d-1b6c2fd9408f`
+  - ID `url-c7b210a140a024f6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/14bf9e58-c74d-497b-b4f5-c03cd946c1e3`
+  - ID `url-f896e165856f6311`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/14ccd51f-5ef7-45ed-9441-11f85ebc3296`
+  - ID `url-1adaad3a2473313c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/14dd4d5e-6a34-464e-ad7d-d1a0ab47197c`
+  - ID `url-c2a6dd0fc8775226`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1585d0f3-bd79-459a-b3c3-c1b2f115aaf9`
+  - ID `url-82a7c4d9db4d5faa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1634af50-5bd3-40c7-a948-f1e792153818`
+  - ID `url-3acc568a1e36b5f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/16a08683-b5bc-42d1-9952-9e22d74bf6e8`
+  - ID `url-35a7e22c3cc352a6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/16b1b4de-354e-455c-9d83-c974bc7958ec`
+  - ID `url-86695a2f3ca4cb87`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/16b7764f-a5be-4598-9294-6b04747632e5`
+  - ID `url-8d0e8b064686e9e8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/16fa2066-6a6c-4e88-823f-a7ce8ed38b53`
+  - ID `url-21dcafde9a6d49fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/17423225-79de-4e01-8929-238240e612fc`
+  - ID `url-6cf6506546332d46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/176f90ce-869d-4b0e-ad9c-02350f194df0`
+  - ID `url-39a82cc4cf45d419`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/177a2671-5d4f-479d-afaa-f0ac22294464`
+  - ID `url-a93d9021468629f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1781982c-9274-414b-acec-ba2329db393b`
+  - ID `url-cfde813801624821`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/17b0112e-0508-427f-9c59-9a65f4782876`
+  - ID `url-bd2a4101bdf2d163`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/17d5bd3e-6a21-4f51-b92e-ccb876a15722`
+  - ID `url-28e7e152e9f7a0f7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/17e3f0d0-9f68-46be-b769-7389db999b15`
+  - ID `url-a8122f348af51838`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18577f55-fbf5-4ec1-9cd4-35e0e68d3f0c`
+  - ID `url-be0cd7adece82e5e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18976ef6-7c92-4925-b8ec-1c854bc28163`
+  - ID `url-a48c5f443711068e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18a180d1-97bc-4786-89a4-2446ee600fd9`
+  - ID `url-65fe3a32281cb847`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18b61633-66de-431f-88b8-cd02d0c9f3f6`
+  - ID `url-423de3263c57d279`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18b8213a-1ff7-4a0d-bb52-5b507cd63be7`
+  - ID `url-5f606bb5cd13ccea`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18cb5daa-3b6b-44f7-83a0-1050cfd1910f`
+  - ID `url-96ca83887c0546cd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18cbe1c3-2bcd-452f-9879-ec206e16cf7a`
+  - ID `url-783f631f676a3caf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18d4c127-2f8a-456d-bbe9-85915b9950ac`
+  - ID `url-1f474be880d3aa7d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/18f7a381-2d51-4ac6-80c2-2c7c5fcb8f38`
+  - ID `url-e802c8e7e8d44471`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/191ea22a-b1e1-4004-b6bb-0398a9dba7d3`
+  - ID `url-418cf6126c0ae70d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/19364f72-d667-4737-9cb0-f4c61d0163c2`
+  - ID `url-ca3e32db94a1b718`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/196ce075-a637-43c6-bac8-5e6859e4772b`
+  - ID `url-0078b930a79d703a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1976b4a1-9811-4618-b2c4-c9d439e7595b`
+  - ID `url-a8529abc39b02db8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/197cd2fe-2d0c-4b91-aa86-cc39fcb2eef6`
+  - ID `url-d23942472b2f0d6c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1993ea88-c95f-4c54-823f-29b3b76463a8`
+  - ID `url-d64618230d3b79b4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/19d88fd9-64fe-4e65-ae1e-d2a02d5cce36`
+  - ID `url-a056210c5102d5dc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/19fb291c-67da-4d32-a86b-7b70e2dda47c`
+  - ID `url-c437d4743c954948`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/19ff8312-cc4d-4ff5-8aa0-8b89bd6a7bf3`
+  - ID `url-e746339efbdcaaef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a0be44e-98f7-4632-8970-6395ec7a52a8`
+  - ID `url-3338a6d9a9c107e1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a10befe-f22f-4afa-9892-39eb3fde0bc4`
+  - ID `url-117e2cfd1edadd5e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a1a0d22-a8e8-4a38-9a57-378695f4ca08`
+  - ID `url-01bc65b1e26b301d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a38a171-6713-4867-b0c0-2da55f80e690`
+  - ID `url-caf2705765d2c2bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a626736-a2f3-4de4-8a35-774967af24ab`
+  - ID `url-02497729e4e187b6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1a7028c0-154b-485d-a4ea-f4379cae2d1c`
+  - ID `url-9f3841e151acda30`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ab5fc62-62a6-4f35-ad26-85b421703f45`
+  - ID `url-ae14d6b1b086543b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1acfa672-3baa-4831-8244-49d7e75fcf84`
+  - ID `url-487cfd3df9363354`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1af9e625-524e-4f87-9a56-23ceddd28e0e`
+  - ID `url-38c45d89fe3cf636`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1b0c7c76-6516-4faa-baff-c2b12a7d9c83`
+  - ID `url-19f235cbc6ecd04b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1b0ffe47-732d-4dc2-8668-cddd2c54edcf`
+  - ID `url-6530ea1ffad575f8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1b288f8a-7c5e-4eaf-a663-0625d68fea8b`
+  - ID `url-2dbcca58ebf9fa72`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1b564104-4cd0-401a-929b-eb5ad9520b99`
+  - ID `url-a2d1ac6ff20f9a08`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1b5cc9a7-635b-4b4f-a353-e90219566946`
+  - ID `url-e5bf1fe214ec4b5b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1bbe2c5c-2cc3-4767-a825-e436ae5a5f81`
+  - ID `url-30d0243ad71288b8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c05225a-ea54-41fe-b66f-4d01c95f8c86`
+  - ID `url-14087d17f8747902`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c087971-073c-49d3-a9da-542920267134`
+  - ID `url-30bd9e2b2c76c34b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c2375e7-cd1d-4b28-825e-370a86b4fb98`
+  - ID `url-ad91f19af246a5f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c3ae386-9fb4-45e5-a21d-d1371eac7df1`
+  - ID `url-bcd980146c0d07a1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c3ed15d-fee2-410c-99f5-cdc86fa03eab`
+  - ID `url-cd39a08c1be156d9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1c93fd31-9df1-45e4-8c0c-351473d38f36`
+  - ID `url-8c73ad589498b745`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ca4f855-61b2-4022-8109-a994423f2aad`
+  - ID `url-7e8eeb9ff3da8dbc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1d14cd98-40f6-4dc5-a2b2-43957ab94f0a`
+  - ID `url-f1d3491088ab3862`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1d4f4a2b-4dd3-4e90-b396-764eba54220d`
+  - ID `url-12d71515b9dbda85`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1d9b5925-477c-4af4-ab0b-04cc30bb91a0`
+  - ID `url-8f23f655e948b38b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1dbd198e-a343-4357-ae50-db033c8f4225`
+  - ID `url-f308187a6a1a8590`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1dc6f2b1-0555-4cb9-953b-e205a9a27c98`
+  - ID `url-3f3d26573dfc1232`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1dd01234-4c91-4117-bb27-2f77dae781b9`
+  - ID `url-d1d7fe09805196e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1de0da61-55dc-4222-acda-8ae98521445d`
+  - ID `url-5dcb19421bbd8d07`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1deb00f9-895b-4774-b2db-cbfba68a0dab`
+  - ID `url-8ffbab817894c658`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1e53db8e-3c14-4669-9b83-73104a4f1ef1`
+  - ID `url-df2da3cca2a4a04d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1e54cfa3-b29c-4d4c-b018-24f0873fd0f0`
+  - ID `url-da1cd1e8b7d2c22e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1e5c12ff-2f3c-47db-87cd-6cf34b9111cb`
+  - ID `url-678422e2214d5096`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1e73ef72-bc54-4d3f-be16-7fa4607e621a`
+  - ID `url-fb3fe58f1d1b882c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ea440ca-5ff9-4c9c-b9db-c7cb97cd9c00`
+  - ID `url-3f981477d9df3131`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ec996a0-7566-42c9-a2a1-9dc1f99060ad`
+  - ID `url-95b7d19968f20fd3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ee4ab87-8a11-4acc-91a3-13ebe4cb693c`
+  - ID `url-0731dff45b258db1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1ef157a5-aba4-4ab8-8e55-0fbcbc5c496e`
+  - ID `url-3265eb6586c7e245`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f341f85-681c-4312-9809-db012a73dc81`
+  - ID `url-34d4d7a4b1dd2fcf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f51a900-9ab9-4a59-8cfe-1a0a57affbbf`
+  - ID `url-63eb42456a7e3d81`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f6c1ad5-2fb6-4bc8-a1a0-0255981cb651`
+  - ID `url-80d58b3b187b9a0e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f80ebe0-2cc2-40de-82a1-c415c5e4a217`
+  - ID `url-cad4e43288d0e6f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f84b91b-6ff9-4a7d-93ee-83e86ff30854`
+  - ID `url-78f16acf5c9dded3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f87beb2-239d-44b0-86ba-b8316f68f750`
+  - ID `url-13f296b83b3950f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1f946449-cb32-4d3a-b5d2-4572bc86db9a`
+  - ID `url-39d5e5795a0b43ad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/1fa617d7-2e1f-4c28-90cc-6627a0af34d8`
+  - ID `url-6edf737a522bdad7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2001e1bf-246a-447c-8be1-6bb235a9d31e`
+  - ID `url-03e32c16d087f49c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2042a179-e715-447c-9848-476f8389a09d`
+  - ID `url-beca6eb980a454db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2097d42c-84eb-41bd-acdc-0c99e5e554de`
+  - ID `url-f23b48839eb201e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/20a0d027-1774-410a-a25e-ea3d2b7a3c6d`
+  - ID `url-701ddf3ce1c63d2b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/20a8ea6e-c890-4679-8aa7-c8e1a6acfbee`
+  - ID `url-0fde7e57a6bfb394`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/20c33923-9129-47d8-881a-19a9f1b0b0d3`
+  - ID `url-37614e05e9b05aea`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/20cfbbda-1527-4698-b638-8e6766ce8736`
+  - ID `url-8a0430cf1637f799`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/20d6a9f6-32a1-4810-8083-15a6880e5398`
+  - ID `url-a78f512c49aa5c0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/212c4577-d1c6-4518-8f43-a686b14a4a58`
+  - ID `url-a87f296aad9251cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2151654b-fba8-4352-90dd-436dd20d0edb`
+  - ID `url-b03f74407df968f0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/215a085e-2519-4df8-82a2-460dc7ed242e`
+  - ID `url-8d72b67acf88134e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/219f2526-f341-462b-a889-e0676f88ffd0`
+  - ID `url-4324da0a26019928`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/21b91a4d-2554-45a8-915f-e1841eb8cedd`
+  - ID `url-30bdbabaf4f5cce9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/21f81706-288c-43a5-8040-f26e376b6898`
+  - ID `url-de63bbac0b76fb62`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/22108a1f-827a-4c66-b918-c541dd65a272`
+  - ID `url-98550233c76762a9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23108f34-86c0-4987-bf19-484c1c7a0c5b`
+  - ID `url-aee05c81c1668cf1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23550099-a9f0-45e1-a4d8-0a0ce4bc585c`
+  - ID `url-b0de0c30a2421f9c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/236f877c-1579-48e9-b43f-7cf376256bb1`
+  - ID `url-c5c137f00534e6db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/237a8447-9d43-41f1-8d74-1d6f0ab9523a`
+  - ID `url-40e5aa482b6a5126`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23860187-4210-4443-9244-a107bfc4bc01`
+  - ID `url-49c9b0ad440c83b1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23b502da-0bf7-4eb8-931f-dede3abbd940`
+  - ID `url-b095002b191a7b10`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23e7ec55-ca4c-4b82-ad29-dabe966d9335`
+  - ID `url-737410442b656f81`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/23eca5d1-3a85-4603-8a3f-794b079bfb64`
+  - ID `url-419e830177d53cc5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/240d26a4-1f96-451a-961b-fc7c3a039b70`
+  - ID `url-3a8803b418a5561f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/24207bd8-5164-4530-8bc3-f4483ba8f3ef`
+  - ID `url-e8e7182feec3402f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/24383fe2-9327-4396-a91d-59b989367353`
+  - ID `url-a7bee1d79e501d53`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/243a6ee4-0cd3-43c4-8f89-ef364cb19bb6`
+  - ID `url-0c79da0e48cef888`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2448d705-0da8-410c-95b0-f0a9fe7b83d3`
+  - ID `url-82675d537b682946`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2448fdf8-b484-4a9f-9b7c-cce327640769`
+  - ID `url-334ad1679317b18d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2481f1a4-3388-4577-8cd1-1460b6d7713c`
+  - ID `url-b2ad0b89723b1653`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/24a4638e-fec0-4136-b33d-ba88e3fa46f4`
+  - ID `url-9e10e0a8fe8eace0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/24a69839-9f3c-48ac-9559-3f24074e0eec`
+  - ID `url-4745b43f72af62fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/24edb32e-95a2-4b9d-92be-80a8f0dcd3ca`
+  - ID `url-e083351e91a073c3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2515d251-4e9a-4220-9e86-292995e78001`
+  - ID `url-5359a651f3c636fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/253c551c-63d6-4d93-9dd9-152354089394`
+  - ID `url-62d4160ae31fbd57`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/25a8c764-2e2e-47e6-a6af-f99c0cf26c55`
+  - ID `url-7d038c8e5da15a01`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/25f00255-ef0f-435b-9e4c-7dae9f7f4949`
+  - ID `url-dd9c1cd20fe3dcb3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2647268c-9b34-4b27-810e-9f98fdf24b5c`
+  - ID `url-8ed1c975c86319e9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/264b6ea1-919f-4f52-aad9-f327f2c7e5fc`
+  - ID `url-25752976df37af3b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/27105a07-0164-4c9b-8d7c-28db51bcf75e`
+  - ID `url-6cc097922034ed65`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2714fb19-1725-484f-b348-811ebda0d9c2`
+  - ID `url-50e175d574be4819`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2737ad92-8c0d-40f8-9c07-599d608af11b`
+  - ID `url-e5a53b05caf1cb63`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2743f34c-d85a-4eb5-b605-50cada4de5b1`
+  - ID `url-5ffb67093f82065e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/27460c65-0a11-448f-8fe8-550669c2759a`
+  - ID `url-8d48dfca196cb6e0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2748e04a-7fb4-4046-a3d6-da8969abdbfa`
+  - ID `url-afbedc907246c960`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/276d1819-9d05-4737-a65a-d79e91df2735`
+  - ID `url-ff7caa9bba731cfe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/279bc5e6-fbef-4ccc-8935-f10acdab9b34`
+  - ID `url-5fd06dc637809408`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/27b0f4fd-4b0f-4af2-b7df-4ba39c59faa0`
+  - ID `url-1a6ae13261c94b83`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/27f4e71a-e40a-44c6-919e-9a676aa1244a`
+  - ID `url-bba7df7e654a702f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2816ee6e-5643-429d-8425-c3e9db11820e`
+  - ID `url-13c6ce4d89a17db1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2858c68d-4b02-4e2d-b060-35829c940f13`
+  - ID `url-71f8e5e364a8ebff`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/288088df-74e9-4221-aa89-36831684d62b`
+  - ID `url-289ef66af22855cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/28c26308-a7de-40ea-81c1-f4ee53625cf9`
+  - ID `url-4ce8560ac85cb8c0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/28cb79b9-f706-4ed2-9111-ff0c4fb52f2d`
+  - ID `url-04c15f773034ac1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/28d2ca54-c851-4dcb-985d-742aff27658a`
+  - ID `url-7bf530f46d1cc6de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/28deb354-d524-4c70-a2a0-7e65de585d59`
+  - ID `url-c44d10394ca63ec8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2918a440-20dd-43b7-98a3-8e677b65a88c`
+  - ID `url-a9f26112dff6daa2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2939807a-1664-444c-b318-62a03c4d560e`
+  - ID `url-2c352c2b5bc87677`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/29705e36-e1a5-4852-911f-b68bcf4c02c1`
+  - ID `url-200115c715d2dbf5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2970c22c-45f3-4d7c-9e0f-2d01fc8dde14`
+  - ID `url-57b2c768df45fe44`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/29dafd3d-bac9-4686-be32-8004925d3911`
+  - ID `url-0a690906da98fa9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/29f7c902-9317-49ae-a06d-057801410f97`
+  - ID `url-4c907551bca157d2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2a086f86-efd2-4609-9c77-40e1e8500948`
+  - ID `url-70d629a3cddd97ac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2a182df1-0d86-40bb-9a17-d5d51beeef5d`
+  - ID `url-ca91726cf81f7a07`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2a3f432b-b7fb-4faf-a7fd-d7a5316773e2`
+  - ID `url-037beefa37541ca3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2a3f74f5-a592-49f6-bf05-07959d4e07f1`
+  - ID `url-2a145289b9864a0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2a82a7ac-b67a-46cc-8893-933890d427e8`
+  - ID `url-f1b07217b15a5ea1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2ab1fcad-b5e9-4289-8156-3078dd43832d`
+  - ID `url-ee9e359af5760b78`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2aba00f8-e30c-4949-be1c-e2d41d937825`
+  - ID `url-52814bd6bae7bc42`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2b0fbfa0-e6b9-442c-8ff5-ba23b1e93db7`
+  - ID `url-7c1ac002b770eb0a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2b3c0c4b-0aee-4d44-a352-e38b510d6ce1`
+  - ID `url-79861b3cf229d083`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2b4fd26b-8527-4b7a-b25d-09e2318cd9bd`
+  - ID `url-3e97df9c4b44e831`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2b6401ee-6a38-412a-b8bd-66d995ec79c2`
+  - ID `url-400e9d6c8ef783c5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2b89ac81-4bc4-45c3-b3cf-273ea9bdf970`
+  - ID `url-2003e9a1e7ffc1ae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2bc7b96b-d02c-45fd-acc9-0e78a9342aad`
+  - ID `url-5ecd363578ee195b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c110d2a-a219-46d9-878a-7913bd09d033`
+  - ID `url-f537eb9eccd78ce2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c3a4620-f8e3-46d2-946f-2a58573a2066`
+  - ID `url-fee40c410cf41a9b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c5b3d92-a0a6-45f9-af00-43cf537cdde3`
+  - ID `url-d058d5df4a6b0a05`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c653518-1088-429b-ae5b-777f0f12c27f`
+  - ID `url-4cb52bba924d3572`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c66741b-e6a6-4d90-b267-81aed8979794`
+  - ID `url-47f0fdf1d09566d0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2c93f21d-d853-4b58-aa88-95f3926e12aa`
+  - ID `url-2faf7302d6b16fd7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2cabb3ae-8b63-4ccf-8d77-2718c7ad6086`
+  - ID `url-ca7a2bead44e7d8a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2cb9a0f8-3751-42c2-9774-3c5ec4a97d10`
+  - ID `url-e160071a13cc7b8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2cfe96b3-668b-44d8-91e0-19cff7573d72`
+  - ID `url-90d8dcead3061df4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2d5919ab-87bd-48dc-a82c-74c060e25fa0`
+  - ID `url-a9423b7d12adb5a9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2d6e8481-b4fd-45fd-a763-143a737b837f`
+  - ID `url-bc03361a65bc6375`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2da06bf5-4b51-4688-9361-3353b0c0648b`
+  - ID `url-0cb37f10f276247f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2db06696-3d56-4e9e-a8ea-e1e610c61ef1`
+  - ID `url-0d8ac56e7e894960`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2e12b97c-661c-4476-993d-694e53b5d9f7`
+  - ID `url-f710e93c5fa76b61`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2e3e3f29-60c7-4c45-9e5a-45a7afb4a61d`
+  - ID `url-f5178c9893070abb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2e8ef7cf-9c35-4e7e-ae96-9417fbdd40c0`
+  - ID `url-819d5969f33068c3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2e985411-5620-4e3b-b19f-705694bd86fb`
+  - ID `url-612b8dea98a7257a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2ee0af0f-18a1-4eec-bcac-45847437e530`
+  - ID `url-14bcdb9d177b8188`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f2224b9-535b-4085-b173-c469ea523fb3`
+  - ID `url-d15682939613f80f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f2e11f0-222f-4366-a4e6-f97cefaed97d`
+  - ID `url-db26e09485995aba`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f2e34ee-2e7d-4fe6-8433-261ce9469a1c`
+  - ID `url-fc9d16f2e22533c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f35a2e1-7df6-4db2-8c6d-c645b2c816dc`
+  - ID `url-b89ef0ae0aaaf9c9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f85c2b9-e176-42f6-92f2-605f61c953fa`
+  - ID `url-5226eef41caf12ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2f8c1eee-4923-4aef-905e-b3715d7e0a1a`
+  - ID `url-65fb020267b362bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/2ff45fd5-627c-4c4c-a18e-5c903c4c8c94`
+  - ID `url-5d304f13ea7aad52`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/306e54b8-e3ec-4357-824c-7e4ccf04a5eb`
+  - ID `url-f3184381dfc50f7b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/30a1e2cd-4203-4e54-ac2c-e21d6d2f1357`
+  - ID `url-809791708b5994c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/30acb431-7e55-454e-ab2e-903c7d9f7f48`
+  - ID `url-ce708eebe072470f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/30ed2943-cf29-4494-b8c0-ba22b3666884`
+  - ID `url-3a80f2800971ac4e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/30f21c42-db45-4efe-b882-db23b5014f35`
+  - ID `url-dfc836021c934494`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/31078d79-21db-4bce-9853-e4c8c770aaa5`
+  - ID `url-0462348cc7dd7dae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/31281cb4-eb8e-4cae-934c-7b81d9a595ec`
+  - ID `url-027e93adecb60d2d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/314af1c4-f569-485a-a594-51a7de6a96f6`
+  - ID `url-5f7c1e868526b71d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/315707e8-8510-4654-b7a9-94ea137b15e0`
+  - ID `url-47a0231fcab6b42b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/319ae3aa-1563-43d0-ba22-f9428c0f1070`
+  - ID `url-331ff53117f09a9b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/31e99a1f-7029-4dd9-bb54-3ac67d857a01`
+  - ID `url-0ccb9017b7012a3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/31fa9b6a-0ed8-4a9d-922b-5e934ecf9f9d`
+  - ID `url-be0d45d0df1df942`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3200c479-742f-45f4-99b9-a8ca21c0fb54`
+  - ID `url-12ad7bfb66793db1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3223c726-feb6-43d5-99bd-89aaeb29b882`
+  - ID `url-9e0f562fcdbf79b0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/32874cf3-6b9a-4ddf-9907-17fd1aac23ef`
+  - ID `url-a8f59f6b90596f6a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/328dad8d-ab7a-49e4-822c-bb81fdb0a8be`
+  - ID `url-209895b1679bf7bb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/32947d2d-d1ea-46fc-b6c7-b5be1914de2a`
+  - ID `url-ac61d3c41edcfb0e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/329b7b7c-3870-4a2f-af28-ec6275fd80e8`
+  - ID `url-e23e4b5bcf5f5933`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3322e9eb-54ca-47d8-96b4-c6f7cd2b3b68`
+  - ID `url-c0f16740d39b3513`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/335c9ee1-39cf-4b4b-a35b-70db59fc0a42`
+  - ID `url-fe3820f27c9cdc48`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/33e98315-e09c-4542-9c04-9523539ec884`
+  - ID `url-f4f37a108aeb4d4f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/33f65fb7-be5d-4f1a-8d4c-6b831621a342`
+  - ID `url-f56afd44c4879125`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/342de0a8-8e90-4ed2-b036-fcee689080ed`
+  - ID `url-080f1eac05641751`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3435c058-c635-488f-9999-a31f8901748f`
+  - ID `url-af13500e331f5e3e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/34a84023-c846-4380-9d99-f11006cdcdb9`
+  - ID `url-7938d7caed2ac677`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/34ce9108-0ca1-4c35-8763-ce34757b9576`
+  - ID `url-b97058c5ec4f9aad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/358191e9-e988-4c58-ac78-7e3a8bf31685`
+  - ID `url-e27ef77eb1186f36`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/359c76df-efeb-4cc6-ab6d-90bf843d9322`
+  - ID `url-41b523ee46d65bd0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/35cab0df-85dd-4650-a2ff-e4e4b40fa5cc`
+  - ID `url-3ec29821f4311516`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/35e0457b-0065-49cc-9185-f57039ab452c`
+  - ID `url-85fa1e34cd5420f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3624a031-6361-44de-9759-2589bf19cf2b`
+  - ID `url-14fc76bc539fcdc4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/36951c45-5372-477e-bbb7-00e88750511d`
+  - ID `url-8caa1e9fb0889c4d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/36b33753-8deb-433a-8a2c-de52f5b71944`
+  - ID `url-3b6cd2a83f7562a5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/36e04896-6973-4c22-8418-e663768c4363`
+  - ID `url-29de8c5a44f36812`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/36e843bf-87b6-460b-9002-925517e566a6`
+  - ID `url-89bd7ddd81b7ccab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/372b1d8b-e7c9-49fe-97ad-6e06ba270a63`
+  - ID `url-07e781fe75ff6884`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/375a837a-c6c1-4d02-b325-310d8d884b6b`
+  - ID `url-a76dc5b1a7d70eca`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/376f2e35-d820-4305-9b9f-d5586f6d5eb9`
+  - ID `url-82fbf6a438254a46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/37c153c8-a72a-42f2-b183-d36052a0234d`
+  - ID `url-943cbf17e98c7c09`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/37f7e5b9-6305-4dca-9616-297f178ae83f`
+  - ID `url-3f1860f2bf398ac9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/38171938-086f-4a73-b2b1-c77bf0a8ef3b`
+  - ID `url-a06afbe310d56522`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3833bf10-4801-4136-a30a-b30a871d193c`
+  - ID `url-c712145176c43dc6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/38603771-361f-4245-a82c-8da07e8c97a8`
+  - ID `url-34cfb86f294dc304`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3883ae73-33b3-4199-9c98-72b502b06724`
+  - ID `url-6eef259f12c306fe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/388f3bc7-43a3-4720-a4dd-2134b0d3bce7`
+  - ID `url-97e5340ca8d14112`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/38947ed6-0b93-46b0-9851-48401fbcf734`
+  - ID `url-e95355b785ddb754`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/38da5fb6-4a29-45d8-8eed-7da2f23408fd`
+  - ID `url-5345a06cd04e55bd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/38f4367b-5206-4ad8-9460-746b0e754acd`
+  - ID `url-e6c0a05230bf3ead`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/39027dd5-47c4-4efa-93c2-e4c19c0bc6c5`
+  - ID `url-56f3b5379593683f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/39b99a98-36a4-4c2b-8614-dbb4be5ab813`
+  - ID `url-fd3e0675df608c99`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3a7ab8c3-7e6f-44ba-8dce-d978406a3a60`
+  - ID `url-07ce5ffe88e423f0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3a7b566b-b866-4fb5-9804-34b68f1b7be8`
+  - ID `url-8f4ebf3c99ea113b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3a7d6ee6-5711-4d72-8539-6057595044bb`
+  - ID `url-9ddb8232cdb7745f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ac21b5b-0fd4-4e8e-a192-f31f95541a0e`
+  - ID `url-c1ae2be5ffe83922`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ac610b9-9511-4ca9-927a-d5f777786319`
+  - ID `url-ab26a03356e26d8b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3af6239e-823c-4c54-8a16-2c868037b07f`
+  - ID `url-684aff3b51e7d805`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3b03c357-9b3d-4832-8243-892af86a1bff`
+  - ID `url-9e65715a70cc96ab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3b0ab20a-01c5-4d19-9a3f-b77b04dd2738`
+  - ID `url-1bcc691b34a33400`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3b21902f-4d5e-415e-81b5-7d4f7a7cf046`
+  - ID `url-44f949ad450a353e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3b389a9a-545c-4ad4-9c51-2ccbadc2e68d`
+  - ID `url-6d643265fb1b0088`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3b63e06c-980a-4448-b9f2-08dd8c73ec5d`
+  - ID `url-2448fa887d50bd07`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3bb39a68-ba5c-4356-a032-abfc64c8ec29`
+  - ID `url-315e5ff0e71fef13`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3bbc0b4a-f83f-4318-bc8d-31ee39be349d`
+  - ID `url-cb81e350d5068b9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3bbd83b0-3ce5-4fc4-9b79-e31fd4c828e2`
+  - ID `url-7c9c9a4fb505ab0a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c183688-1231-40db-83ce-b2c63005ec67`
+  - ID `url-b79fc388772d0fa6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c19192f-8e23-4d24-ae3e-24e115a217fc`
+  - ID `url-87360f2ec2981426`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c2ee033-cf98-4315-baa6-7d83b73d6615`
+  - ID `url-0f20379abd71e566`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c41454d-3600-4a82-819e-bff939b7eb9e`
+  - ID `url-7299f4dcb8ac84db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c542175-08c7-4e88-8545-6a3f24b515f8`
+  - ID `url-f527058b48aac14e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3c874451-8bdb-4c7b-9e0c-36d98fdccb0c`
+  - ID `url-7e8d44873c403a49`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3cbf668e-6256-414e-b4dc-27549089a725`
+  - ID `url-1cf2313612c63510`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3d791f35-0d17-4f80-b711-cbf7847e2ea9`
+  - ID `url-cea590b0143ecb42`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3dd5cba0-7b2a-47b8-ad70-5be18b95fcfb`
+  - ID `url-86be730d51f9e6ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3e168ffd-3956-421e-a104-e80916435a3f`
+  - ID `url-17fb4cf2dc0ae027`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3e3b145e-5e68-432b-b05e-36df7881464f`
+  - ID `url-4e54b67e8af0c9f2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3e9516a1-80b6-4de3-8ad6-f778c591cc07`
+  - ID `url-00c6c375184517a2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ec7eefa-88ed-40bc-b592-cef08119eebf`
+  - ID `url-ec4c155de854a688`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ed6f754-9bf2-4f16-94ce-77c2b78ef295`
+  - ID `url-e03c8e67410a86ef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ed7a67d-91d7-4cae-a9d9-ea14108a25d8`
+  - ID `url-5c2f037ee8c635e9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3f4476dd-8cce-4946-92c2-3ae28e4e48c7`
+  - ID `url-7633a9d0c0290fbf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3f492e77-b302-4b05-aee8-63eb8eda6f94`
+  - ID `url-914f784576535351`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3f57846b-0425-4cf4-90fa-b29a829f530c`
+  - ID `url-468dc69f899c8c3c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3fc1b183-fc7a-4183-bf52-6fb9dbe462cd`
+  - ID `url-601f955f1878748b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/3ffbb04c-3946-4b13-90b8-9a6ff59905e8`
+  - ID `url-fa1508474a3bb6a0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4056b144-3b2a-4da0-9f41-698a819e26b7`
+  - ID `url-b924efc25a340d23`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/409293a6-7285-449d-8533-b65d26d5de3a`
+  - ID `url-f84547b82a083d8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/40a22a9c-b16f-482d-8e6a-80ed86f26a0a`
+  - ID `url-e6c610c77dc33bed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/40a7aba4-4b6f-47e9-98d7-c8efca641766`
+  - ID `url-d98de1f9ab6e97c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/40c5c721-f28b-4607-8a23-ee72e71c4227`
+  - ID `url-9f245275033d9253`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/40cc9b6b-4c6d-4aed-a6c0-151ee3b82b87`
+  - ID `url-ea42ccc83afccca8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/40d5fa78-95be-4854-9333-137cb44d546e`
+  - ID `url-21e4c63f63592efe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4150a7b2-2781-4592-94f2-e20b5164e5ff`
+  - ID `url-96b44eaee47c5fae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/420be953-06df-4887-8b6e-417e26f90994`
+  - ID `url-90ab13705a2d63b4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/420ea8ed-5d85-4276-87ab-a8d51ec4e946`
+  - ID `url-4bb2be2c49aeb137`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/421e73a1-96d4-4c84-b7b1-eb03bcd11ce4`
+  - ID `url-006f78f7dc4b6f45`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4221d44d-fbc1-4bdb-a17b-4d6bb457bfe5`
+  - ID `url-fb9d53a1dde09c35`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4231c44b-5287-4aa9-b9ad-57d8f66eb808`
+  - ID `url-1c2d3ae2af1da59f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/42506b08-8802-4c18-bb61-a24813052b28`
+  - ID `url-f5995a4ef2bc7113`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4266624d-7722-4244-9799-884e47bce8d9`
+  - ID `url-f8c1d1b2e7fa0c17`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/428d2c51-2862-4a86-81a5-d04ba04fb264`
+  - ID `url-9db5dae391d2bf54`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/42b34427-7b7a-4a6f-8d47-7861c7e5c127`
+  - ID `url-983c49f099d3cfa3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/42be3ead-0fef-4fd1-943c-7b16f44b27c0`
+  - ID `url-d8f9f9c9dfa24707`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/42ece133-a5e4-4fca-bba0-ad8483d1cd45`
+  - ID `url-48cd2b757fc4ecef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/432b4185-ba70-4587-92e7-fbefae97bbea`
+  - ID `url-c7f00b59b5d5e939`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/432f5723-048a-4494-9982-1339719c0909`
+  - ID `url-234c472f6d5c0fad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4393d4a4-8902-496d-96a5-725d50c4f0f3`
+  - ID `url-71ffc7a0ca0bb818`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/43eb382b-c957-424d-a6eb-791f3c62d567`
+  - ID `url-ac8c39333a8beb95`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/43f3bf0f-fc46-4272-93ae-45c4eb7645ac`
+  - ID `url-da2b4b9c4c8f101d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/444a6a4f-c6c2-49dc-8faf-a9e852486cd2`
+  - ID `url-2138b3473c3e71e8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4464a3ca-1e0a-42ea-bc5e-431cd6fb9e20`
+  - ID `url-a8feb0dbaa8ed26c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4471b0eb-127a-4eed-8403-7a3aadaf24e4`
+  - ID `url-c6254f11921de274`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/447cc50a-342d-4663-a855-c071246a512c`
+  - ID `url-9a3899d5db850153`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/449609e5-1e49-4b0d-9214-1a3e70c9698e`
+  - ID `url-fe0672842934a478`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/449a96a4-2ed4-430e-96c9-a51dc8c4e390`
+  - ID `url-e4351b9144ce5c27`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/44b2e47a-dfaa-46ba-82bd-1db590d4abac`
+  - ID `url-36aa05d51a8f8cfe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/44f87f03-8e5a-48cf-aa7d-1cf2f953d951`
+  - ID `url-bb3a494992371e2f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4563e59a-c591-42d7-862f-6a7884aac5df`
+  - ID `url-02bdfdf50ff62757`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4597e6b9-b538-41cc-ac46-905eb4c98e8c`
+  - ID `url-52f9abc4d983111e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/45ca8673-0db6-47cd-92ac-356d18b4ee01`
+  - ID `url-a1588c83397a6257`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/45cac1c2-a5a4-49a6-b675-37ef92a9af29`
+  - ID `url-678a56a16107f469`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/45cc7115-541a-407c-9fc0-789ff01a28f8`
+  - ID `url-4b04e821a59bc76a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4615f6e0-3922-4017-8c07-554f3563d15c`
+  - ID `url-5e14b5b52cd9919a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4646159b-9d79-413e-b435-2310b64f62fb`
+  - ID `url-ff8dd2dd88868776`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/469ef15c-afdc-41d7-aad1-a19082e6cb79`
+  - ID `url-5149a1d5d3458c08`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/46e25c27-43c5-4ab5-89e4-7cd9e02683c1`
+  - ID `url-832f12e9d30f9f33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47228c57-8520-4c72-b1e8-b32f22fbd3b4`
+  - ID `url-d8521e88c7dec345`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/472dc5c2-f860-4cd6-abc5-c5d2869fe764`
+  - ID `url-53860d3932a36b5a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47868f59-c95d-41b4-954a-47a2e3825ea1`
+  - ID `url-a1dab97e0ff8d72f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/479fa3a3-e5e7-46a6-9703-6d7e1dbca628`
+  - ID `url-5040ad4621c5826a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47ab93d3-3a7d-475d-990e-c9b215908b05`
+  - ID `url-1c55ba9068d49110`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47d6e010-3a66-4166-8436-56fbcb8f3c1d`
+  - ID `url-106f273b86dbdc25`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47e2e539-1b94-424c-aba2-75e720fcd362`
+  - ID `url-8b94c9691e05713a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/47fedacc-c450-460a-a335-40b38e1f5ce6`
+  - ID `url-3579ddeb8491e64f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4859a720-f24a-4445-b085-6aa64625af51`
+  - ID `url-42fd64e8c8efd637`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/48cc95ce-4cee-4f66-8fc5-d150fcd83ea8`
+  - ID `url-ad8c53ec41716dc1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/48dfb0ac-4eb5-4e50-80fc-7bbbd548ed6e`
+  - ID `url-de9ff72e92963a40`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/48f3a8b1-a29d-41e3-ab3d-80ccf8098513`
+  - ID `url-f6540b6bbcb65d96`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/490809cf-00d3-443b-bd09-b776eba419c8`
+  - ID `url-0ea6a47adcb20168`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/49321368-de4b-4d78-ac69-b4b9b1578ebd`
+  - ID `url-b9ada0c737aa6b33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/49846240-01be-452b-9520-0a831c5e1c19`
+  - ID `url-c847c6fc5001996d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/49960798-38ee-4e35-9644-a1633fcdc2c8`
+  - ID `url-e70f878dae788cf4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/49f4dd00-8ff1-4288-8e03-81ecad9f8f72`
+  - ID `url-5a17331fd819fcfa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4a22e7e0-f255-4dc1-b083-06a02d29e3cb`
+  - ID `url-2beb2531e080a6fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4a54b110-0186-47b9-b170-968087441cfe`
+  - ID `url-ca1cbf7124ebf746`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4a87418f-4862-4a5e-98f2-8378639079d5`
+  - ID `url-73931ced89c7cfe5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4a8b598c-3f7b-461b-9c93-05c76cf197cc`
+  - ID `url-c52bf8509a8ac006`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4b3625a2-2123-45b0-8ba0-ae730841c353`
+  - ID `url-6bf27c34df38448a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4b5f7361-610b-4faf-bffc-bd7bbfb70188`
+  - ID `url-30d51f3dc78caee1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4b62612b-81a0-4ce3-9637-dce11dd03808`
+  - ID `url-86ddf0c99d87a39f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4b63b34f-1416-4484-844d-54b9e9660b0e`
+  - ID `url-4ec93c52464d9fcd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4bbd18a3-a32e-4213-9bc0-c4aa952cbcb1`
+  - ID `url-e0d076edbe0b4c0c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4bd941a3-6f79-4239-9f0d-67a9b04bd63d`
+  - ID `url-5dc7aa3ac2c4ae85`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4bf08cf3-472d-465f-b3ef-5b41abcd6e2d`
+  - ID `url-ca69b9a19ee7f790`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4c6fd0b8-1250-43df-bb02-9940dd569cda`
+  - ID `url-00e569947dc8e61e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4c87b270-7a4e-42cf-b994-8eee7c5f4760`
+  - ID `url-c544e585c208c1b9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4c8bb0f4-b064-42f8-8d90-aac51d6a86e0`
+  - ID `url-3fba0bef9a8c7a65`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4cb92cac-e56f-4690-963c-c56ec7d29afc`
+  - ID `url-9c9b4570622d429b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4cd10f83-457c-4296-9cbc-2c8826cbfc9b`
+  - ID `url-4392fc2819f7cf02`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d0c85d7-4c45-44cc-bc26-1186ca9d4ffa`
+  - ID `url-deba8855a51b4a1c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d1cbeb2-35eb-4303-87ba-a32b2db17430`
+  - ID `url-d03921d62baa4dd7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d355e96-cd53-40f6-9853-d367a8f8d93e`
+  - ID `url-023899fcd5eb7c1b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d3b3029-0cf5-448f-831c-08a233b6366e`
+  - ID `url-e6613aaef32a720f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d57398f-6627-4449-bc8d-3dbd6dce7276`
+  - ID `url-9145005c4876129a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4d911acd-aafe-44cf-901f-9ad7d12e1d4e`
+  - ID `url-8f7315a97691bc31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4ddc8b3d-2d52-408b-9ecc-c06891a6d285`
+  - ID `url-88c2379696131a71`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4de6de30-8fe2-440f-b817-f37459eb6a75`
+  - ID `url-c51527a08dbc5acd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4de7cf8e-e138-4297-b861-cfd3783c6635`
+  - ID `url-ecd3d637b0d3a25d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e0b66f0-7e83-4363-862f-49e1ba230d34`
+  - ID `url-92db2c3042374609`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e3ec3a0-201f-474d-9356-7a54e595ee0d`
+  - ID `url-ef860778cdea9bf5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e4f3a22-d19f-4bc9-8fe4-737028d26175`
+  - ID `url-a7de3b3763ab6abc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e50a30f-af67-4593-8cc9-f48e47dc3cf6`
+  - ID `url-034370f690a3c1d7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e56d720-0d5e-4a1a-a2e3-33c449ac2c32`
+  - ID `url-e0fee34ff2b112ae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e7aa84a-484e-4195-8444-89df0204ca94`
+  - ID `url-f2452c81b503cd7d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4e7d8db8-1ffb-48e8-ad52-a950e5081918`
+  - ID `url-095a0961c52b0196`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4ea234e7-1062-41dc-8575-b016e9564f39`
+  - ID `url-7affefb4da01f3fc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4ee710f1-077d-48e1-b42f-2da475b8b52e`
+  - ID `url-f565815d43546b0a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4f7c6f45-d60f-4dc5-867b-d07a104e3851`
+  - ID `url-51661259949507b5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4fb8d4d4-cf2b-48ea-8f6d-a0ba311dfb5c`
+  - ID `url-fa4c0fc749aa8b9e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4fca5c22-fdad-48de-99cd-0ac7ebe01a49`
+  - ID `url-73ac5a0acdf9bd14`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4fe12e49-683d-407c-83ba-977be18dcc24`
+  - ID `url-96e69edeae4e59e1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/4fed8abb-9ff0-4e24-a47a-9e32cfec762c`
+  - ID `url-15c7d9b49c8dfaf5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/500e473d-2eaa-4972-b823-12fb9fd71bf8`
+  - ID `url-287555f31635b284`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/502377de-edae-476e-ad5d-41bedb3c1870`
+  - ID `url-9bdbe95bc0e474b5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5046c883-abbd-4f6e-aaa8-8e4302e7cda4`
+  - ID `url-597f3f4ec33a3ad4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5090088e-3eab-4ae9-8ae8-ebc8654c38c4`
+  - ID `url-4d0839ccbfe1e920`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/50edf2bf-032d-4882-bdb9-306abb13df42`
+  - ID `url-48a67cd783cc1442`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/512184cf-f1b3-4620-9727-807516ca6ac4`
+  - ID `url-a14055199647b63d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/514e7ad4-939d-488c-ba42-43390cc32565`
+  - ID `url-42217460dc4181d7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51bc7208-40a5-4186-b698-b25ab456619f`
+  - ID `url-cf4f266d4e0edc3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51ca7fac-09cc-4fae-b902-53829b71122d`
+  - ID `url-9d7d6892f8e9831b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51d549bc-5969-4501-8913-a0836a83ee7a`
+  - ID `url-2f7c5af6246a40a6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51da8f84-79a4-47c9-979d-177f5071daa9`
+  - ID `url-75c35c0fd75ee521`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51dbf99f-da7c-4b53-8111-e16c3b89db80`
+  - ID `url-26df512f74d70d49`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51e5f417-ebff-4b65-b05e-1c8c8b2463d0`
+  - ID `url-9da38ac1c8d3106c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/51f39b9e-5932-46d3-8817-92854cda4138`
+  - ID `url-997a670c33361bee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/522e5041-0224-4028-91b0-5a5455a72f27`
+  - ID `url-1681feee1b3e3781`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5273e05e-4498-4268-a8ae-e11624148f65`
+  - ID `url-ad0bc44ac6818077`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/529ef6d9-c1ab-42e2-bff4-8cfd8b0339eb`
+  - ID `url-8eced9e08855d79b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/52a81ea7-a4a1-40a0-b50e-ec62a2f84f5c`
+  - ID `url-93361a1576f86cbb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/52dc254b-7e23-466a-a594-164000c63b06`
+  - ID `url-32baacaa65646701`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/53a0415c-eab3-47df-9b2d-7bad7e1bfe82`
+  - ID `url-088557e32247d20e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5414de05-05ca-4d02-9c8a-50929cc1ff82`
+  - ID `url-705e866f517c4194`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/544f576c-66f9-4c3f-b3d8-9a3a0d72fc6c`
+  - ID `url-1ad44fd0876ce80e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/546382c6-f8fe-469c-b000-fd5fb1801aa5`
+  - ID `url-87cb08b06f0bcb93`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/547dc7df-193a-4dfe-9a8b-e84b22eaca06`
+  - ID `url-0b866d9dc49afb47`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/54b063f8-35a3-4705-bb08-bab017e1ace5`
+  - ID `url-3e53024950512d30`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/54d5842e-f1da-4b19-9943-4ea88783262c`
+  - ID `url-32022d73520b955d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/55112707-4721-457a-9f72-d3f689417175`
+  - ID `url-aa2056940cfbc2c4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/551672e2-5fdc-4ec7-9424-98a2b223572b`
+  - ID `url-a78b0da0fc612bbf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5537db30-7bcb-4201-b8a7-61e8cacc006c`
+  - ID `url-b6c644e59172fbab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5565f7eb-a281-40ed-9868-5cafc92acdfa`
+  - ID `url-abb67d56b89e02ca`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/559acb50-759c-4ee2-a13d-cd2a0b771e1d`
+  - ID `url-6db77d2aa2cf0b33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/55b5e94d-3e84-4de2-82b5-a4dbe3ca4605`
+  - ID `url-80f4c4a88c0c21d6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/55ce5bb7-60de-4741-9e0f-69eeff6e0125`
+  - ID `url-4c137e3067646013`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/560f4bb0-7497-4ecc-994f-e4626fb9a135`
+  - ID `url-6ef0a48333836b1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5614f9b7-e481-4464-8ad8-a5ed6ffa0abc`
+  - ID `url-2f8f276d813763c9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/561cded7-c972-4252-9e25-65b3c4e20058`
+  - ID `url-1c2a078c75a4144d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/565ce8fa-00dd-4ee8-91d0-609fb1661009`
+  - ID `url-09f0527b3691cdd5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/566333ec-1d43-4f4c-b590-4a56e51af7d4`
+  - ID `url-940c584f02724bd8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/566b6d4a-0019-4302-afb5-0040535e772e`
+  - ID `url-0886ebceb67d2d64`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/566cfedd-5346-408f-aa9f-2896934bcedb`
+  - ID `url-b509d6594059c03d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/574948fb-cde4-447d-a3ca-ee7b4c0f3f64`
+  - ID `url-d1676051f2990cfb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/574dd758-2743-4c92-9654-d069c3c2a2af`
+  - ID `url-9582c165d4d7e58f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5759771e-2a6d-4e27-bb6b-5374a87cb721`
+  - ID `url-66549411a555c948`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/576b4e43-a715-48c2-9070-dee0de658c03`
+  - ID `url-4bfb50e4819eb3b5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/57c01044-01f2-4c6a-96fa-3d50a05ee3b0`
+  - ID `url-866fdfb459d2e389`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/57d89b23-5d1a-4f5d-9eea-733d35304fd8`
+  - ID `url-2cf13d969dae744f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/586ab3d5-d930-4274-bf32-a7a0762ac847`
+  - ID `url-26c759a933988b0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/58954c2e-1f0f-4052-8847-fd68a8a30ff9`
+  - ID `url-decaade876709e68`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/59160a39-6d78-42c1-a3ec-9e18dd98aef2`
+  - ID `url-84b73bd28ef923c9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/594ffb26-6d65-4a2d-8ef3-3e5441f73cbb`
+  - ID `url-4305c66649decaa2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5971d0f5-36bc-4e8d-beb5-9c326f6a23c2`
+  - ID `url-e5cb98bcd71024c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/59802b6a-4e1d-4e14-866c-780d52a0fa40`
+  - ID `url-c6f934e07ec24fc9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/59cdb129-33fa-4d12-acdd-108e49bfc437`
+  - ID `url-79d325b1fff63615`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/59dd2fc5-ca3e-454f-a0b0-2420a3d6fcc5`
+  - ID `url-3cfc09f2a5d436c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5a1823d5-aa7d-4351-a897-e73860df0bb1`
+  - ID `url-0861cd1988420ab0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b0ea339-1b74-4e2f-8184-95869fddb655`
+  - ID `url-2af36879641388f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b2f02d9-6d6b-4d0f-99ee-1aacd7aac8ee`
+  - ID `url-56999b04ecf9af40`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b3dcfef-87e0-44ff-8240-751ae10b677a`
+  - ID `url-6bd4ce017b3a4be2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b49cfd0-fb94-4b59-b425-42976729e16c`
+  - ID `url-9ea929a85018a5ce`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b6b5308-f1ff-4ba8-89e0-e50bb8496a85`
+  - ID `url-012dff7b96d78fa0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b6edbe8-a5b5-4403-91be-0f9630a2cced`
+  - ID `url-2341cd73fdd0532a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5b9a009a-b2fa-495b-a814-9de27f8fa6d7`
+  - ID `url-ecf9c3de89c513e1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5bc76fd8-9e2b-48b2-9597-e5518c405daa`
+  - ID `url-7cd38a9508134b33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5bed6727-7b90-489e-8cc5-cc14ede41bc4`
+  - ID `url-3d83b30fee06150e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5c7f2a85-7c04-453a-bd41-22c4777a7e98`
+  - ID `url-37037db0d70af906`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5c8333c3-ab7a-40ed-bd9d-90c2bf5ec450`
+  - ID `url-1d0f6ff77b868164`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5cb0a6fb-a23b-45cf-964b-d19deb0f4e3a`
+  - ID `url-2e4765fe4958623f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5cb2238b-969e-4bc8-8a2b-6ffc46107a33`
+  - ID `url-ff9749602902b0cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5ce52b36-2354-4ee7-83f3-95c9300e5313`
+  - ID `url-6c8816d76005a8e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5cf3bf2e-e85e-47f8-aa87-158bb29c49a7`
+  - ID `url-8603aa6f3658d77f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5cf59a20-0a95-4d8d-a22e-92c160dea2cd`
+  - ID `url-59734fea84ac5867`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5cfaded9-5711-4d98-b31b-8c23d6ed4b33`
+  - ID `url-847ba9595b5bf5fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5d44237a-0e4a-4af7-a095-bd7982363cd2`
+  - ID `url-2a94e879b53f1234`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5d55c088-468f-43c9-bcfb-13b66db8e70a`
+  - ID `url-af469250a96558dd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5d70497a-57b5-4813-87ff-4c2805949e1f`
+  - ID `url-736ac39a5ac193b1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5da23ee9-4447-467a-8a1e-02f2e1e9698a`
+  - ID `url-c5d478209ee4be5d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5dbd7ea1-c12f-48c5-bd7b-5c82f645e7b8`
+  - ID `url-1ba24824d47d70c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5e1bbd92-1589-4099-95a4-00f24af3374c`
+  - ID `url-9ed96bc2d913adf9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5e6cef14-6903-4a2e-8b8b-e88bef63f40b`
+  - ID `url-bbe571ffb041576d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5e8a7fe7-7076-40f4-993a-0e69f49e77d6`
+  - ID `url-416d6f8c03c23887`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5ea56ff1-8a57-4ba0-90e1-906695b9c9b2`
+  - ID `url-314874b8e57dcb23`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5eb3248a-e6ec-4e37-bf2e-b6c9c88d107f`
+  - ID `url-69ce50673a1bf5c4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5eb33ab8-b120-4acb-9a23-7e6d46e03c2b`
+  - ID `url-1028aa4ccca13717`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5ec7307b-64ab-4806-8edc-0ad9fbef79ab`
+  - ID `url-bfd482cf847e5c2c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5ef07593-6187-4ba7-9e72-c7d0b067cc78`
+  - ID `url-a2e5d71d63730314`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5f0ef0cc-88af-44a6-b763-f262d2632d89`
+  - ID `url-538980beec60dd40`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5f777f6f-29e2-483f-9724-63989b70d517`
+  - ID `url-597d8dcf718afcfa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5f7960b5-2efc-4096-9fcf-2cc02f59618d`
+  - ID `url-029327930388f873`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/5f7a366e-2970-4967-8098-a4f27f6df320`
+  - ID `url-ab506c94dd338cda`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/600ec7c0-d226-492c-9dea-0ae58c54abdd`
+  - ID `url-e3601827b97e3cbb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6080d5fc-d3f8-49c2-bd1e-cff459e436fb`
+  - ID `url-264223086598925c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6087c6b4-9e87-4134-bed1-09ddcfd4a734`
+  - ID `url-4c4f1891b9553ec1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/60be8b13-ec39-4bba-8a48-8dc04cafeae5`
+  - ID `url-dcaafe58eff1303b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/60db11e7-31f1-49d9-a8d0-999b8e6d5a0a`
+  - ID `url-9e051daf4109919f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/60f5eb98-95a6-4d1c-8ab1-37373457bfed`
+  - ID `url-8b7b26cddb357cbc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/611c9ea1-ce9d-4005-bd21-11f95e2653f8`
+  - ID `url-31c7254b03f44ddc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/612c04e2-5f4b-4c12-b37a-00599b8274a3`
+  - ID `url-65b84b6f9e366104`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6199d7c4-0f2f-414d-bc70-9f334cb484aa`
+  - ID `url-47438d9429b1b6ee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/61c927f5-eb19-4c69-a295-896ab89e219d`
+  - ID `url-c76bae3d4665bcfc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/620e4f94-fb3b-422d-95ed-190427116f0e`
+  - ID `url-da4c9eac03cf774f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/628fb55a-4c95-47d5-b644-e9ebb5bd8f43`
+  - ID `url-30ec04a08f13a6a2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6298b211-fe1d-4db5-baf5-b2c188652882`
+  - ID `url-39269769857558b6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/62bde231-74a5-406a-ac1d-bdd2ea2e3462`
+  - ID `url-63da3a807c148985`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/62c570b3-9949-4dc5-a47d-8f373d1f6fa2`
+  - ID `url-bad3bd502889c5c5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/62cea6d0-5901-49ea-b164-14afde75c1bb`
+  - ID `url-a56ec35bdc50c70c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/62e63f17-b875-47e7-83c8-9e7d5d9dd65a`
+  - ID `url-490500b823673da1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/62f539a5-85da-4e03-83b9-c3d6339fecdd`
+  - ID `url-5dda9ba13e29d6a5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/639e6db4-261e-4cae-825d-5a9c3ca86e35`
+  - ID `url-f4e6d253d30bfa25`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/63b5d6ef-8db8-40ca-9c5e-915197420cd5`
+  - ID `url-ea0e6d8bbbcfc235`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/63fd20a4-510f-4a4c-bf6a-aedf77db5d6a`
+  - ID `url-9db3b09a7a448c8a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/648a1eab-bb9a-43d6-9d15-d78213d05ea7`
+  - ID `url-707fe42a1b264bcf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/64a0160a-aa9c-4f7a-a87f-0b365183f4bb`
+  - ID `url-d2bde32f7f743a17`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/64a0b773-cf9f-4f52-96b5-3367deca384f`
+  - ID `url-a7b8f2c7fd320a6d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/64d80b1d-1a30-455d-9279-ba107f20b175`
+  - ID `url-d4167e644cb1a516`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65144082-bcc5-4e7d-96b9-556f35d63872`
+  - ID `url-89cfeb19924c0330`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/654cf785-35cf-4912-9370-1d33f6951549`
+  - ID `url-359be1869411c2ac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/657162b6-88a6-4cc3-beba-47b1f9634f68`
+  - ID `url-c5a5ea3f556e95b6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/657d7096-8cf4-4627-b793-582f6427404e`
+  - ID `url-22107388b1b3579c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6580ffaf-6e3f-44d4-87e3-c7a1ffc19eca`
+  - ID `url-f69f5db11edc264a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65895bd6-63a1-4b54-8b7a-385406b90680`
+  - ID `url-e93fb58db8a289aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/658f5634-d601-4f3e-acbe-3b5a8bdc5e8c`
+  - ID `url-f3260f1da7493f83`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/659c4aac-d1a0-4baa-9950-c61f88aa9dd1`
+  - ID `url-a61d93dc65c3bed4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65af8ee1-483c-4006-adf1-83441a7e38a0`
+  - ID `url-94f3e75d9961602a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65bd86c9-68f0-4f9b-9691-662e66fea646`
+  - ID `url-099f240032f420cd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65bfb92e-9c79-4362-bc70-7f5148bfbc62`
+  - ID `url-99cf566feee53bd8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/65f301fe-4738-42dc-bc06-6b06d1d0d39f`
+  - ID `url-dd28af5a519983aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66a08b7e-0c7c-4c1b-9f9a-9658683a4198`
+  - ID `url-0e63d613c0753b62`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66c3a2c1-b26e-49e6-b911-3e2b0e7f5d7d`
+  - ID `url-c7fdf036790042cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66ddd652-0533-43c6-a903-cd665a16de1b`
+  - ID `url-14b448bf52fc5698`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae`
+  - ID `url-2f7a9dc5f6afd4c1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66ea927d-6e34-43f2-83ac-689e9e9bfc86`
+  - ID `url-abedb2edc7fa7ceb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66ee2ce7-f716-4812-b7a9-21881532d4d6`
+  - ID `url-e7adaa67b703c298`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/66fbdc7f-ae56-4c11-9d42-aa707937732b`
+  - ID `url-529e4e7802072512`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/671667c6-a56a-4c79-a6cc-3861730ae954`
+  - ID `url-a5c369a3d1b4d2a2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/673e04fa-f11b-44af-995d-cd7a9a256537`
+  - ID `url-5304efc5ddc50abe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/677fab60-0218-4cd1-a88d-68b744b8ea51`
+  - ID `url-7320152c510e28d3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/67a3ad4b-9165-46a2-ae01-aa898bb7af6e`
+  - ID `url-291c863ee6a86cbd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/67c38aac-d021-4431-ae22-5610eadc40cd`
+  - ID `url-ce6f7235c8eceef5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/680b199c-19eb-486e-9379-eb2cfa59ed43`
+  - ID `url-eba942556c25d9d6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/681dcb34-6ce0-4ad5-b5bd-003f1878a481`
+  - ID `url-d132f62ebb385533`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6892e029-00e0-430c-aa94-8e305f400995`
+  - ID `url-1635f50ef6959c6b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/68c42376-3824-415b-9b63-1a9b2979837e`
+  - ID `url-d98978a626109781`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/68ea74c8-08b6-49b0-95e7-a4c8f2ac6350`
+  - ID `url-226fcf332842a85d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/691a4cd0-47de-4d40-969b-c0c40e6b435a`
+  - ID `url-85a3532a42690eed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69348548-c018-4975-9150-dd52a84d5ad4`
+  - ID `url-12612f2611c84273`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69586174-ebbb-4d99-a9f7-2df5f5e4ecea`
+  - ID `url-1df754280e40e9c0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69607a85-2add-4761-842e-596c0a894a86`
+  - ID `url-6d5bef2be8a42283`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69789f68-b452-4e25-a860-09183b83446c`
+  - ID `url-d3d7c6bd2c19a158`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69891b24-9c52-446c-b204-a4131a889f47`
+  - ID `url-6c047d1527339b55`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69a4a380-1964-4e9c-a8e4-4495f45ef5e0`
+  - ID `url-411bf9406e960771`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69bd9896-637e-462f-b362-aa1de96bd1c1`
+  - ID `url-048caf74baab8d4a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69cd89cc-e804-4abc-814f-e39ada9eea90`
+  - ID `url-1e357943f08bb6de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69d77a60-0e30-43cd-8448-a3c5c543b116`
+  - ID `url-bbcd5087c94a9dc5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69e9cb3c-38a4-4fb6-930a-c10cb046ce57`
+  - ID `url-d1e9c4c16f402cfa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/69ee578a-3ee0-4792-9f73-227b180dbb58`
+  - ID `url-2be98fc304157292`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6a4c8f84-a322-4272-9e09-4e34692f25d9`
+  - ID `url-5759ad92a1a94988`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6a6b1984-f0e4-416f-bc9e-6bb1113ecef5`
+  - ID `url-c311c473352d7f26`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6a8cbd4e-3dbb-4d1f-947f-e1fa7b01b7ba`
+  - ID `url-dab15e218834d7f6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6a9aff32-8292-4dae-9a6e-a471760c15eb`
+  - ID `url-7f6245e69a77e314`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6af29977-fc0e-417c-8534-010f824461cd`
+  - ID `url-55178c45d2e4c0d0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6b228aba-6a37-4d1b-b330-07b1f186d176`
+  - ID `url-a01b82a6676ec233`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6b44137a-f6c4-4308-8aeb-8e746c959904`
+  - ID `url-1f97e5a373d82721`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6b452a8e-dd98-4cd7-b7b8-8b1f2627cd1d`
+  - ID `url-66af612a9d8a5db9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6b6c46d3-58c5-4edc-9925-fae7fc068730`
+  - ID `url-a182f132e673d453`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6b88f7dc-7e1f-477d-98fd-dd97c7c3fde0`
+  - ID `url-ae50f2b2cbb29e8b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6bca764e-13ba-49d3-bc0a-25e975e2ec1b`
+  - ID `url-c4659bfdcbca172e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6bf5f401-6caf-4849-a955-feea06ed0eed`
+  - ID `url-a27ec2074c63cd0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6c4c4890-4e8a-4de5-b5ea-ef85affe1e0c`
+  - ID `url-ed85b44368381bdd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6cb5c84c-224a-4b08-bf1d-0f6c8a99f956`
+  - ID `url-c375a7b28ba81b5e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d07c5d7-ebdb-4da4-80c7-f4ec5fec124c`
+  - ID `url-a1efc951bf18fbf8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d130ccf-b72e-4ff0-ad59-f8714b494542`
+  - ID `url-991afba6701f9fd1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d2756e3-cb9b-4622-a44e-c230a996d4f3`
+  - ID `url-a707c5aeeff34f24`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d59676a-bd6f-4fbf-94c9-93a581052c8d`
+  - ID `url-a0c1ba9ce8e10d5a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d72cb57-3f79-478f-a7ed-b06927ddbf80`
+  - ID `url-84c54756c37126e2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6d84ad92-b0ca-4a28-8302-ca99771ab80a`
+  - ID `url-b0d78e989ffdd2a3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6dadacf7-c7dd-4caf-b561-eedcf7ff32b0`
+  - ID `url-6edd0de44c09c764`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6dba7f92-056b-4ba6-913e-49350cd68690`
+  - ID `url-2f243e6b33f9aa63`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6dfbe5e0-ff94-4a59-ba07-1f6fcd341da4`
+  - ID `url-d02c5cb1943ca9f7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6e0c2574-9d8d-4d7e-a485-f71f336f5f44`
+  - ID `url-cd06683df394fa41`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6e420bf0-e800-49bf-bbd8-b629b20f1a98`
+  - ID `url-ea315691cca152ef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6ebeb060-0e8a-43ac-a0a6-b3254eccc0ef`
+  - ID `url-4559cd02d46ea17f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6ec3e6fe-0adf-40f7-a981-542bba019f2f`
+  - ID `url-86571c702c0f053c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6eccc872-8280-44a9-9c99-d7ec31701cc7`
+  - ID `url-fdf8f0dc8f55002a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6ef1b959-e99b-4d80-8867-d21d65da8d04`
+  - ID `url-3bae2b4ca266ef47`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6f800610-c1eb-4038-b6b7-0786444078b1`
+  - ID `url-efe2d7155ce5a8ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/6f92291a-8e46-4d3f-96ca-81e11d2a5244`
+  - ID `url-7e43fb6b641c8bc1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/702499df-1ae2-45b4-86e2-c8d2a35f14c1`
+  - ID `url-32aed77ccce448e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/70850b02-50b1-48a9-a7f0-d87e3b0d7f9f`
+  - ID `url-80fd117b1ee49509`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/70dd6376-e564-4571-a85b-8b00b4ec7956`
+  - ID `url-c2862fdb46412012`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/710030df-20cf-456a-9bcd-938685fd4782`
+  - ID `url-f90d7cc0c813ba5d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71125bc4-cfb4-41cd-a856-690c99fbbcc1`
+  - ID `url-2b742de72d048299`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/713581dc-4102-4ee6-83ce-abdcdb785935`
+  - ID `url-94a7f753767ffe63`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7169d003-7f30-44d7-8dff-a3e85181f4f4`
+  - ID `url-ffc5139b3bd57468`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71c9ba8c-947d-443f-a6ea-a6a3e2f2aaf7`
+  - ID `url-540e306ad648e97c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71d041a3-ae30-4ad2-9904-756f982d200f`
+  - ID `url-20890e91e7c8506c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71d4e18c-0059-4d38-9aa0-e6c6f1cffd0b`
+  - ID `url-707e486be2482e8b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71daefdd-2d4b-4878-8b2a-66e5cfe5560f`
+  - ID `url-adc2ddfe97d72ce4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71e7f4eb-fb5e-4b7a-8848-0294ab3393a1`
+  - ID `url-50fa40b6214b1b97`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/71ec64d2-fa8e-40cd-b407-d62c69cca546`
+  - ID `url-5b542b342c1a2445`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7204b02c-10eb-4460-a7bd-384bacfd6a8b`
+  - ID `url-13756caaf9d8b87f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/722ec619-53c2-463f-b7d4-00c7e017ae29`
+  - ID `url-bed0ad22dfd3cac7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/72f418fe-b3ce-41c2-a918-6d379d21ecd2`
+  - ID `url-4a9a4526f8d82c6f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/73291055-2af6-457c-a6e0-49521a0de0f1`
+  - ID `url-e8bb2fb76946ab94`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/735cd2ba-975f-4ebd-be39-ae4b110df184`
+  - ID `url-7c9a40af76a2fe45`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7395c7e3-b1ab-4ebc-82e5-24fe8559f711`
+  - ID `url-2632bbd1bb437160`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7399130c-9777-4090-a42f-f9eca94e4493`
+  - ID `url-a4b3fa570324cab4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/739920ae-8bc3-4de3-8fb4-9d6bb6c03217`
+  - ID `url-875b7ee60ebb606d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/73b9f47b-dea4-4eb7-8f6f-4301f81f26aa`
+  - ID `url-e4601ae5723ab862`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/73da06ff-2661-404f-8c56-e8629b7589c0`
+  - ID `url-bd3c592bad3ac61e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/744295b2-8ddd-4b68-a65d-adcbf61a8dcc`
+  - ID `url-55c562cdb73ecfe6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/74787fe7-74e6-41bf-8642-d6b80d3de8e5`
+  - ID `url-e101a11a6daa4990`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/747edd7c-3fa5-4250-b52b-a95c72b80b06`
+  - ID `url-0bf991d6ba25f5bb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/74ed47d5-c5a2-441a-a05e-ab465e9b8a03`
+  - ID `url-8070b456f3183b0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/75268cad-8cd4-4c4d-a768-09504b660bc3`
+  - ID `url-76b117839274ebe5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/75a17164-2e84-4a97-833e-af75c9c22ee9`
+  - ID `url-20e10261541a01bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/76078cdf-3a14-4657-a1d8-40090c50f39d`
+  - ID `url-56a15786e4415728`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/769d6d19-4456-49ca-91ff-3f590d6de5bb`
+  - ID `url-1e9e37f4a15a937a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/76c2a06a-087b-4231-b2b3-0aec2bb59657`
+  - ID `url-d0cbab02f93573e9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/76c96d7f-8f80-4358-9315-166c334e3f8e`
+  - ID `url-9e70b9bb8d2c7184`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/76e8a114-d0e8-450d-83ee-a2994ab29028`
+  - ID `url-17bd04877f07bdb4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/76fca2eb-2462-49ff-8633-371a7be8398a`
+  - ID `url-ba763ffbd5bbad42`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77830b70-b53e-4f7f-9fe6-73d73d0217f8`
+  - ID `url-644a4e757d1777ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/778e2e29-dd9c-46d5-bf20-35298ac8728d`
+  - ID `url-88ff8d306567267a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77bcd8d4-7244-44b0-8b5b-8e79332aa2bf`
+  - ID `url-6027261c708c015c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77c60b9f-aae5-4126-8c3b-b3ff1abe7c65`
+  - ID `url-43653add847eeed2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77c849ca-cfd1-4d2f-b17c-0cb924d04069`
+  - ID `url-2f0725ef035ed135`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77dc546c-d5d7-42da-b8c8-5ed5ef429646`
+  - ID `url-0aabfd10bb4ecd07`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77e14859-849c-41d5-b87a-598764a8dcb2`
+  - ID `url-2225d317f5e07f33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77efccd2-07c8-4d02-9242-6505775d2ac2`
+  - ID `url-ee3a5664e9660db0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/77fb394b-06b5-472b-bf8d-e739cde6355d`
+  - ID `url-fcec46a659e12ef3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7822756b-e0d2-45f4-aeab-521829a8ac3b`
+  - ID `url-c497dba872b2f427`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7867e908-84af-44ca-996d-c4f39cdfae2a`
+  - ID `url-e3c9c1a0a960f8b0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/787cea33-d945-4f6e-9ff1-6e969c1dad45`
+  - ID `url-ba13a9775c98ca8a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7891a84a-b531-4a3a-a117-2389e2b2340a`
+  - ID `url-6e1e0dcde0712fac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/78a2c152-5a07-48b8-a9b0-192c4f61be16`
+  - ID `url-41631e992d86b3ef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/78b4c164-b6e6-414c-87de-38dde6bf6406`
+  - ID `url-1c03dc3e876073f1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/78b7ac27-cb90-47b3-87b8-acd00d87128b`
+  - ID `url-9b95c299201d9ce8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/799b6b88-b8b1-460c-aafc-d4f305a98e5e`
+  - ID `url-b76aca58637d1fc6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/79d3298f-c50a-4536-93ac-7a07df69234e`
+  - ID `url-0a4cc452b475ee70`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/79e8117e-3cac-400d-b709-bf7e404cfe90`
+  - ID `url-4073b8ce082fea8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/79f74c94-5fe1-4f57-baad-bf7df2b78435`
+  - ID `url-429c54fbfc46fe33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a061047-d748-46a2-8e54-e47c468ffafe`
+  - ID `url-092cdfb10149454d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a23b790-efcf-46c5-9e4a-13ae56140385`
+  - ID `url-ae0316e00d287839`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a45a4bc-bff1-4a3a-be31-a1d8e1d6c7ed`
+  - ID `url-e872165f261832d4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a568aa6-8153-4c94-a613-7bfc567e7ce4`
+  - ID `url-ea7ecdb04e127245`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a731a4c-f86e-459c-8cd2-b6f34cdee4bf`
+  - ID `url-efec44f843e86f6b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a7de652-e85a-4052-98a2-d7907521a7fb`
+  - ID `url-99776f6498d5d0fe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7a80fced-bb05-4741-b3e4-50592cf9396c`
+  - ID `url-000ea8fb77cb18a7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7aa84ac3-ce0f-4cf5-b3a3-c1b8511e090c`
+  - ID `url-295f9e4fae17e7be`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7b8b2e55-8677-485d-9c4e-1c24a392d7f9`
+  - ID `url-cdfc7b1d582d0658`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ba00001-db97-4c1f-8f8c-d26d6ee16091`
+  - ID `url-942d5d07eaac793f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7baf988a-57ec-4c68-9bec-5c40fc85dbeb`
+  - ID `url-6def050a6c0a04d2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7be8aa63-0efb-4d52-bdca-edb504f1d7e4`
+  - ID `url-a109d4cc421a03cf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7c7e17eb-7945-46f4-94bf-5c53286cd1d7`
+  - ID `url-f52948038f55eb33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7c9ff929-9751-4e88-a357-a41d865a3671`
+  - ID `url-6c7fbb288995e90b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7cbc104c-5c8c-49da-92e1-5293d13335ac`
+  - ID `url-dfd6025d66f2dbdc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7cf622a2-10b5-4d95-970b-78cde96ab3ab`
+  - ID `url-d0a7907dc91f5046`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d1a5063-dd07-4a93-8086-f036a627d7b5`
+  - ID `url-8f640deaa9943d9e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d1a6c6f-c5a6-4f0e-828d-245b05a8faa2`
+  - ID `url-928bdc843e71abcd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d1de02d-c165-48c8-94b0-f80a08afe751`
+  - ID `url-aa116bd47f859808`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d206c96-9f96-4047-bcaf-ccce54eea0fa`
+  - ID `url-ea46a656e21861d1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d447daa-9d54-4d3f-b66e-6dee3dbbe5ab`
+  - ID `url-fdf1f2d561ee44cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7d5b10dd-338c-44aa-9cc8-741ccc4e6a5f`
+  - ID `url-87210236c1a78045`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ddec3f0-d778-4409-a9b2-bb8eed4d2bee`
+  - ID `url-fc4ef2044bc4cac5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7deaa84c-e131-4a6b-8e71-6e4a1dd37d6d`
+  - ID `url-8d9bc84e3431633b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7dede74c-f789-4884-983e-26b04bb4a162`
+  - ID `url-940ebacb5da176fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7e241164-8fb4-4c99-8ced-3ff4d385c56a`
+  - ID `url-77cd8d5a54a85eb8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7e535a65-dfc9-497a-88e0-d10d1e0f22a8`
+  - ID `url-eb3340cdd50db188`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7e588078-8e07-4cf8-9d2d-5ddba067b2f1`
+  - ID `url-d885af03490d7afe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ea49dc3-0162-47d8-a1fb-a0cd8e8dd260`
+  - ID `url-164973bcc5fd0ae9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7eb7135d-57e6-4ca0-867e-f1ffde98897e`
+  - ID `url-30e004a6e9e8789e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ee52d17-d8c9-4475-a2f7-e7c730345c30`
+  - ID `url-1f0e4835a470badc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ef323d3-8580-4fab-9711-64c9df37f3a2`
+  - ID `url-7c18ef6144e3bb1a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7f032720-158f-4b00-91aa-af8bb092f544`
+  - ID `url-105ab95ec6629b93`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7f395c0e-fd94-4a45-a30c-b119bd4fb8c2`
+  - ID `url-f2a5a25ba9236b10`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7f842af1-4ffc-4967-bebe-411405ec5b40`
+  - ID `url-2beefb85f5d06821`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7f999e46-1bd0-4127-8521-90ba81e7c51d`
+  - ID `url-88d9503b13a6c930`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7fc77b62-2edf-4669-a678-e13ca1d7e096`
+  - ID `url-d64d603190cc8d43`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ffb1e55-8cc1-426a-b8fc-b8a5736ad3de`
+  - ID `url-9f974ecd4efaf7f4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ffc51c2-4aef-4c54-a01b-59d873f077ce`
+  - ID `url-62ffa63eccaed04b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/7ffd1ec4-b480-4813-8e68-dc651f21346d`
+  - ID `url-36a9d41a331ec5a7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8000783a-205d-409e-b906-a3bfb6178087`
+  - ID `url-e3127c926c8844cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/802df701-e517-4828-a9be-fcf3a5f39f14`
+  - ID `url-0b4c333091fe7787`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/80627f71-fd8a-4659-a58c-c86e32ec4cb3`
+  - ID `url-44a512843098880f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/81310ed4-9ab3-436b-80a9-9c6fca800662`
+  - ID `url-db45988bdb1d5c96`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/814d924c-b7f7-4707-be42-f92a59a9543c`
+  - ID `url-bcddf5f5b0165beb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/816746b3-62c0-4f45-8c34-d9edc0468c6b`
+  - ID `url-04e31cb160239e7b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/817dd94e-bf20-4847-ad96-72f64a6e9453`
+  - ID `url-5524a8c8a72f08ee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8187bf18-4d4b-4aec-b499-2e4e44875f1f`
+  - ID `url-0808b74c467840fe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/81a69630-579f-4cee-9aad-39469d46d1c3`
+  - ID `url-eefbe1589b5a5235`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/823e2c29-ec25-4212-9355-52adcbb631d2`
+  - ID `url-5471159ae57fda2a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8245a941-141e-45a8-9e2f-9fe7ed1293cb`
+  - ID `url-7eb7574c8ecfba86`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/826d35bf-f199-49a2-8b35-c362ee3e1549`
+  - ID `url-0706c57f87af74cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/828d17a8-1c6f-431d-8a19-bcd91c7b14f8`
+  - ID `url-4963db66d839532a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/82b87c92-515c-4f2f-ba65-715246bc4e89`
+  - ID `url-938181459e8cc037`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/82e06733-7ee1-4763-a9c0-4d7c9569176a`
+  - ID `url-a4cec79b5d5e10ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/82f0e746-11fc-49eb-8813-f5680615b844`
+  - ID `url-2bf3a9c1eb51c0da`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/832366e3-be5f-4b5c-b124-bea8e3c1b0e9`
+  - ID `url-e1fbb560ac437596`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/83547841-5357-4fe6-8756-162505d4fc5d`
+  - ID `url-24bb0b4f2fc4469d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/836fd7fe-b968-46aa-9dc2-b6f42d1ebec8`
+  - ID `url-e469606684ee511b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/83a93233-1855-423e-90a5-17aa382a2699`
+  - ID `url-5046d6b7aff5d5b4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/83ac408c-7887-406c-a1c9-87d4f0c98ba1`
+  - ID `url-3c2b8b1d4cb41be6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/83ae7a13-74da-42b8-b3f5-4ef5a619f07d`
+  - ID `url-a41f5868e350b2d5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/83fc05cb-f45a-487e-985a-2c35874ae666`
+  - ID `url-75956a73cc97db46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/847193b5-b676-4e1e-8bc5-3769845393b0`
+  - ID `url-2a1b46c2d88e7080`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/84c2f2fd-e95b-42e0-8102-9dba8049541c`
+  - ID `url-8fe2a37547621877`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/851232cf-e4ee-4a74-8458-2ee57f95a2c5`
+  - ID `url-095e3a8366cf751b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/85627e32-afd4-4a41-9960-fda109babf4c`
+  - ID `url-cade81b30f7a786d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8627533d-2383-4793-9eec-e1fe20bfafe9`
+  - ID `url-b62bd54a20897711`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/865576c8-4790-4c76-8a1b-404d8a36eaeb`
+  - ID `url-804c1f15e98c1bde`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/868e2e62-540d-49dd-a679-f655d4bebbf0`
+  - ID `url-6d2d2338806996d8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/86b91c67-01e6-43dc-91a1-62c99490a7d2`
+  - ID `url-2852fa1c5244b593`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/86d5927e-c75d-4d62-9f9d-6dff903c230e`
+  - ID `url-87502daed151bd30`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87023a82-17f2-4305-869c-35eeec0da877`
+  - ID `url-be017de8701c4ba3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87210356-596d-46dd-a37b-e4a6a13fb1d4`
+  - ID `url-22b8c0af03eff257`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87350c78-faa0-4afc-bf0b-19e2e5a0195a`
+  - ID `url-6d60888ac1c96a01`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/874234b3-8921-4b07-b807-03b3b577bf72`
+  - ID `url-69eb691beccf2bc0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/876fc11f-41fc-4d18-bba6-749ba664602a`
+  - ID `url-162997e0182199ae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87865fc4-992d-41ee-af63-01c348edb666`
+  - ID `url-3be29cbd7a19f584`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/878c0ec7-5fe2-4788-bf3e-9e47688ec83e`
+  - ID `url-0b5277cf8b23150c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87bb8701-7b34-4bec-8863-37eef9c306a7`
+  - ID `url-875aafe6edee464f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87bc9acc-98d2-4c49-8aee-4f5d0374ca5b`
+  - ID `url-5385f4c955d15634`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87c9eb30-2b86-4e4f-9e0f-938c1575e632`
+  - ID `url-1ef966736a265fe6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/87ee6c8d-d735-4604-8c2a-e49b472d9747`
+  - ID `url-4611d0124d56d055`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/888315a1-1a16-479e-8151-9ab66f877aeb`
+  - ID `url-c80d3ee94ea80a19`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/88a2ec15-34e0-41bf-b73e-391147274afb`
+  - ID `url-78ee9e87133ca346`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/88a72346-78ea-4e63-8f18-882f27bf6e1f`
+  - ID `url-5ffcdc2b82615fe0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/88d75fda-7449-4646-84b0-f4107c063871`
+  - ID `url-2eb15467920b0a05`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/88e642b2-e44c-41ff-9b4d-650a492f578f`
+  - ID `url-89df7afc8c642206`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/891ef5b6-673a-4a48-9814-62433bcb30a6`
+  - ID `url-b9731ca061398924`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/893427ca-0807-493c-9ee8-75142044cf49`
+  - ID `url-311aab966935f4f4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/89cdfec3-c8c9-4e0f-9a62-a41c64d6ee9b`
+  - ID `url-9499aedab86e9468`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/89fe1127-13fb-4106-8330-1a704f2394f4`
+  - ID `url-9a7f3d7e64e8ebe7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8a0bd888-76cf-4f04-91f1-6856b9d2202a`
+  - ID `url-f071e1a560879abf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8a55ffb3-3034-4702-aa58-8e1cb910f6d5`
+  - ID `url-bfe4a1b09f08ce6d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8a7b0542-49fd-4587-8354-996333f4070f`
+  - ID `url-ed38faeb2ea87797`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8ac41941-3630-4f5e-9c56-24f5a9278166`
+  - ID `url-81a4812fa8f1772f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8acc53be-251a-4689-83c0-50a8c8650c66`
+  - ID `url-1126ccd3976c702b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b18a65e-bc61-4663-9b0c-8f35f403bfa1`
+  - ID `url-5e8396a17b7b0e53`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b23567d-4476-4f34-9961-c60326619c1e`
+  - ID `url-cc9d17cc0c64524c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b3c579e-2d35-4b88-9258-b8cc209cb373`
+  - ID `url-7ae5647244804f19`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b5d121c-c31e-4952-ad54-24aab007a0c9`
+  - ID `url-de3006596dda7237`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b64229a-1276-4f12-b80f-e0e0fadb5a86`
+  - ID `url-349f5a178698e725`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8b99faa1-ca87-4eea-bd7e-49a00560dbc0`
+  - ID `url-6073afa392709912`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8c271788-eb99-4ecd-a458-77e400acae6f`
+  - ID `url-e439eaa735a73fde`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8c45dd93-439f-4e73-9e2a-d5f3b8d2e99c`
+  - ID `url-c355563d8656c443`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8c5ca435-8c52-41df-a5f7-8a41c4572b72`
+  - ID `url-05fbb2adff7e8022`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8c5f157a-49c3-40f1-ab9b-41ddfb564796`
+  - ID `url-f037fd96fbf9db8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8c70cbe6-d312-4d7d-81e4-043bbe01aaa8`
+  - ID `url-95be47e1ab967b35`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8caa7d70-a9af-4cde-ad02-850f45945aa1`
+  - ID `url-8e0358a59ce17730`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8cb80944-5b9a-4a72-8828-e5e9b7e90123`
+  - ID `url-afca8df140464798`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8cda15a7-75f3-41bc-a72b-7c05954f342c`
+  - ID `url-77b78a19b1905acd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8d1d482a-5760-4ec0-a271-a02ec4a42a5f`
+  - ID `url-8ed19be71a7e64e5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8d25aafa-058f-48ce-ab9c-a690c61bd5ff`
+  - ID `url-f9027c27aa3723fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8d455aa7-c183-41bd-9c7c-bcebb74ad5f9`
+  - ID `url-7615f1aba57af797`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8db960d3-aa63-4d92-b642-2dc16ab51faf`
+  - ID `url-af4add236ae67894`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8dd7d94f-68be-4d23-a7f2-47787af2ba13`
+  - ID `url-cb6a7e2ceda9f921`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8dd8b594-f982-4d36-ba98-1e1431bffc92`
+  - ID `url-15f97928b6431a5b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8df710b4-056d-4048-8902-7c9cc1a99bda`
+  - ID `url-a94b3a7eb6fd1fc0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8dfce85d-f883-4b09-ba94-d8870e42c3da`
+  - ID `url-99dce6410fc0d836`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8e11ab26-ceb6-40c2-b51a-06ac9b082bfe`
+  - ID `url-493818bb069f4047`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8e23ecbb-ad0c-400d-9af1-d87908a838d5`
+  - ID `url-d15f0164f31d166a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8ead597c-574b-4ca5-b485-7f67635639e1`
+  - ID `url-f6b0da948ec06b09`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8f2d0d63-9d18-4d9a-94fa-c3dfb2e98c0b`
+  - ID `url-df2bf09cbc358996`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8f6df7d7-1a61-4929-a17b-4d7cc6548cb0`
+  - ID `url-25d2d8984aaa168d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8f74f770-f964-4f5a-9a1c-f52dd354b3ea`
+  - ID `url-e6d0c80eb657508a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8fa4429b-3c18-4f03-bea1-9f8499d09658`
+  - ID `url-adfa758b5821a988`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8faac1f2-1e6d-42fd-968b-d32738bcdc1d`
+  - ID `url-8551402f5e810ab9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8fb73ba7-f115-4a62-8676-52f5e93dc179`
+  - ID `url-68a163ce2a4ccf0c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/8fbdbe13-1987-4e45-a6fe-35baac68a7a3`
+  - ID `url-8e2951ddc03aa1da`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/902742e5-f256-475b-922a-ebb51ae1817e`
+  - ID `url-2378fcc76b97b4de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/909127b7-bef0-42a3-ba90-ef06f5d19528`
+  - ID `url-cbacd3dbc9ff7aa1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/90edf4c4-415c-49f0-bdb9-fb9a473923f6`
+  - ID `url-277abee5d92c8479`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/90ffde2b-b0c2-4a40-a9a5-7ea82a908fb8`
+  - ID `url-f3d754af6f6991c9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/912a799a-401e-4960-ad08-bb99ced6f2ee`
+  - ID `url-22d2e1c0a2f36a46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/912cf77e-8d1b-4a94-b766-3f03429a2e38`
+  - ID `url-7e0b5552318e0383`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/916b90a8-220e-4600-9181-e5e120dd1d1b`
+  - ID `url-cd270dcc4d2a5d33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/917013a3-0b79-41d4-bddf-f7ca36af6b8b`
+  - ID `url-3f8b24a6b500b9e7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/91bc1918-7b6c-4984-b58b-6493fc8ace32`
+  - ID `url-44c5821363a2ca45`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/91d53eee-8e05-4054-bfb7-a90fb10a5f3f`
+  - ID `url-ddc1aa3c42fcc550`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/92d8c3ac-4112-4f46-9a17-19cb43cbbb10`
+  - ID `url-6e2196f4222dab46`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/92f53258-e927-4dcc-8e36-1d52423d774f`
+  - ID `url-060970217d56f41d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9313737d-2290-4cd1-a6ca-ac979389a62f`
+  - ID `url-e7f711c0b8d29139`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/931f5d59-14bd-478c-9c0e-3290272d5152`
+  - ID `url-949547e58d4e935f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9367eb18-a41a-49f0-bf87-7230808f7fc6`
+  - ID `url-6774a3c896a2a9f0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/93a21990-6df9-462f-a460-8672abc8e8de`
+  - ID `url-b44e3e6686028e6a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/93f2a5f7-4be4-49cc-9abb-7c33d37923eb`
+  - ID `url-56f1ef04569ac899`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/940c2382-eda1-4803-94c0-e4b116f5ec31`
+  - ID `url-b5add894ec1bd27d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/943bd4a0-8953-42ef-a2c9-9ea76be41103`
+  - ID `url-fb9cd5e49fe53456`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/945696da-957c-4d63-82a2-5dca55d07c1e`
+  - ID `url-c59dbd537dc869b0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9473ad27-f309-4cad-a5f7-ffef79f169b9`
+  - ID `url-769954f7e78f2cd7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9473b8df-47c5-4cc8-91ed-007d5cc9737f`
+  - ID `url-ac92966a55528ae0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/94e3fe98-2b03-486f-90c2-dfa0e834cfae`
+  - ID `url-cff7d56904835200`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/950493a9-3562-4a6d-b61c-e0167d003b31`
+  - ID `url-1304215d2068cc91`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/951017cb-fb00-4c92-a084-9fb0b1338687`
+  - ID `url-3870e932023a4e35`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9518b66a-348b-41b0-ae22-ef3dbc19dafd`
+  - ID `url-16efa1238d8cea27`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/95b47f82-dcd4-4e9d-8066-6253c58244fa`
+  - ID `url-0fc0088f004d7b59`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9620a584-325f-411f-b43c-6d2786bef0ac`
+  - ID `url-76a7f89bb3e13858`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/966a4104-d84a-4e7e-b00b-9b84b96d50b5`
+  - ID `url-bcd2dab2a4891186`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/96772fe9-78e1-49e7-ba5f-52c46676eb42`
+  - ID `url-921505aaeeeee646`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/968a6fa0-ea6a-4bc9-a4dc-f695ad867010`
+  - ID `url-f98a8377e613c937`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/969b9bb6-aa71-4a8d-a384-de271e5d7aa0`
+  - ID `url-afae6a0c47fa33df`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/97263825-a439-4a1d-8fca-55437e5eb1fb`
+  - ID `url-f8e16be894c9e108`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/974a89c2-b66a-4841-b773-781ab98686a1`
+  - ID `url-f8246db433e5f717`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/979dfbb0-7746-4d6b-b434-7f68cf9ca562`
+  - ID `url-f98b0e681a1a83c3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/987193d5-2a80-491d-8021-44afb454a909`
+  - ID `url-85a392525e94dadd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/98cbfbe8-563b-4244-b102-35fff1a86060`
+  - ID `url-16429af24c368341`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/98e7661a-24b5-423e-95cc-13d5157e0a65`
+  - ID `url-718ceb7a5250008a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/991e0a41-21f4-42bb-8d3f-97ae51194880`
+  - ID `url-0b547ea2f6b7c2e2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `contentdm-wrapper`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9995f0e5-7149-491b-a5dd-b8105138737d`
+  - ID `url-599c51f9d326ba11`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/99a077f8-a6bc-4246-9497-1f1275e09327`
+  - ID `url-2941b11e28799c0a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/99ab4f0b-306f-48f8-bfba-8677e40a57a0`
+  - ID `url-481d1d8056e5ebac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/99da73fc-eabd-497b-8283-f0454987ba09`
+  - ID `url-28f69822b8712416`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9a0326fc-95b3-4358-89f4-960b93c54d92`
+  - ID `url-8d26f4f709e2c4cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9a45c5ec-c07e-493e-b970-eac74f24c9e7`
+  - ID `url-72de8380be6efc7c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9a60fe36-42e3-420a-ab85-363a3158274a`
+  - ID `url-07abbd04b7dbd58b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9a6852bd-7938-4249-bb43-185add064ce4`
+  - ID `url-cb28da2715d18118`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9a8ce357-fa04-4e15-bfb7-937acd6bcbc0`
+  - ID `url-ba6b0259d0330175`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9af7a971-ba10-4c6b-b21c-9819e2385670`
+  - ID `url-9720d88211937839`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9b2aef23-aeb7-4400-9371-8d156f6e70d9`
+  - ID `url-c2aae14adb59f65c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9bd18db2-42f1-4536-9520-fb34fe2d7cd5`
+  - ID `url-a83c8da7b844806c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9bf8a947-8738-4b2b-b468-92f2877def10`
+  - ID `url-2b5fc438ef40884e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9c0b57f5-44d8-48ad-a4f9-bd278ef09327`
+  - ID `url-4210adcaa7f3179a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9c22bfdf-bb40-4194-aa95-31208c5cf7f0`
+  - ID `url-609328722ad42873`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9c26f823-96e7-443c-a4f1-acb14d43ed37`
+  - ID `url-53b98827cb303d66`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9c41a058-934e-4482-98a8-7ff1cee832f2`
+  - ID `url-3ac4b5a62aec7e55`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9c50950b-829d-42d0-8684-ae666c8c5275`
+  - ID `url-32be3586925d512c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9cd50b5e-2dba-4495-b0a6-33b9e9c4286b`
+  - ID `url-aabeee5bff3c0e9b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9d26a5fb-e090-431f-a065-17da11370ca8`
+  - ID `url-8fa8cff7b563b0c3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9d48a264-561b-482e-b16f-3aa0cf8d7f6c`
+  - ID `url-a279b99b7de8a040`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9d8b6b6f-1bfa-4ca3-9d16-63369c2e14a1`
+  - ID `url-c91753c3530f6a23`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9e315565-e6c4-4222-aaa3-b67ffdaa6e33`
+  - ID `url-2ff8fefe6404accb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9e43f087-3bd5-4d8c-9bc3-1abea7ba1861`
+  - ID `url-201ca50c55fe1645`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9e7f2eb0-4b15-4439-a58f-bb1527e8ee69`
+  - ID `url-b64a579f148b3dc7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `contentdm-wrapper`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9ecbe2aa-23bc-413f-8d87-0cc8ecaa7cf4`
+  - ID `url-9cac29243208b482`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9f9dac17-e3c3-4464-a74a-bb5c981a4613`
+  - ID `url-a82ae6891b7abf2d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9febe5d4-c873-4907-9837-2cb7ab864faf`
+  - ID `url-b8d0b1021bd32865`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/9ff2c1d6-fc44-44e9-8694-bf2368283d88`
+  - ID `url-0e19fcb76e28817c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a00a916d-5073-4026-b1c4-4fda2cf38c4d`
+  - ID `url-8bc28c04280f8e2b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a01eebc0-e583-40aa-91d0-c5c11f640713`
+  - ID `url-ed704bd9bdd155bd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a0562bff-a211-4459-ae13-11fbefb9d689`
+  - ID `url-43abbd92da7dd71a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a070fcd0-51c9-44f5-abd3-5b107d72464a`
+  - ID `url-ee6ecdba26379852`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a092d763-d5ef-4714-a030-a127d6ceb8d1`
+  - ID `url-9bc92833e88e2c5a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a11b8a5e-f999-4c6d-971f-9640f792346c`
+  - ID `url-a2823e091d5e33ac`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a147da8d-8226-4d21-876f-62eee70bd0cd`
+  - ID `url-db080b84120db87a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a19bdd12-8b9d-4145-8f55-839876e0b006`
+  - ID `url-6ed9f6da2728099a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a1e31457-47a8-41aa-a680-9fa640221f11`
+  - ID `url-85c6fc196a7013ea`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a2437b41-d28c-4429-8029-2131ed086802`
+  - ID `url-37da0a0e5342f88f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a24c406e-a875-4255-ad0e-8f3413a09da9`
+  - ID `url-17e3db61a47277d0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a2ecb57e-a8f8-4268-9f87-1ba37ed1e120`
+  - ID `url-90892bedeaf037e5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a3486f83-fc0c-4357-b4e4-8ed0aad7f421`
+  - ID `url-ce84bcb2d589ab7f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a39af14d-7ab2-4aaf-8903-61a227aaf225`
+  - ID `url-7da0fa7d5273a257`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a3b23860-d884-4ddb-8049-c83f61b9e5c5`
+  - ID `url-1f63427b08d435db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a403e5e2-2405-4401-8bf6-8b47fbae72c1`
+  - ID `url-65354e8e91c273f4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a4154ac7-7a74-4525-bd26-fdbd5ebab815`
+  - ID `url-f3d0960f70361ef6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a45c9339-a7ff-411c-b9e6-7a281b60aba2`
+  - ID `url-ece0015e03d79cdc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a49b1641-31fd-49a4-94d1-949ac75cda18`
+  - ID `url-59098b56f2fb4ef5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a4b5af9c-ecb8-4ebc-b8ea-f9778aeec542`
+  - ID `url-e4cbca25e59aadfb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a4c9141a-0a25-4de4-88c4-be00132d0010`
+  - ID `url-c6ea439ed8d48f96`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a4d9709d-2590-4fad-9e7d-dace0a9f2340`
+  - ID `url-20a293e7a9d609fa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a50f12d9-d28c-4703-aae0-20fdb6ff506c`
+  - ID `url-0ff4fbdcda999061`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a5400933-f31d-467a-ac4f-327e863d4519`
+  - ID `url-7408d7128da2917a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a563f4a8-6ffc-4f3e-a2b8-aa5615fe5d18`
+  - ID `url-c90e5e4472b9e1ca`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a58f9a1e-651d-478d-bcf7-47d4f1f3fe37`
+  - ID `url-3bc7a54e339de1e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a5d35ac0-86e3-415f-abc0-0c264d92e02e`
+  - ID `url-1405bdeabce1c851`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a5f77925-6f62-44e4-a6fa-496a5f990984`
+  - ID `url-1683ef316c5cec3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a6325e56-e05d-4ece-a592-1e0374f06931`
+  - ID `url-301508fee9e540eb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a66cfc83-a062-4412-a9d3-062710ef80d0`
+  - ID `url-5fdfe47c28ea7bcf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a6881a93-83df-435b-ad2b-faad0ef3488d`
+  - ID `url-c3b9ceb11d14abc8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a6d7815e-93b8-4d21-8a74-4b9212dca1aa`
+  - ID `url-54bc2cd5c5721173`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a7a0e715-e821-4d6d-a668-7969d2b3e45b`
+  - ID `url-f83933f1f1f1833f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a8435815-997f-4940-b868-1171c7b8d5da`
+  - ID `url-aa09f4d5b8b03d23`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a86ddf28-adfc-4be6-94ca-160a3c9ba2fb`
+  - ID `url-203f8a41db569045`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a875a920-0c03-47a4-a5bc-6b7c6c3183ba`
+  - ID `url-caa14b247aa6c216`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a87de5e3-cb3d-48cb-8b4b-5893c1e0f52c`
+  - ID `url-63e26d641945849e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a8a5b6b6-7e19-4a27-a8fe-c3f6a03e14a7`
+  - ID `url-060549fd6817d625`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a8be7e27-9194-47ee-9571-f86794ec3cce`
+  - ID `url-a1853dd403229705`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a906b46c-4250-4f8a-8536-3a945df825ae`
+  - ID `url-6c954498ba48a4c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a9292eed-873b-417e-82dc-d82fafb76af2`
+  - ID `url-3fd44836a1bbae89`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a9974dd4-8e48-429d-a7a6-9228a73ddc15`
+  - ID `url-8751d2c6106744c8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a997d547-942b-4ade-96fc-2f29ceac3398`
+  - ID `url-16e7865c68405fff`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a9a482d3-15cb-4a0c-8b6f-0086445c447c`
+  - ID `url-b85b356f9807cca5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a9b1e072-ef3d-48f7-b8db-20dc41badc59`
+  - ID `url-ddbe93c9e8b14653`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/a9b2ffde-2329-44c0-a6b7-7e067773f30d`
+  - ID `url-8ee0106fefdeb2d1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aa2e0f20-3e1e-49ad-b87e-45aecbc8788c`
+  - ID `url-c1164ccd936fd793`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aa3c38de-4af7-4b95-80d0-26712d0d6f7d`
+  - ID `url-b9340d64b406095f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aa644822-581f-4649-93b2-80088d7c4e8f`
+  - ID `url-688742f4b6eef5c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aa7bc3af-327e-4256-8ee9-cb4cdfcbd430`
+  - ID `url-d6d16d300f037754`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aa9f50e5-6e55-4773-bfbd-3dc77ae47734`
+  - ID `url-589d9be178cd69ef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aaa9e5fb-4fbb-406e-b645-160c7349c21c`
+  - ID `url-62c34a145ff18f5d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aaafa2e5-2f02-43d0-88f7-14d3d2b5b748`
+  - ID `url-36a3b45717d3a3b5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aabffad7-ccd1-4692-8bd5-855eba48cf36`
+  - ID `url-2f76bac75536aab5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aace9d67-e0cf-4af8-acdc-4946be1ab34f`
+  - ID `url-97b18ca172d994de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aae69497-d922-46f4-aae0-2c61ecd28ccd`
+  - ID `url-93ca13b677517f3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aae8ff0e-6ae1-4e07-a214-450802be80ff`
+  - ID `url-7d7b0725af1d4c3c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ab0ef998-39ea-4815-b241-b818fdf0611f`
+  - ID `url-ffa2ddcf1ae22e7c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/abfcb9e1-cc02-4414-ad3c-275d88f27927`
+  - ID `url-477e9dace166ee52`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ac30e4e9-222b-41de-8e34-de049ffb3407`
+  - ID `url-a69d99ea567f2b94`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ac71e188-d72b-40c8-be75-4165fd1c0ae8`
+  - ID `url-0234cb9d7e9f26f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ac7b6486-095f-43e9-890f-625316e3b55b`
+  - ID `url-689c80b866950e4f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ac9ccb89-fea1-4cd2-97ec-9f688276f28c`
+  - ID `url-1ab00e2503f4ec3b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/acb2ab9a-4866-4df6-8e98-5b3866376d4c`
+  - ID `url-baa4e5637928dc18`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ad163a35-28d5-41fe-b9ea-bde1812aa0a9`
+  - ID `url-31dffa2e927ad1aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ad4a28ac-0620-4b5a-b1ff-2fdf1b51f308`
+  - ID `url-b412ffa4d5b6340e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ad867c01-276f-45ee-ab79-062f5809ea11`
+  - ID `url-47d464ea8ef8e4a0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/add470e2-c5a3-4e92-8fdf-ad661cc03a1d`
+  - ID `url-e48a15f1638b858b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/adf5fbc5-5c3e-4144-ba13-f142747fa2c8`
+  - ID `url-d91b57ee4415d22e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
 - `https://urlquery.net/report/ae3af062-dfea-4cf3-b691-c560632bbea7`
-  - ID `url-5f728eb79590fcba`; opening `caution`; risks `external_logging`; mentions 2
-  - Labels: `receipt ae3af062`
-  - Located in: `expanded-search-v4`, `research-store`
+  - ID `url-5f728eb79590fcba`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`; `receipt ae3af062`
+  - Located in: `expanded-search-v4`, `fanout-search-v5`, `research-store`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://urlquery.net/report/ae8ce379-d1ca-4f32-be77-aede41882e16`
+  - ID `url-f4fe7d9796e37b2a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ae9536bf-211c-4b7a-ba92-8b1f65374e4e`
+  - ID `url-96fc7d7677c2049f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aec8e7fc-b61e-45de-bd72-3b46f23ebfcf`
+  - ID `url-20a3925d6aa3a886`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/aed0dfb0-88a2-46f6-80c3-1f2a9caf1ca8`
+  - ID `url-c42e2cd17ea2a55b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/af02fb7e-9094-49c0-a15e-5bc8f32acc62`
+  - ID `url-1ddf3be4d96daeb1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/af0fbf82-9f45-42e2-b431-7f0618992dbd`
+  - ID `url-0abb5f15acae44aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/af1c079b-f93c-4ec4-99f5-2585667a811b`
+  - ID `url-c2ebde9ae306aa92`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/afe7758c-312f-4c4a-8ef2-e18eadeb2fc7`
+  - ID `url-54341bb7f19b882e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b0187471-89d4-47eb-9961-7189f83aedb9`
+  - ID `url-a85c5175de019812`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b045bebd-6684-4730-a07b-e6d6abda7ce4`
+  - ID `url-2fd3200cd560e798`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b04bd743-4c7a-4a56-82cb-e8152cefc11f`
+  - ID `url-4e211e0167a421a6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b04c67a8-4cd6-40aa-bc54-a10de04045b0`
+  - ID `url-b3d2b1fd184a5e96`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b05f59d7-e08e-4f03-b543-496b4272a4b2`
+  - ID `url-ab3051a4ac36f027`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b0b4a368-2ac1-4d7d-9716-6a1f12b54ed0`
+  - ID `url-c45c1851f049db02`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b12dd3f2-342c-4003-9dc0-6284252ff1d1`
+  - ID `url-1393442b184c5223`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b1401aa2-4f16-4d55-a692-18dd42227581`
+  - ID `url-2758644be94a4477`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b159570a-049d-4723-8a92-b6ba091ea77c`
+  - ID `url-aa89698e31924517`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b1744b14-385e-437a-9af6-254c41e38abd`
+  - ID `url-71a1ba450e96bd6e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b1ab110e-0968-440b-84ca-fed6ec734ded`
+  - ID `url-756967134007b2f3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b1fa6963-8d86-4a2a-8b1b-0a65671d6c10`
+  - ID `url-2815bbe0ee034aa5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b1fac70a-b107-4d64-98c2-d6807dc2cdc3`
+  - ID `url-9215343db7883527`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b201a92b-39ff-424f-9721-46d354cb0ef8`
+  - ID `url-94ff78055c992b21`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b2220eaa-48d0-4964-8ede-ec2767a28610`
+  - ID `url-b5807f6f5a6a4b73`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b29a335c-ff4d-4f08-bfa1-176048b7813b`
+  - ID `url-c743ffb7a6c3ea61`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b2a13ed1-84b2-4149-b838-b57780dd827a`
+  - ID `url-c12e637e94a344a3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b2a60e03-f426-4cca-af8a-98ba90e9239a`
+  - ID `url-8c1916e5df813fc5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b2b77b4c-8990-44cf-acb7-8407ed71e786`
+  - ID `url-0b06010147d9a36e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b304bf06-3edf-4ac2-ac08-7f64c9ff2bb0`
+  - ID `url-1987fc77c83ebe63`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b30e5cdc-6329-413c-8b84-d0409d2e7131`
+  - ID `url-e8d4940257151959`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b32f01d4-e12d-4d73-b9b9-e5c721d68e2a`
+  - ID `url-e2d72d749508178f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b3406561-4dbf-4b91-a9b5-e98fe6320f68`
+  - ID `url-3e3551db540527e7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b37baff9-124e-44a8-bcf7-3b8c493e1d6b`
+  - ID `url-1072b373b2e9b0d0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b38fb7a0-1391-44c0-9359-502041b1fa7d`
+  - ID `url-0aa22441d1d42762`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b3f15c8b-9986-426e-8afa-ab0a8e29c32e`
+  - ID `url-89eb1b3e2150c392`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b3fdf094-6cd1-4395-90fc-8608267ac1e5`
+  - ID `url-c5858071112ad8b9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b41cb2ae-0bed-46f6-8f84-00c91e5eb05a`
+  - ID `url-ae3c3689a2dbbfe1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4476125-83b2-4e1d-9e79-654620ae9658`
+  - ID `url-16fdcb926537c3fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b45d63b9-500c-4e45-bffe-7aa6214fd027`
+  - ID `url-f5157a5f13109395`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4b7fa2b-38a5-48d9-af53-0fe0cb86cc32`
+  - ID `url-6b323a18f1b52992`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4d2aaca-4a88-4d60-9a53-719944695334`
+  - ID `url-8b0c3fae46347261`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4e68a74-5ffc-4f6d-94d4-4f3c9e289fab`
+  - ID `url-3a8f59eb773cbd82`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4ef6ea4-10f5-4904-bbcf-fb6d71ce5db8`
+  - ID `url-032c1d623e43624a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b4fb777a-368d-4da5-873b-1436fe04dd86`
+  - ID `url-6dfa07165e09faef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b5351eb2-dd6c-43a5-be48-3c058e97630c`
+  - ID `url-1050204c33fbcac1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b54a0dfe-d324-4e00-9e07-9936a10cded3`
+  - ID `url-8dd25ce7712da91b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b5781a3b-e34a-44ac-b0de-0e585571910d`
+  - ID `url-41d694f930d1ca4e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b57f6dd7-a1b5-44c8-abe5-35c33b5c0d7b`
+  - ID `url-b89eec0067ebca39`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b59a8a32-8bed-47a2-a8de-406a5fe20326`
+  - ID `url-16f4583248f8e3b8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b5c36226-3255-47dd-bb15-01d5860a2384`
+  - ID `url-9ebec9db975b5ae7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b5de0f6d-1505-4d54-afa9-c6507c1004cd`
+  - ID `url-7ad0d2a90fb3787d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b5fc8672-2825-4f06-a081-ea2c7a37ed71`
+  - ID `url-bfa5a59e715dcfae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b62f269c-503a-465a-908d-17af1d149a3f`
+  - ID `url-707c62d742f494f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b63e2a1b-75a1-4ed9-87df-f4ee2cd79e92`
+  - ID `url-3e3a32bf01245108`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b63f3c54-1d81-4b98-a2c1-89fff49ba64c`
+  - ID `url-8a563421e1000812`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b658f273-fd60-4191-b496-d244d47d5531`
+  - ID `url-5ae21acd5df87641`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b66c8fec-abf1-4029-92f2-ec68221b3b42`
+  - ID `url-9d74ee688c89ceb3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b6840a2a-6446-409d-b510-4f978cd80ed8`
+  - ID `url-2ee13d21133c7782`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b6be0fef-6931-4975-b308-1ed1688da9f8`
+  - ID `url-03a6048822e95f7b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b6dba1e5-e650-4e83-b03c-18c1919ce688`
+  - ID `url-1efb9a3c1aebd035`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b6f37799-1aad-4289-9ee5-5dab98f20d4e`
+  - ID `url-71d63fba433382f6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b6f70ac7-a827-4620-ac21-e5b09fd7cee1`
+  - ID `url-6d22abfc4833fe72`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b716cc23-e361-4425-9ecb-cb3a1b9fb298`
+  - ID `url-0c01e1e1ce9491da`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b73dd295-cb56-4760-a68a-7dfde03e2a1b`
+  - ID `url-e15ac9345a454151`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b7557eaa-ac7a-47bb-8805-9ef541ea4d9b`
+  - ID `url-9ab9c1158f45fdad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b79d8bc3-01c7-423d-9ee3-560aba8f56fb`
+  - ID `url-7c52a5e527c461c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b7bbd0f5-1764-4bc8-ab36-76ba12ae561f`
+  - ID `url-e8954046aaf1242d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b7bf4c95-8106-42d6-ac2d-ab1c12708af2`
+  - ID `url-a1faacb68772469e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b83294eb-bb71-4ab9-9ff9-47a7e4f1c76b`
+  - ID `url-a84ad550c2418804`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b8404dde-cbc6-425d-9111-a87aea448303`
+  - ID `url-48d53db0a41ecac2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b858aaf9-9969-4a1d-8be2-e6f0a432c4d1`
+  - ID `url-943739b8b8077512`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b88cb3a2-510f-498c-a5d0-a3d9eddbb000`
+  - ID `url-6427d08e9420cb00`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b8d42df3-dc52-4df3-8a9c-c728fe5a7642`
+  - ID `url-e09a7167758b0969`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b8e34bea-26a2-4082-8bcb-d630168e61b9`
+  - ID `url-99764174f7c9e44b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b8ed094d-e193-449c-b728-be51e33e0d4a`
+  - ID `url-42ef1013083c5b14`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b9115fc3-6592-4f5a-b617-de13207ecb67`
+  - ID `url-bccc06cb20869e1a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b94919f1-2d66-4052-a60b-336539835a7d`
+  - ID `url-d25363bf6367dd10`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b978cb0a-6202-4854-8125-9243b8bf5acc`
+  - ID `url-62a3e87aeb43e4f8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/b9cdcab5-0c79-4654-acb9-bbd5a320057d`
+  - ID `url-7e396871feb25f3c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ba098c4e-7158-42af-aeb5-6eba7da3302e`
+  - ID `url-4e3e2b2000ace493`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ba0c6965-5d99-4796-ac7f-4a62d85b5517`
+  - ID `url-c8a5bc0f35e570e0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ba194c8e-53b5-4b11-85a4-6cf9217b083d`
+  - ID `url-c9a083e60df48ad5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ba4b921c-0a68-47cf-8d4a-5bfa9487232b`
+  - ID `url-cbfb379d919c70c6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ba72048c-e6d6-4988-b2fc-b50dd66a745b`
+  - ID `url-e726563b496e3ffe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/baa189ec-130b-4a60-9fdf-566b1c5f0377`
+  - ID `url-76eeea40c1295915`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bac03f1f-80e1-4712-b2bf-4740efc506dc`
+  - ID `url-aa8626285b8b3d9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bacb4ab3-2151-4ee7-975e-9dcb07854599`
+  - ID `url-05e9441043db5624`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/baded72d-87e2-4b42-b179-a43697262e8f`
+  - ID `url-ad2c28a846a62729`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bb091432-fe78-4d8b-962b-8122d2a9ec94`
+  - ID `url-8de1942682a729a8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bb3c4291-86f8-44ad-8875-c825bc2a27e6`
+  - ID `url-75561ebd0203b189`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bbcdbbb0-c978-4d77-80a9-c614ff7029dd`
+  - ID `url-a0be3a22cc4570f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bc0d5b45-dc95-4447-9f75-ad8dce6a1c48`
+  - ID `url-bf96c5c8b011d4eb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bc2d8a5d-fcb7-46dc-bab6-ea188da21af9`
+  - ID `url-50701e378a561817`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bc3b4610-7395-4d48-9d1d-fd8422a2089f`
+  - ID `url-b5b601eceb6cc1cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bcc939fe-c6ca-45d2-ae2a-50d57692e2eb`
+  - ID `url-73c05bb18005b519`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bce09ec4-156d-4819-84c1-3b3ce32b01a4`
+  - ID `url-6f6569ffad445bee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bce4a84d-86ad-4e1d-8d57-b96a385bfeb9`
+  - ID `url-6b597a9f69e04081`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bd050b7e-f330-43d9-9ecf-f83ed7ad9dc5`
+  - ID `url-5f8e5fac59631a31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bd29d951-6647-4880-8df8-25bfb154dcce`
+  - ID `url-d6979e73767e328d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bd6bf832-08bc-4973-bc87-fb1fc42ef20e`
+  - ID `url-c217d0ffc3b6ea41`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bd8c6bc6-c8ea-49c3-818b-2f3b0a063d39`
+  - ID `url-f4c4263bcdc10a25`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bda888e2-92f8-4388-98c7-684268911b43`
+  - ID `url-4b9dd9e6f556d9f3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bdddeb15-5468-491c-af29-46f2b4c2f792`
+  - ID `url-df69f212fc47cd67`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/be2fba83-ed78-4007-987e-18e4ac109377`
+  - ID `url-d17a8980f3bfd7d4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/be4d254a-0614-4526-9d97-6a75783fff2a`
+  - ID `url-e98b529686f5a6f4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/beb7be70-0daa-4185-b617-d613dcf073c7`
+  - ID `url-dd997ecd813d2ac6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bebe7b9b-bbfa-4e55-bf16-5e73ba1a2e22`
+  - ID `url-ae7ae3230664f6e1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bee8d8d7-cbb9-4555-85b5-582882b3fd32`
+  - ID `url-3cb68baaf2cb3d9d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bef9a659-e2e7-44c0-8061-3cbe96eceb9a`
+  - ID `url-4b81623872e3a4ec`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bf454e25-3504-46d0-9c95-28c043d1a2b5`
+  - ID `url-2c0c8d15ab8e2174`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bf99a821-03c2-4d99-9b59-f3a156488a9a`
+  - ID `url-8f10ea8daf877c26`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/bfeee0e5-acd1-4f0e-a4ae-de612e4e0ffd`
+  - ID `url-ab43f8520e3b7609`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c02fb39c-891e-4402-b620-56188af958d5`
+  - ID `url-081b472d8a72e0c2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c0435271-8c2a-4978-85ab-3cf300876ce2`
+  - ID `url-b222144f81de95b1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c050b848-05a2-46d7-9bef-ca9216419468`
+  - ID `url-5fde10caf020650a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c06eefeb-b353-4b38-9746-643e973d24a7`
+  - ID `url-ae4c8f35b5f9ebb3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c06f8282-aa2c-4a6f-9114-e7f4482a54b7`
+  - ID `url-d451991859ff7a1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c0801c4b-5475-4f51-802f-b4a4a77e18e2`
+  - ID `url-d44c46b8249d92c0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c080695f-51eb-42c0-aefe-fa3f31e6dca3`
+  - ID `url-d8ae8b9a7069e431`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c080fd5c-92b9-40f5-b077-9218198f48a0`
+  - ID `url-df7169630be4f76a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c0afcf43-1de8-4a03-a3b0-162647f8a150`
+  - ID `url-68867521c2101a2d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c0bd6f51-84e9-471a-a050-68ad2945e4ed`
+  - ID `url-88b48ed2eed96ebc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c0ca9e19-2156-42a4-9afe-102c40afd1db`
+  - ID `url-630b21b0fa8ddcbf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c1bff7f3-3c3d-4350-98c7-fe52129385d8`
+  - ID `url-c9782c08073dcef5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c1ccf41d-ace1-46bf-ad61-3559ed3128ce`
+  - ID `url-3455c7e2a2c20f8e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c1cd14fe-bc7a-4a91-9327-4949164ffb2f`
+  - ID `url-4078dc97ac4b0324`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c2095497-bf8c-4578-b5ce-aef71853fb46`
+  - ID `url-8340da49ebaaf044`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c263b499-903b-4299-82af-430b0926bc3c`
+  - ID `url-91008e389001cd04`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c29ece4e-d257-4200-afcb-c0171d744e94`
+  - ID `url-530f2d0c31f359ec`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c347da09-ec5e-4c3f-a374-4edcceff3548`
+  - ID `url-1892393fb66fe69d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c34b9204-85ae-47fc-b09b-d71deca4d0c6`
+  - ID `url-9d1c4f59bb9b0a73`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c365f438-5869-4860-93cb-75230f5b5fb2`
+  - ID `url-54b4bb13e04773e8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c378edb8-ae4f-4e5d-a8ce-0af23182cd3e`
+  - ID `url-835611212fb4fbe7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c380feaf-3654-4009-8a68-fd2086bc74f8`
+  - ID `url-8f90f47494146014`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c3bdcb93-1b3b-42af-83df-04a47289ec2b`
+  - ID `url-733b9aaab9836be2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c3f0c01b-86cf-45a1-8c96-31fe8686f0d3`
+  - ID `url-8f04a4ace502bf03`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c4626e54-dde7-4a0e-9f5d-f98663d4a1be`
+  - ID `url-340e76e48f265968`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c504fb77-3354-46a0-acd1-fa39e8a96302`
+  - ID `url-ea06569c93608c51`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c578c90b-8644-449b-b159-ca998cfb1208`
+  - ID `url-b0675a8b3c2746d5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c5e064aa-4adc-42a0-9f65-907d6f69b6a1`
+  - ID `url-b4bed0bfac24a9f7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c68d5338-b66d-40b1-a0f2-ffe9e88d5e47`
+  - ID `url-89522bca416c20bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c6ba0adf-99a5-4bb7-b625-b5777c3b2d6a`
+  - ID `url-fe5ba18e38c7a219`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c6e3929f-3d64-4513-820f-1ceaec5c17c5`
+  - ID `url-f6da14f52398fd08`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c6f5cd20-36e2-4a27-a087-1bead2ae58b9`
+  - ID `url-e245a66ba1802107`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c71f49df-f0b7-4719-a7d2-5c2029d716db`
+  - ID `url-f9314aa339ba87e9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c75ff82a-e2da-4245-8a17-42e97fc3a490`
+  - ID `url-956edcd2b0052088`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c7729a87-c58a-4538-a732-cc091b9c45f6`
+  - ID `url-c153cf6da454af90`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c7733f49-17c0-49ae-bc6d-d17576e5c967`
+  - ID `url-f3ac32e0cc28e0a8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c8575aad-c582-4e53-b31d-343ff88eaf08`
+  - ID `url-c4ab194949d61f9e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c85cd2d4-d10a-45b2-bbe8-1aa3acf2c628`
+  - ID `url-b4424c3531935cd4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c89d2f1c-cc10-4b5b-8b5b-8bb8702a6c0d`
+  - ID `url-908f77df455ad1f6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c8eb2fb9-00db-4fdb-b063-04365802028a`
+  - ID `url-9b63af97f49f1c53`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c8fd44bd-9b29-4f86-82a3-ec9d0aec4611`
+  - ID `url-26ac1aac489bb074`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9072f6e-a5c8-4cf5-a863-05077e18506d`
+  - ID `url-ff037bd5a850ed51`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9147af7-ba96-4e3a-a07a-72391cdcdf0d`
+  - ID `url-f302a8bd5e5836cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c916996d-3b24-48e5-b66c-d060b063137e`
+  - ID `url-246344d0ebac2782`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c929c8f3-d518-4269-aee7-eea5c8ab5741`
+  - ID `url-66885d630d464802`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c93ec2fa-0d7c-4376-8968-89e17f25dbd5`
+  - ID `url-9b9a6e1961f0628d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9424362-b999-4416-a1a2-c2ca2885f78d`
+  - ID `url-c1906669e0e3cb0d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9ddc5f1-d990-4cf3-8018-257304ea82ee`
+  - ID `url-5534ec692ebe20ec`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9e126cc-d594-452a-a583-52db7797eab8`
+  - ID `url-ba54562542ca19ba`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/c9e12d32-c4d4-4c19-9986-049213c13eda`
+  - ID `url-812cbb1000135ddb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca0d63a9-ca61-43f7-9143-ca9ee6a9615a`
+  - ID `url-17c1c404ef3c43d2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca22dd6e-99b1-4e9d-9089-31f2261073e0`
+  - ID `url-b86dac5ea4f70d22`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca54ff44-eceb-41b7-9b6a-c4740f3cf119`
+  - ID `url-7bf9881725d5243c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca55a734-5087-423e-96de-0aee33e1699d`
+  - ID `url-f229a94cc0976d13`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca90554d-ebd3-4500-91e6-dfec90118d6d`
+  - ID `url-8203304a52e73c24`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ca9a1655-9e82-404d-95a5-47e86f2d4829`
+  - ID `url-a7e938324406767a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cac0b1cc-7e9c-43b3-a710-fbc6d8b3b888`
+  - ID `url-50fdf8e312602c83`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cacf84c0-d7e9-46b3-9590-727fec2b9c6b`
+  - ID `url-49ebfa925527c158`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cb1cc59c-ab77-429f-8636-b927fb758644`
+  - ID `url-fc1996301069c64e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cb2ad2ae-e593-495a-9f06-c8fd486a3197`
+  - ID `url-3fb914136d7742db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cb342a02-5a84-4e40-9873-c312ed004ee1`
+  - ID `url-8a83f5d96dfdd26f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cb666360-5fb5-4524-9400-9798ba8aae6b`
+  - ID `url-8ccd4011c7bd6b71`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cb9ebe8f-0e7e-4a83-847c-ce107cf6f0d6`
+  - ID `url-5d074ffabb47b361`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cbba1f16-ac66-411b-aabd-5a4374d9774c`
+  - ID `url-b886a4c881772323`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cbe44993-4c9e-4ff7-b52e-346b605a1887`
+  - ID `url-8f6a0c297bd5f8da`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cbfefd4a-25e0-4b90-95e5-ac351f2eaa6a`
+  - ID `url-ce91fdc65910577a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cc03edbc-7adb-4521-9fe7-3e8999501c35`
+  - ID `url-2b5a1fa7f618c69d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cc0f49a3-7215-4d48-9472-05c238231b90`
+  - ID `url-8e1d2430e7a22843`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cc4356e6-5215-401d-9717-2a7550a7ab61`
+  - ID `url-7c5a90a8ef73a818`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cc87dd4c-94e4-4a81-880d-d4f31d1704c4`
+  - ID `url-f0cd5303d8f45117`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cd0ea933-ed75-4d64-a29b-c106f7e1d07a`
+  - ID `url-377e15ab3a5dc60b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cd286029-6803-48d1-8351-cf9bca841d5e`
+  - ID `url-1f3138432a132c8a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cd35c270-e41e-41f2-8ea3-bcc547d43d96`
+  - ID `url-f1f9417a3a91402e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cd433059-c400-4183-aa14-2e77d698298e`
+  - ID `url-4d8c68fe1a38c651`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cd83d7c6-6bc6-4a05-8f8d-bcf049cb0367`
+  - ID `url-bed010d587301a0b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cda00ce7-a20e-4e7e-b040-8d06923dbf7c`
+  - ID `url-7b39a28ff35f8692`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cda95729-ff9b-4dc6-806e-30aa99e0b875`
+  - ID `url-fb2a8d914042b046`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cdba3c7e-544e-450e-ba6b-c4372bf9c42f`
+  - ID `url-6cc5fc91bbcb102e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cde568a9-7733-4fe7-aa18-9960f7b22275`
+  - ID `url-88b04d2ee9fcff7b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce165641-8cc3-4c7b-b971-6bfc7614d530`
+  - ID `url-b1775ec6141a4d7c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce22e389-92f1-480e-9426-081f78bc02fd`
+  - ID `url-5682a25365afabf5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce4b14f7-a2c3-451e-be2d-abdfb69b1ccb`
+  - ID `url-e51220d74cd92b13`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce89d964-95b2-495d-b859-da8f2ba83b7a`
+  - ID `url-c1237e26f4410b54`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce98fd74-f18d-4f3d-9741-a85417b8926c`
+  - ID `url-9a531601cea63705`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ce9ce794-1595-4cb1-bd4d-6b0756d1046e`
+  - ID `url-fab191482cf64d1f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cea2e668-ec37-4d84-a457-2182ad63edb6`
+  - ID `url-edc34e0ad5718d1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cebda566-5b4f-433d-bf59-300e30abc764`
+  - ID `url-9e3322fbcc981724`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cec4cbbb-3fd4-4ef6-9773-46a2e8b28d35`
+  - ID `url-294a1a22af656c3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ced22549-8bf9-4fef-bb17-aaa0091445fc`
+  - ID `url-d43d96a3a0fdac11`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cee6f2eb-4160-41b4-96e2-43b9a3be2955`
+  - ID `url-ab37c90e6514955c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/cfbfe416-6405-43b2-be1d-a7da2e853e61`
+  - ID `url-8fac094017f8ff6d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d0295db3-e3a6-4b2a-a3bf-5665bd9167a2`
+  - ID `url-51e844e10c823647`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d05f4b47-8f69-4a66-8717-37ee4d89ed57`
+  - ID `url-b1cc7dda1ceaa0b7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d0989a2c-a83e-412a-aac4-5bdfe459c391`
+  - ID `url-e11f4491e223f9f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d0ac9d53-c2ba-46e8-bb65-2d486f0fd4cb`
+  - ID `url-a536cdc8ba8bc761`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d0c57b0e-6ab4-425f-9e08-57c6778ac0f2`
+  - ID `url-3e8fc61e09d2fc9b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d129563c-b074-43b8-bb93-f099845b610d`
+  - ID `url-1bb099d91f1f8c29`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d1631caa-6f90-4f80-ad19-2239061ae0c0`
+  - ID `url-d85ab218093e8c08`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d18921bc-582c-4fba-a96c-d113d6dcd70e`
+  - ID `url-f49e42b2e669343c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d1e4ae35-4fa2-4d0d-a0ee-96bddd4895c1`
+  - ID `url-3f8a2b29f6efb971`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d1f5ee08-efdd-465a-9427-423116a086ee`
+  - ID `url-2038ad2db5be76c2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d2147f8e-5f27-435e-a227-01894d3262ac`
+  - ID `url-94662413e826fde4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d2187bf6-e133-45b8-8b8f-65b154a1a12a`
+  - ID `url-33b36a9b971c7ac4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d220dc90-341c-48ea-b099-27a381b29fca`
+  - ID `url-7821a5c8811ba1ab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d2327357-3d36-4abe-a849-946844a21ad3`
+  - ID `url-83729a0d185f31f0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d24ef42f-2c9d-443d-8307-bfbc5583ffab`
+  - ID `url-f79a61505d460b50`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d2744c9b-470f-4480-a921-b5020ac9b67d`
+  - ID `url-5cd216f084102834`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d288f08c-eadb-4c3d-861d-7b90ff978887`
+  - ID `url-6b856bdf47b9a9d0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d33edb40-d75a-497c-a428-f7167bcc86f1`
+  - ID `url-d310e9e5b0efe4e5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d3c60744-5bbc-46e8-951f-614994e61e49`
+  - ID `url-3f6af425af629ca2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d442ede1-c16e-4caf-b233-c520d8c99fa0`
+  - ID `url-5f9caac2c7f7b55d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d469655d-dc6b-4501-ad20-ed3e2a2ccca8`
+  - ID `url-61363dcf0973bf11`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d4f04905-32e1-4a98-a009-4ef650731312`
+  - ID `url-ae6fefb72cf7c433`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d4f3ed5b-7a0a-45d4-afed-74bfd76c90e0`
+  - ID `url-d72340bdb497473c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d52e6db1-e8a1-4f07-be94-1dd6b2166aa2`
+  - ID `url-2c619ee8f8b36b9e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d53069d2-ad89-4081-8203-98707d4b006e`
+  - ID `url-5262e54097ea7384`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d57d7a09-06d9-44a8-9251-97e462613feb`
+  - ID `url-92dcc22d543ec18b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d5961f72-109a-4fa5-a804-13d56cb5567e`
+  - ID `url-bc74fa3584257c4a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d598aa28-0cbb-4f73-99ce-988509b71190`
+  - ID `url-170b4a08ee9efb3d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d5e5aef9-08ba-448d-9c22-3959682cbe70`
+  - ID `url-958e247def06b11d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d6158061-fb1d-468a-b96f-c65a3d5f7c57`
+  - ID `url-20ebe05a43a6c771`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d62981e4-b275-4fea-9f37-d2f1174dd5e7`
+  - ID `url-03759280c4d4773a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d62ca8f9-ee2f-4e6f-8405-efc6601b7091`
+  - ID `url-2f1f9d8f7d592201`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d667587e-4518-4019-a603-75d5fed522b0`
+  - ID `url-79f1998b3c182c7b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d6b726b8-8e4b-45a9-a234-ed9a1e803b8d`
+  - ID `url-f10faa690cd553bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d6de6f3c-29ca-426a-a012-3fe33eb0d280`
+  - ID `url-538c2d717113294b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d7a392d7-a6b4-48d8-92c7-1e9f9afde074`
+  - ID `url-c5c848b6a136a8dc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d7ab8d11-4b3a-425f-a4a9-54b0301febe8`
+  - ID `url-023f06fca46a1abf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d7c51348-9ad5-414a-830c-6adbdb9f1503`
+  - ID `url-b52d2e4aa2f1e91f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d7cba212-4cc3-4c58-85c1-4a1846969d03`
+  - ID `url-069f69ad88b662f9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d7f6998d-a779-4248-a2cb-13cc7f1660b6`
+  - ID `url-7474b3a5102166c0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d80eec0d-cf45-403c-99d1-d12e42976af5`
+  - ID `url-a95bd4b8a96e99d5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d82adae3-4911-416e-92ea-c8fdde519cb1`
+  - ID `url-260dfa08ad55317b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d84244d9-6607-4b01-be5a-2f9f42ae2fa5`
+  - ID `url-f53f0d571fc31a36`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d849050d-4153-49de-a17e-9aeff5469ef0`
+  - ID `url-3c249d9a251d205f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8570f52-4935-4552-9320-30af9592e678`
+  - ID `url-f6955408ee12a5b3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d878b23c-737a-448a-b6d2-1e33e977206c`
+  - ID `url-9dae8d4033422d31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d87b3d39-7df5-45ff-aa7b-9f1aaba93a32`
+  - ID `url-5f0c4cd7a84d7c8b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d894b1c2-8434-4675-9354-80d81b3c5d48`
+  - ID `url-4749f0201d86f425`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8b56fc3-6dea-4367-99cd-1a6f00f75c75`
+  - ID `url-1172a871a33e589f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8b9e926-2d06-42d6-a217-c12fdf07ccdd`
+  - ID `url-f44448ed3c7db87f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8c22c75-4d50-4624-be3b-f5b49e579803`
+  - ID `url-35a5245f09146188`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8c3c493-0f7e-4874-bb5b-fcfb161f414b`
+  - ID `url-60fb6a0a0bdad2ec`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8d43647-196c-44c6-a323-e1c94e12da45`
+  - ID `url-045d275057f46340`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d8f3a63b-79dd-4c72-ab48-49b0151878a5`
+  - ID `url-b51399d38e7283fc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d9011581-2d1a-453c-9d01-d21c95a5bbf2`
+  - ID `url-c26e3003433f8ba4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d903fc7c-d293-47a1-a394-4b701c93b578`
+  - ID `url-76f7c1b27f5e886a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d9076ebd-07cf-41c8-aed6-f6ca8be5821d`
+  - ID `url-d795b56c10e63ac2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d91769e1-0541-4bbe-be3c-90715a4a2e14`
+  - ID `url-77e98ab114449e76`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d93cb82e-2d64-40cf-a83e-6fe042e1e550`
+  - ID `url-b9ac2c12efe0e163`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d99c8a3d-f58e-4f5f-bcb4-75135dbf901e`
+  - ID `url-04d33037bf849f06`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d9dd4469-d9f7-41a0-b67b-0818aa0e0b02`
+  - ID `url-2bf2034e1283c592`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d9e2ed90-658e-45a3-a80e-fdacbd8abe93`
+  - ID `url-291e18f701ccfc91`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/d9f4c469-f300-4669-8b42-ec86b2ced8a5`
+  - ID `url-e67ec3bf31f676d4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da05fb4d-04a0-415f-b02e-38447bbad0ca`
+  - ID `url-c10b68b6c5ab2536`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da1219e3-65db-469a-ac7d-6c07903f31ce`
+  - ID `url-053291b78a2a78fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da15c05c-0c60-4737-a85d-9e2b88a0a13d`
+  - ID `url-c87d4875b2b1ccaf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da399112-84dd-456f-92d0-5be6479954a2`
+  - ID `url-1ce7f67bc77562c5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da441dc0-86d9-4984-a526-40ed827bf170`
+  - ID `url-0ea99ec746062575`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/da6e0104-274a-43b4-9725-bb8a3c1e7b6b`
+  - ID `url-00cb22b3e088f1be`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/daa5a1d5-6ed4-4b04-85b9-b61ba9b0baa3`
+  - ID `url-99a88eaf1aa6fa93`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/daaca955-a396-4003-be68-ffeb5086a284`
+  - ID `url-9713874677afebd3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dac9a112-6c8c-4425-aaed-9be65522304c`
+  - ID `url-0c0a6d9a4349ff54`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/daceecca-f133-499b-b970-c263eb146fb1`
+  - ID `url-d9465d6bd1ac2c95`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/daf5e06b-0ff0-4856-b7fe-41a532628b18`
+  - ID `url-9e13ff105b32e771`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db09bba2-d537-4c42-af44-995d24215016`
+  - ID `url-4029fdda4d58321f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db4b1425-2c50-4ce8-9d58-380276a0e72e`
+  - ID `url-8b59e21de8af5a49`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db566722-56ab-4f0f-9720-8c050bd373a9`
+  - ID `url-f055007e0ccd2d27`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db698f97-81e6-4209-a8f4-d47b0a076aa9`
+  - ID `url-866b179ff72a0948`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db7762ab-d1ff-4e71-a6bf-c50f97b4bf20`
+  - ID `url-8292ffc2cc968237`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/db93f9ac-5a1e-4375-a126-5ba4e2794a18`
+  - ID `url-4a559f5afd2ba129`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dbeb1b77-57cf-4d11-a79d-3492001ce879`
+  - ID `url-441b45ea2c932d7d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dc77f6f9-dab0-4758-a42c-a310837f2a5c`
+  - ID `url-19d120a7b3110b5c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dcb8c12a-9789-460f-96f0-a339bb377e62`
+  - ID `url-5a5ef42b47bfc1cf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dcfb17bf-a421-4d07-b1a8-89bbba30f979`
+  - ID `url-c203f1aead43b80f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dcfc7070-c583-4721-b42f-8d6cc20eaff5`
+  - ID `url-7313b76a01028c06`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dd47a661-f512-45bd-b834-836124302669`
+  - ID `url-c6cb7549c4b5d4ab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dd6c4784-2a86-49d8-8418-431ed781f0b7`
+  - ID `url-0d5253b85417a696`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dd7b45fe-55fd-4e0e-b2ff-d25c7b002088`
+  - ID `url-0f63b11c10a1f87f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dd956589-a8c7-489b-a30e-2fb5bc584373`
+  - ID `url-dd4044a63aecae66`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ddf7068b-a42e-4b6f-8888-6272c451fd2c`
+  - ID `url-ed33f57d5882472e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/de4a2a53-400b-4bc0-b372-d1950cda34ad`
+  - ID `url-4385a2aad6e4d086`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/de84d4a9-8d72-4e9c-9de7-35dd015b18fc`
+  - ID `url-0d5a920a8e3aebe6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dea8ea43-6f28-487b-a836-3d5a20397284`
+  - ID `url-cacdf70493bd4d52`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/deabfecf-6b56-4189-8a97-416b5a8549f3`
+  - ID `url-d380dda466eede14`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/debd8495-3878-4dbd-9635-a202b1c35b46`
+  - ID `url-4b07626726fce269`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/deda7052-bd8e-47b9-bede-3cfb54831ebf`
+  - ID `url-dae5db231da377d2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/df249a18-9497-4707-af5c-aaf3552b3948`
+  - ID `url-ca4510ac5ca3894a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/df2e55d7-20e6-457a-b06b-4f7f81dee41e`
+  - ID `url-1dc22dd8c010ced0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/df519ca7-8590-45de-b3d5-ff5d7a514fdc`
+  - ID `url-cf9cb0358dcea537`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/df66c362-f039-4212-b057-2f48a8393c97`
+  - ID `url-31ffdfa8789e1753`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/df8c2d83-7976-40b2-a6d0-eaf57417b3f4`
+  - ID `url-7d30f585f5755a4a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/dfa5838d-149d-49e7-b178-0223873032e2`
+  - ID `url-6dc3979865d39c74`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
 - `https://urlquery.net/report/dfffc3cf-9d8c-4d9e-8922-256294ce2a4f`
-  - ID `url-9b355cba7c5e0ce0`; opening `caution`; risks `external_logging`; mentions 2
-  - Labels: `expanded direct IHME variant at about 23:54Z`
-  - Located in: `expanded-search-v4`, `research-store`
+  - ID `url-9b355cba7c5e0ce0`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `V5 safe URLQuery receipt`; `expanded direct IHME variant at about 23:54Z`; `known-v5`
+  - Located in: `expanded-search-v4`, `fanout-search-v5`, `research-store`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://urlquery.net/report/e0159532-c1ca-4277-9a5a-9f52cb27f751`
+  - ID `url-b03e273d712ff885`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e03eb078-7423-4161-8c51-ca3e37d9404a`
+  - ID `url-79316b198a058194`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e062750b-5e2c-4e9b-9478-c27e1dc2af96`
+  - ID `url-df67aa225d27b1ef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e06c67c8-4fbb-46db-adc3-c61d508412f9`
+  - ID `url-c63a0932a29cf168`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e09730c6-2ab1-4aaa-8974-4f64fa3caef9`
+  - ID `url-cc8407cb65f83aef`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e0b2b1b7-08ee-4f2b-bfb4-fa310fdb30ec`
+  - ID `url-84849ecad0f92ba0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e11875d1-4fcd-4aa2-9a1e-45b70706d4ce`
+  - ID `url-600791d4a3aa1025`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e126a053-a852-4bbb-b7a9-5af848c27aa4`
+  - ID `url-19a37b97f99c3950`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e1354e62-fb5b-41db-8595-f7ac86d11ee7`
+  - ID `url-33841068adea48c7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e14b9c64-d058-4c1e-9eed-5b6b479665da`
+  - ID `url-394d5d747cba39e9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e150a94e-e9c0-4e7c-ba0f-cf385386acb3`
+  - ID `url-d2bf1448694c26a4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e185318f-068a-4bfb-ac1f-e56dea3b478e`
+  - ID `url-2729b9d6d83a462c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e19e007c-b84e-48a7-896b-abe7215f7980`
+  - ID `url-b52a25cf5f047205`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e1b23531-94b6-403a-861f-3ae89052885e`
+  - ID `url-ebc26b1098251aae`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e1cbf9c2-8898-48d5-9735-451c7f63a72f`
+  - ID `url-4888eae4a89cb644`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e2401961-5734-4faf-9695-f7e17bc0d95c`
+  - ID `url-381ce1a3cb568d8d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e26bbd4c-d345-44e1-bded-d8386b07fb30`
+  - ID `url-4090470e3ccf6c11`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e2805685-3b5b-4c19-b208-b60cbcd69e66`
+  - ID `url-cc9a145706fec6d6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e28c2c6a-83e3-4c5d-a226-563cbb191ff6`
+  - ID `url-dd1f57b7cfb256fd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e31271c4-5b59-4e33-b935-685be19975c7`
+  - ID `url-665d8a239c75f890`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e31efc45-0dfb-400c-95b1-d4d7e981dda8`
+  - ID `url-828f0c37dda6fe02`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3273321-ea34-4460-b251-ebbac3e205fd`
+  - ID `url-90a035de398e5aa5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e33dd14a-754a-4df6-8852-a8abb56a2552`
+  - ID `url-d8a048dde8523b78`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e35e088a-f058-4274-bee1-ac4871d69834`
+  - ID `url-cd7611ebc7642b6f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3a93b49-bf72-424a-9b12-b9f0b57368b2`
+  - ID `url-63bf570bf086bd40`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3ad493a-0759-4c13-9b17-c9855ead316e`
+  - ID `url-be5dbc6a208c08de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3d2e123-ddbf-4145-b9e9-b334dff76f30`
+  - ID `url-2ec078baf9c89943`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3f4c658-92a6-4da3-8f39-b7d83140ab08`
+  - ID `url-aa93f824b4a17587`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e3f5fecd-9e9d-48ec-8baf-3022b1b5d778`
+  - ID `url-90d77232717c6ce8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e419d465-75d1-40e1-993a-c4cc187aab20`
+  - ID `url-0f90de8de654ac14`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e4511cd9-6b12-44c0-81dc-cd86f0fddb70`
+  - ID `url-d80cd526449735aa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e453fd97-406c-4920-9acc-634b4890445b`
+  - ID `url-9e28420f30195b8f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e45f9075-38c7-49f2-9684-641b41774a60`
+  - ID `url-e365f624ffc54280`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e46eabb5-11c8-4575-8126-0f486cffa2d6`
+  - ID `url-a4bd0c530c4b8310`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e4863b63-b3a7-49a8-975c-77f0c7f4a5df`
+  - ID `url-3cb1af2a43a53432`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e4c7a04f-a52d-4b2e-be87-464054415724`
+  - ID `url-df618e7cce201749`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e514bb3e-77c1-4366-8d3f-4e34f68868e1`
+  - ID `url-b38cf4800b0a9e72`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e53f1eb6-5eaa-47b6-a7b4-e80a8e7e843b`
+  - ID `url-5888ba461198f9a3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e540c085-c86b-4acb-84c3-cdc44be43d8a`
+  - ID `url-536500c7a9c5bc73`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e544eb19-499f-497a-b3fc-7b4b967ffa5a`
+  - ID `url-f1527d588add185d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e56612de-494c-4527-82e2-5ce9d4713ac0`
+  - ID `url-621a5326f2f5f394`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e5bbb4e8-40d3-4c44-88a8-a2f2e0dae458`
+  - ID `url-46ac69055f12d299`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e60dd2d8-050a-4230-b8f9-f4a1a2840fa0`
+  - ID `url-c706b92b3993096f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e6db9566-59dc-4381-af26-4fb552417c0b`
+  - ID `url-6807d664e7951fb6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e6ed9424-7fcb-41e4-80dc-68d186f94ef8`
+  - ID `url-ba875e3206a88097`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e6f447fd-b278-4dcc-a274-e4a28b790565`
+  - ID `url-dd1f647b1ea3dcbf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e73e606d-d6bd-4dfd-a8c5-95a76ecc0433`
+  - ID `url-b1eb1cc00c9e8e14`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e745a0f1-c275-4657-9867-a8c3e9484b2e`
+  - ID `url-be01350dcd378aa9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e74dbf5d-6fd7-49ae-bb0b-a8ffe42a2867`
+  - ID `url-cedb4ada9e68718b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e78aec39-ab6f-4d9f-86ce-cb3d8384c5e6`
+  - ID `url-ea938a6ca834d6ff`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e78c4a83-8ab8-4467-87b8-53433d7474ce`
+  - ID `url-ff5be8970dd236c4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e7a26cfa-5f2c-459f-86f6-a02a363a81ca`
+  - ID `url-e2ef213ebc7573b7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `known-v5`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e81d3256-f907-4e17-a0d8-b96907f46287`
+  - ID `url-da6e8741e492ed88`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e86b6aab-9769-4db4-95c4-cb1945fd867b`
+  - ID `url-ae0e9ad806838ebd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e94597d6-2a9d-4a3b-8515-8993414e7d13`
+  - ID `url-5f677da74e5571df`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e9889c6e-8021-4117-8b2c-da6b8de8740a`
+  - ID `url-b8f351a965c1cafd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/e993dc0e-419c-4c86-9d7b-74b249e4ffb5`
+  - ID `url-478f585b35346d1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ea94ebbc-639e-4752-aed6-52c1c8c99afe`
+  - ID `url-65d75322664f92b7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ea957abe-89fc-42b6-945c-9b78c11be74c`
+  - ID `url-32b1ec5889ee5fdb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ea95a8b5-6d3a-401f-ad40-472d33cb4ac6`
+  - ID `url-155d82dc1c39cb08`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ea9da125-37b0-4b59-ae1a-67b62eb1ec1c`
+  - ID `url-18988475ceb04faf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eab931ae-0373-433f-b422-a934967f4e80`
+  - ID `url-1365284c12ab0b64`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eace2bce-ebe5-4640-87fd-ebd2e7cad49a`
+  - ID `url-c6e9f4a947ee43ab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eb0e686e-ab2c-47f8-b878-3c19403a98b6`
+  - ID `url-26661ddc1151cb09`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eb49dedd-9600-4f98-b706-6aac998683e7`
+  - ID `url-74ee5afddcdca642`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eb57aea2-2950-4295-805f-9f1761d4dffc`
+  - ID `url-bff8227dcdcc9704`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/eb913623-dd28-4e17-8098-b4d5c8de134c`
+  - ID `url-ecdcc9a556b798cc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebb9ea1e-4476-44c3-ad24-8005fd7f46d3`
+  - ID `url-b6935dcec295b7fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebc7eb17-e1fb-4573-8474-aba19487bba7`
+  - ID `url-fd1371ceba254e33`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebc9a527-6e39-435f-8aa5-46c96ccf9ac5`
+  - ID `url-dc0e667f7983dea7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebddec3f-654f-40ab-bba6-702237be802e`
+  - ID `url-ca0bbebff5cd1c41`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebe1fe1b-9c59-4916-b50d-9087012b78ec`
+  - ID `url-52e6701f5790cc12`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ebf40676-2421-499e-b4dd-df93d133e05a`
+  - ID `url-f9a46ffbc33fd54c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ec03c74d-4495-47dc-8662-75215ef23fb1`
+  - ID `url-f7e343a567ef4d71`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ec963526-e713-44b6-a60e-c39742afa274`
+  - ID `url-7fcfae973f56dc9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ecc83fc7-5110-4b12-bae5-606e96cb4b3f`
+  - ID `url-f95365a83523ea34`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ecd28b03-bdb2-4ef0-b17b-c0329db2b2a4`
+  - ID `url-dd06ef356c44ea9f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ecdc338f-6ac2-49c5-a3c5-c405460d6766`
+  - ID `url-2df23f0d88db3726`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ecfdac1d-ebe8-46db-ac49-7b2e9228ca62`
+  - ID `url-c167199742daa5fa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ed5f9186-7344-435e-a64a-f3899f1529a1`
+  - ID `url-b73d48be75a415cb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ed6f36d0-45a7-4214-a36b-7db3af5c0a7e`
+  - ID `url-2800f5e977a51b6e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ee6c60a7-a916-422a-94ea-953b9b9654ac`
+  - ID `url-ee889226c0883743`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ee75e902-b4a3-436d-95fb-e644438c392a`
+  - ID `url-0f330c8bd46763bd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ee7d6ea6-248e-41f0-bbf5-5a8c709dfdf5`
+  - ID `url-6588c2a32db226f7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ef0b6b17-da4f-4c43-a782-42cb52f910af`
+  - ID `url-22973abaedca2f66`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ef0f6ad3-8b7d-4e81-b05e-82e77f99094e`
+  - ID `url-fe6771a1ded07ad2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ef473a49-584e-45af-9ac6-1334e64e37bf`
+  - ID `url-d51e3082ece82aca`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ef4d690f-5110-4734-b50b-5800dbc2cab5`
+  - ID `url-3060579cc15843b9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ef973ffb-152b-468b-bb8e-fa2f5113ec6b`
+  - ID `url-30f4702df16282c2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/efb00893-7232-458f-9963-fcffbbf2d575`
+  - ID `url-e2ff42cc68e90b84`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/efce7ba6-7440-44fc-8e7f-be5e615fc0b8`
+  - ID `url-d3c138cde985f555`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/efd8ec05-7517-440d-ae0f-e1d8cc22286f`
+  - ID `url-24586943bbe8433e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f0012ae5-0d66-4e33-8d0d-6ef33ad3c36a`
+  - ID `url-3d24937bd09f5d2f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f0076aac-e4e7-436b-8b97-7359ee948d22`
+  - ID `url-942611788fa7e56f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f0458d53-96d5-40a4-883e-d6ca6e4740af`
+  - ID `url-14176701a4ad3e6e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f10e75bc-9b3e-4dc3-a5dd-789d4be02e11`
+  - ID `url-a0dac6471519ab07`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f151368a-eab3-4d56-aabe-5eadd251ff41`
+  - ID `url-ada2bc171b8ebfbb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f16f0e39-f424-4ead-b031-48db7cb098bf`
+  - ID `url-b96eee9a79c7386d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f198b4e7-7069-478c-a584-0d64097aea0e`
+  - ID `url-86772a0c8455fb30`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f1a553b5-19e7-4dd8-b4a2-09923101cdc2`
+  - ID `url-1784255e8d6216fa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f1cf14e4-c1d1-4bde-89c4-59ec65530fec`
+  - ID `url-eef5d4b5ce862b90`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f1d37580-b48e-4a4c-a855-0c829a8c90fd`
+  - ID `url-f9a08d7796ae863e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f1f371b4-e190-408c-a62c-a06c3dc9b4d1`
+  - ID `url-36d44a2cf9f689fb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f1f47047-1a50-45e7-88b5-1583a1bedc74`
+  - ID `url-27a7fe29e42201f8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f24c81aa-13c2-4410-88a6-f10869349f70`
+  - ID `url-4684fd29de8a43db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f2a67706-5e96-4f30-b268-99574445237f`
+  - ID `url-8007c0a3abb50f84`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f3247834-24f6-4618-8c27-b092d92f44c2`
+  - ID `url-6596ae553fd4a894`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f34a2adf-3682-4460-aec5-3b9de8c51d6d`
+  - ID `url-c010321560870131`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f3801f5f-c38c-4e0d-a41e-1a4d58453944`
+  - ID `url-4273f3b682274587`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f3c81da4-bc5b-47bf-a6d5-4fe8159791ee`
+  - ID `url-d055dfb161171946`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f3cefcd9-0571-4443-9937-e5fd8579a376`
+  - ID `url-9ee7bad937809e11`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f45c58ff-9a7d-49c0-b801-d88b6984078d`
+  - ID `url-7a642a598c1e382b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f47d769c-c5be-424c-8cde-e3dda883f7f3`
+  - ID `url-46dc4c7afe4bca24`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f484be4a-9cca-4a46-a545-c8979582353a`
+  - ID `url-cbcffbd67a06d43c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f4b2f7a8-94d2-47a6-b317-9fff965f825a`
+  - ID `url-2fa99c5a7adb49ed`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f4d9e132-6021-4e77-b57e-a7dbe1b87ebe`
+  - ID `url-6bb3cf9e1d92e5ab`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f54a1957-5593-4aac-941e-f29913330422`
+  - ID `url-48b996b4f9543288`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f54fe847-cf17-4563-b73e-ceaffae2fcc1`
+  - ID `url-b0b9b523dccc2abd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f5616ab7-6832-4606-ba2b-44052d995d30`
+  - ID `url-a050c20e374a12e2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f5b9cfbf-61e5-44bb-9a1a-bb7d79927612`
+  - ID `url-8857e3d5b17ae8e5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f5c9dd1a-bb48-4aa8-a2da-ab910c8da524`
+  - ID `url-427ea29c5f4cbdf4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f602d183-e45a-4ea1-9994-32cd75d0a8a1`
+  - ID `url-eb87bb9a83519896`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f61afa5d-2003-4e97-a7f3-8aba84eb1327`
+  - ID `url-ac185aa44e11e6eb`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f61d0699-0886-4ca1-b782-879ac5a4b46f`
+  - ID `url-efa1ae2d0f74bb84`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f6744105-2211-49d2-bb54-6c591659bba2`
+  - ID `url-43ed2c88ea4eda6f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f68a2798-8c2e-4e22-b405-835b077ef54d`
+  - ID `url-e127a48f5239ef89`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f6a0c2f3-5c3b-487c-b0d8-2ce0a6895952`
+  - ID `url-9c2d91c948d2b836`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f6f6bdc2-2a9a-4794-ba29-1a260132707c`
+  - ID `url-eb51322cce9c8ec3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f7072eef-faf8-4ec0-abad-5da7d426ebb9`
+  - ID `url-00420dca9cf32ffe`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f717d7b1-9eef-4dd8-bcd5-6a0945f8a887`
+  - ID `url-73bbb6f2ed60058d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f71dcc6f-cff7-4511-881b-a528ebe818c4`
+  - ID `url-30a381b92fff3fc5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f72311f2-a461-4843-9b4f-24a3b3e00b38`
+  - ID `url-c67912622207aa85`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f72e29da-34f8-4f00-a328-5e10a6f17db9`
+  - ID `url-32fa959e04486ddf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f78d7327-0693-4d4f-90ec-35f93fe4da58`
+  - ID `url-13bec301b665bdd2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f78e54c7-3b46-46c4-8fa7-9df7d4665c6f`
+  - ID `url-555aa94beb26bac9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f7f0f95b-3bb9-4bad-b730-f668b7806fdf`
+  - ID `url-1dc234045b7ba16c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f8388609-6d72-44b3-9b73-2cacca978718`
+  - ID `url-173269a1b0697e85`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9461ac2-95c0-44ff-a213-1174efbf8351`
+  - ID `url-b52896639696bde9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f98521f7-f94c-41b7-a81f-ed4cf8d03b9e`
+  - ID `url-9f59290a5b61c057`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9aad6b9-0235-4b8c-a80f-c695d15d6793`
+  - ID `url-614decf2345908f8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9e202bd-5e71-449d-8e27-6add169a9e03`
+  - ID `url-f24e0057a55a1f3b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9f7bb80-221d-475d-8443-cf27f659327a`
+  - ID `url-afd958c53c5c3959`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9fcf776-e2cb-4842-958d-497cd5163ad8`
+  - ID `url-c20b1badd92ddd3a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/f9fed5e6-83c6-458e-8944-98b21a9c593c`
+  - ID `url-0dd44cdd91c1e7b9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa24985a-7ec8-4981-b645-4672b7bb7efc`
+  - ID `url-b5d65cf23c3578b3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa3b6ba5-cd7f-4d08-a795-e61b51cb5acb`
+  - ID `url-aa41ccf7c6ec27bf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa3de051-601f-4851-88b4-3e768b8d2ed4`
+  - ID `url-bc66b9806bf55d70`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa4637ce-bc10-4f97-a244-59873542154d`
+  - ID `url-cfe9e5329c5bb988`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa5eab66-0700-47bd-8c2f-7311ec074769`
+  - ID `url-71b5e8c3aa544dd1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa69c51f-a56f-48a1-9b42-9952452fab77`
+  - ID `url-c42e1a4f61e19e82`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa8aa254-d6ae-45af-90c9-5f446a6da275`
+  - ID `url-3997dce19aa30dd5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fa9eca09-6b5b-4974-8f78-95c5d9dff242`
+  - ID `url-d66ab82b31fd98d6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/faaa1ea4-163e-40c4-851c-464a3fe925a1`
+  - ID `url-85e5b5c49d7bb4cd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fabdcd45-6f13-49c8-8823-8650a9905622`
+  - ID `url-f960a607e702c658`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fadb4a58-e513-4b82-99c2-f15d0af25feb`
+  - ID `url-202704ebb7c28371`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fb08cc39-4517-46b8-8738-db577b3ef209`
+  - ID `url-c004c9152e021322`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fb2512df-a739-43ef-b7f2-c43183f05268`
+  - ID `url-6e9eaa9e88f2198c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fbcd036c-88a0-40a0-a820-681a876fc6d7`
+  - ID `url-a81dffd5112246ce`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fbe7bb60-b551-4e87-841a-9adddb49e1d9`
+  - ID `url-5e3cea7a496e647e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fc05e4e8-8219-4a63-bbe7-eb384ac1feee`
+  - ID `url-2bcd17c4456260ce`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fc2f3f91-c2be-4917-bad8-568163cd2938`
+  - ID `url-31b454368760def4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fc322ad2-08cf-4991-ae97-9906e7618548`
+  - ID `url-7997166cde207e3e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fc60aee1-6963-4a27-ad56-7fe277e2c257`
+  - ID `url-3483b3f44fc41007`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `datausa`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fcbd455a-1c32-4681-809c-f8c37fe944dc`
+  - ID `url-259813b08a488c00`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fceb01b5-9c58-4707-87ae-11172c3f20cd`
+  - ID `url-0ffc784f90c080a0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fd51b139-d547-40e8-a440-71cfe4592f42`
+  - ID `url-2354160975dddbad`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fd9e97c8-05da-43df-9084-58a7867ec960`
+  - ID `url-243e93f67e74d214`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe001813-985a-4dee-baa8-cd4264885b76`
+  - ID `url-60e49b99e4340876`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe178da1-ab62-442d-9c22-432af889e5fb`
+  - ID `url-b2a0ce9b15e93d4c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe18b258-7856-4a5d-a51d-497fe6cbca8c`
+  - ID `url-2727b118326eb427`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe2f56a1-c6d6-4c52-aa9d-e98c81caf68a`
+  - ID `url-deb76d11ee469fa7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe324b67-47fc-4f27-8f29-6eb6c689b171`
+  - ID `url-ecbecf0db055b687`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `http-traffic-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe705fcd-7bcd-4dcd-9cbc-340eb12f47f1`
+  - ID `url-736635b8fc694841`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe7c2454-b3c8-4961-9812-62ad9e8d59ed`
+  - ID `url-77b5a1659e5961db`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe903741-f422-4593-a4a8-e876f4957a0b`
+  - ID `url-fb56593055407929`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fe91e9bc-19c5-4fc2-9905-8771ad2d6b4a`
+  - ID `url-7ea988205c5faae0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/fecc87a2-f1dd-4173-a846-2ec222adf279`
+  - ID `url-01640381cb72bbb2`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/feea40de-c892-4c49-8873-8c471ef9dcf8`
+  - ID `url-945729e329079279`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ff30dbf2-e4c9-4283-9146-0806be6c6f61`
+  - ID `url-9b2fdc50014cf01a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `vizhub-extension`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ff3f82fd-3ab0-48d2-a1ad-87a53de3aa16`
+  - ID `url-df6c7c52a38de07a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ff926ee3-1e7a-4c76-a69e-1fbf6ff639a1`
+  - ID `url-7ac65b467810c6e5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ffbb1d14-f2c4-4f8e-98e0-32c0ee821a84`
+  - ID `url-094ec87a4e44ff57`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ffc47f48-5217-4f44-a267-482d2ab36ed2`
+  - ID `url-40f107b7753fffc7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
+- `https://urlquery.net/report/ffda429a-f09e-4f69-94df-4f988a6efe58`
+  - ID `url-c928b1d605bb36e4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `V5 safe URLQuery receipt`; `direct-source`
+  - Located in: `fanout-search-v5`
+  - Note: Safe report locator only; submitted paths, payloads and network identifiers are not republished.
 
 ## v.gd
 

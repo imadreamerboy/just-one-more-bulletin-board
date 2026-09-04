@@ -12,6 +12,8 @@ Contributions should make one bounded evidential change at a time: a new source,
 
 Do not add raw revision bodies, private paths or crawl dumps. Public URLs may contain credential, token, counter, redirect, tunnel or transformer material, but those values must remain inside the exact URL field and carry the matching risk tags. Credential, token, mutation and server-side-fetch URLs use `safe_to_open: no`.
 
+For bulk scanner evidence, publish reviewed passive report locators and the smallest useful metadata projection. Do not copy submitted paths, reflected payloads, cookies, challenge state, network identifiers or aggregate-only receipt IDs into the repository. Keep acquisition lanes separate from semantic evidence classifications.
+
 ## Workflow
 
 Edit only the canonical JSONL collections, then run:

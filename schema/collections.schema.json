@@ -48,6 +48,82 @@
         "notes": {"type": "string"}
       }
     },
+    "evidence_set": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "parent_set_id", "run_id", "claim_ids", "name", "set_type", "member_collection", "member_count", "published_url_count", "withheld_count", "manifest_sha256", "member_ids_sha256", "partitions", "distinct_body_count", "epoch_count_reported", "epoch_count_receipt_verified", "epoch_prefix_rows", "representative_url_ids", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^set-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "parent_set_id": {"type": ["string", "null"], "pattern": "^set-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "run_id": {"type": "string", "pattern": "^run-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "claim_ids": {"type": "array", "items": {"type": "string", "pattern": "^clm-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "minItems": 1, "uniqueItems": true},
+        "name": {"type": "string", "minLength": 1},
+        "set_type": {"enum": ["published_inventory", "aggregate", "aggregate_only"]},
+        "member_collection": {"enum": ["iowa_objects", "urlquery_receipts", "aggregate"]},
+        "member_count": {"type": "integer", "minimum": 0},
+        "published_url_count": {"type": "integer", "minimum": 0},
+        "withheld_count": {"type": "integer", "minimum": 0},
+        "manifest_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+        "member_ids_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "partitions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "count"],
+            "properties": {
+              "name": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+              "count": {"type": "integer", "minimum": 0}
+            }
+          },
+          "uniqueItems": true
+        },
+        "distinct_body_count": {"type": ["integer", "null"], "minimum": 0},
+        "epoch_count_reported": {"type": ["integer", "null"], "minimum": 0},
+        "epoch_count_receipt_verified": {"type": ["integer", "null"], "minimum": 0},
+        "epoch_prefix_rows": {"type": ["integer", "null"], "minimum": 0},
+        "representative_url_ids": {"type": "array", "items": {"type": "string", "pattern": "^url-[a-f0-9]{16}$"}, "uniqueItems": true},
+        "notes": {"type": "string", "minLength": 1}
+      }
+    },
+    "iowa_object": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url_id", "object_key", "exact_title", "title_family", "body_group_id", "embedded_epoch_state", "displayed_author_label", "author_label_authenticated", "novelty", "strong_q4_q5_sequence", "sequence_order", "sequence_time_utc", "provider_time_basis", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^iowa-[a-f0-9]{8}$"},
+        "url_id": {"type": "string", "pattern": "^url-[a-f0-9]{16}$"},
+        "object_key": {"type": "string", "pattern": "^[a-f0-9]{8}$"},
+        "exact_title": {"type": "string", "minLength": 1},
+        "title_family": {"enum": ["iowa-collab", "iowa-post-final", "iowa-cache", "iowa-q5"]},
+        "body_group_id": {"type": "string", "pattern": "^body-iowa-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "embedded_epoch_state": {"enum": ["standalone-verified", "malformed-prefix", "not-observed"]},
+        "displayed_author_label": {"type": "string", "minLength": 1},
+        "author_label_authenticated": {"type": "boolean"},
+        "novelty": {"enum": ["known-parent-newly-analysed-object"]},
+        "strong_q4_q5_sequence": {"type": "boolean"},
+        "sequence_order": {"type": ["integer", "null"], "minimum": 1},
+        "sequence_time_utc": {"type": ["string", "null"], "format": "date-time"},
+        "provider_time_basis": {"enum": ["rss-provider-dated", "embedded-self-report-only", "coarse-site-age-only"]},
+        "notes": {"type": "string"}
+      }
+    },
+    "urlquery_receipt": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url_id", "observed_at", "acquisition_lane", "submitted_host", "evidence_scope", "classification_basis", "raw_submitted_path_published", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^uqr-[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$"},
+        "url_id": {"type": "string", "pattern": "^url-[a-f0-9]{16}$"},
+        "observed_at": {"type": "string", "format": "date-time"},
+        "acquisition_lane": {"enum": ["known-v5", "direct-source", "datausa", "vizhub-extension", "contentdm-wrapper", "http-traffic-extension"]},
+        "submitted_host": {"type": "string", "pattern": "^[a-z0-9.-]+$"},
+        "evidence_scope": {"enum": ["exact-task-family-join", "account-only-adjacency", "representative-harness-telemetry", "ordinary-or-unrelated", "unclassified-same-submitter-receipt"]},
+        "classification_basis": {"type": "string", "minLength": 1},
+        "raw_submitted_path_published": {"type": "boolean"},
+        "notes": {"type": "string"}
+      }
+    },
     "claim": {
       "type": "object",
       "additionalProperties": false,
@@ -105,7 +181,7 @@
         "observed_at": {"type": "string", "format": "date-time"},
         "query_family": {"type": "string", "minLength": 1},
         "scope": {"type": "string", "minLength": 1},
-        "outcome": {"enum": ["located", "not_located", "blocked", "inconclusive"]},
+        "outcome": {"enum": ["located", "not_located", "blocked", "inconclusive", "rejected"]},
         "notes": {"type": "string", "minLength": 1}
       }
     }
