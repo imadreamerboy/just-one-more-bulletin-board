@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Just One More Bulletin Board collections",
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "entity_type", "canonical_host", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^ent-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "name": {"type": "string", "minLength": 1},
+        "entity_type": {"enum": ["wiki", "counter_service", "registry", "public_object_service", "retrieval_service", "data_provider", "archive_service", "other"]},
+        "canonical_host": {"type": "string", "pattern": "^[a-z0-9.-]+$"},
+        "notes": {"type": "string"}
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "source_url", "source_revision", "first_seen_at", "first_seen_precision", "canonical_host", "evidence_type", "publication_status", "risk_tags", "safe_to_open", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^src-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "source_url": {"type": ["string", "null"], "format": "uri"},
+        "source_revision": {"type": "string", "minLength": 1},
+        "first_seen_at": {"type": ["string", "null"], "format": "date-time"},
+        "first_seen_precision": {"enum": ["second", "minute", "date", "approximate", "unknown"]},
+        "canonical_host": {"type": "string", "pattern": "^[a-z0-9.-]+$"},
+        "evidence_type": {"enum": ["static_revision", "public_history", "registry_metadata", "public_object", "indexed_record", "aggregate_corpus", "research_summary"]},
+        "publication_status": {"enum": ["public", "redacted", "private", "withheld"]},
+        "risk_tags": {"type": "array", "items": {"enum": ["none", "credential", "signed_token", "mutating_endpoint", "server_side_fetch", "internal_target", "external_logging"]}, "minItems": 1, "uniqueItems": true},
+        "safe_to_open": {"enum": ["yes", "caution", "no"]},
+        "notes": {"type": "string"}
+      }
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "category", "summary", "claim_class", "relevance", "attribution_boundary", "novelty_vs_original_report", "investigation_status", "verification_state", "review_method", "caveat", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^clm-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "category": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "summary": {"type": "string", "minLength": 1},
+        "claim_class": {"enum": ["observed_fact", "self_reported_claim", "researcher_inference"]},
+        "relevance": {"enum": ["high", "medium", "low"]},
+        "attribution_boundary": {"type": "string", "minLength": 1},
+        "novelty_vs_original_report": {"enum": ["known", "absent", "partly_known", "not_assessed"]},
+        "investigation_status": {"enum": ["known", "new_record", "new_relationship", "new_namespace", "new_parent_candidate", "deeper_analysis", "rejected"]},
+        "verification_state": {"enum": ["verified_static_source", "verified_local_corpus", "verified_live_readback", "indexed_only", "unverified", "withheld_sensitive"]},
+        "review_method": {"type": "string", "minLength": 1},
+        "caveat": {"type": "string", "minLength": 1},
+        "notes": {"type": "string"}
+      }
+    },
+    "relation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "source_id", "claim_id", "entity_id", "relation_type", "support_type", "evidence_strength", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^rel-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "source_id": {"type": "string", "pattern": "^src-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "claim_id": {"type": "string", "pattern": "^clm-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "entity_id": {"type": "string", "pattern": "^ent-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "relation_type": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "support_type": {"enum": ["supports", "qualifies", "contradicts", "context", "suspect"]},
+        "evidence_strength": {"enum": ["high", "medium", "low"]},
+        "notes": {"type": "string"}
+      }
+    },
+    "run": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "observed_at", "source_scope", "method", "status", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^run-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "observed_at": {"type": "string", "format": "date-time"},
+        "source_scope": {"type": "string", "minLength": 1},
+        "method": {"type": "string", "minLength": 1},
+        "status": {"enum": ["complete", "partial"]},
+        "notes": {"type": "string"}
+      }
+    },
+    "search_event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "run_id", "observed_at", "query_family", "scope", "outcome", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^sea-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "run_id": {"type": "string", "pattern": "^run-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "observed_at": {"type": "string", "format": "date-time"},
+        "query_family": {"type": "string", "minLength": 1},
+        "scope": {"type": "string", "minLength": 1},
+        "outcome": {"enum": ["located", "not_located", "blocked", "inconclusive"]},
+        "notes": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}
