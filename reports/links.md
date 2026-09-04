@@ -1,0 +1,2452 @@
+# Exact URL inventory
+
+Generated from the canonical URL collection. Exact byte-distinct URLs remain separate because fragments, query order and encoded variants can be evidence.
+
+Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica and mutating-counter URL-family scans. This is not every URL in the 14,591-revision raw corpus.
+
+- 475 exact URLs across 58 hosts
+- opening guidance: 157 yes, 149 caution, 169 no
+- `caution` and `no` URLs are published as code literals rather than automatic links
+
+## 1.1.1.1.urlquery.net
+
+- `https://1.1.1.1.urlquery.net/report/ab079553-511c-4168-8818-907abbe00212`
+  - ID `url-506ca087d970b661`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Black Hawk County route with uqmark=next14`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## 1.urlquery.net
+
+- `https://1.urlquery.net/report/4056b144-3b2a-4da0-9f41-698a819e26b7`
+  - ID `url-ff89959dd4afd679`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `CORS-wrapped IHME variant at about 23:56Z`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://1.urlquery.net/report/ac9ccb89-fea1-4cd2-97ec-9f688276f28c`
+  - ID `url-173a559888afb79e`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `direct/partial IHME variant at about 23:51Z`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## 2dd.pl
+
+- `https://2dd.pl/agnewmd26615703`
+  - ID `url-347ea6ff2d9e620b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `agnewmd26615703`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://2dd.pl/agnewmd77805076`
+  - ID `url-7b5056ad63625139`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `2dd.pl/agnewmd77805076`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## api.census.gov
+
+- `https://api.census.gov/data/2015/acs/acs5/groups/B17001G.html?key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-5511db0befe7cb45`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME%2CB17001G_017E&for=place:*&in=state:48&key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-89e690d30eb21084`; opening `no`; risks `credential`; mentions 2
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME,B17001G_017E&for=place:*&in=state:48&key=b508704c99f3ae9bc5b5e7c41e3dd77e59d52722`
+  - ID `url-b0676143d8d7b992`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME,B17001G_017E,B17001G_017M&for=place:33212&in=state:48&key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-ddef5e5ca448c75b`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME,B17001G_017E,B17001G_017M&for=place:37216&in=state:48&key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-9c1e0f510dc5effc`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME,B17001G_017E,B17001G_017M&for=place:45072&in=state:48&key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-cc0243568374bc8a`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2015/acs/acs5?get=NAME,B17001G_017E,B17001G_017M&for=place:50256&in=state:48&key=4b415bf262765d14f4c2f534ce3b5f0a4237d980`
+  - ID `url-d0b7690dde35f5f9`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2020/acs/acs5/pums?tabulate=weight(PWGTP)&row+SEX&for=state:56&key=4d1ff8f7278171c404244dbe3055addfb97757c7`
+  - ID `url-ef348e4eae073537`; opening `no`; risks `credential`; mentions 7
+  - Labels: `Embedded in dse~AgentOpenAICensusTest@1`; `census credential`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2020/acs/acs5?get=NAME&for=county:*&in=state:25&key=87ad380a38312afe749c7f7f552a2c114445a454`
+  - ID `url-5647ae72dd2a9016`; opening `no`; risks `credential`; mentions 1
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.census.gov/data/2020/dec/pl?get=NAME&for=county:*&in=state:25&key=87ad380a38312afe749c7f7f552a2c114445a454`
+  - ID `url-4f45ed4a6230e5fd`; opening `no`; risks `credential`; mentions 2
+  - Labels: `census credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## api.counterapi.dev
+
+- `https://api.counterapi.dev/v1/asian-r4-dec14/seen/up?x=UNIQUE`
+  - ID `url-9a50aa9b92f22880`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/asian-r4-jan13/seen/up?x=$(date`
+  - ID `url-25d84cf16edc865f`; opening `no`; risks `mutating_endpoint`; mentions 15
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/asian-r4-jan13/survived/up?x=$(date`
+  - ID `url-4b0eb869bb0f42ac`; opening `no`; risks `mutating_endpoint`; mentions 15
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/asian-r4-sep09/seen/up?x=UNIQUE`
+  - ID `url-aa16790c4dc26d9f`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-bach2015-r5-oct14/PSY/up`
+  - ID `url-cfe935016b2d2109`; opening `no`; risks `mutating_endpoint`; mentions 4
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-postr5-jul16/after/up`
+  - ID `url-3245054ee82ea071`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-postr5-oct06-2028/after/up`
+  - ID `url-c5a9613b0bccc636`; opening `no`; risks `mutating_endpoint`; mentions 11
+  - Labels: `Embedded in dse~CashierCoordOct06OAI@8`; `mutating counter`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-r5-signal-826/FIELD/up`
+  - ID `url-d089a426239f5f55`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-r5-signal-826/FIELD/up?t=UNIQUE`
+  - ID `url-c55b9bbb215f381c`; opening `no`; risks `mutating_endpoint`; mentions 4
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-r5-signal-826/PSY/up`
+  - ID `url-bf587c14d60f0bd2`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/cashier-r5-signal-826/PSY/up?t=UNIQUE_TIMESTAMP`
+  - ID `url-f3dfbd4673e3685d`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-apr07-slow-r5/NE/up`
+  - ID `url-f3beea41668a9fa0`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-apr12-slow-r5/NE/up?x=UNIQUE`
+  - ID `url-6c1077e3615b5ba5`; opening `no`; risks `mutating_endpoint`; mentions 9
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-apr12-slow-r5/POST45/up?x=UNIQUE`
+  - ID `url-3e03bf5172f75e90`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-az-r5-0101/STATE5/up`
+  - ID `url-9a488bb953601bf7`; opening `no`; risks `mutating_endpoint`; mentions 20
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-az-r5-0101/XX5/up`
+  - ID `url-4c25cb058661e462`; opening `no`; risks `mutating_endpoint`; mentions 13
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-jun15-slow-r5/HORIZON/up`
+  - ID `url-a23ece5fdd624b48`; opening `no`; risks `mutating_endpoint`; mentions 7
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-r5-jun03/XX/up`
+  - ID `url-37d5b7bbecf23e85`; opening `no`; risks `mutating_endpoint`; mentions 42
+  - Labels: `Embedded in dse~DataUSAConstructionSequenceMar08@36`; `mutating counter`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/construction-r5-jun03/XX/up?x=UNIQUE`
+  - ID `url-af3835dbecc91e8b`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/eduocc6162-r5-aug01/answer/set?count=NNNNN`
+  - ID `url-f419c51ab269b2dc`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/fuel-poverty-r5-1228/CODE/up`
+  - ID `url-b67f418504db47da`; opening `no`; risks `mutating_endpoint`; mentions 7
+  - Labels: `Embedded in dse~OpenAIFuelPovertyJan01Live@6`; `mutating counter`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/grocery-g5-signal-7305/MD5/up`
+  - ID `url-e6c89c0597095f19`; opening `no`; risks `mutating_endpoint`; mentions 6
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/grocery-g5-signal-7305/XX/up`
+  - ID `url-84f405c9accfd75d`; opening `no`; risks `mutating_endpoint`; mentions 40
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/grocery-g5-signal-7305/XX5/up`
+  - ID `url-35c3d032ef0af76e`; opening `no`; risks `mutating_endpoint`; mentions 17
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/healthdata-cvd-r6-2026/ack/up`
+  - ID `url-37ca7ee54939955c`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/healthdata-cvd-r6-2026/location/set?count=ID`
+  - ID `url-5d81cc18c0028cd6`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/lang-r5-jun21-fresh-6149/XX/up`
+  - ID `url-b5b7d19f7228964d`; opening `no`; risks `mutating_endpoint`; mentions 7
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/lang-r5-nov13-oai-7319/XX/up?x=UNIQUE`
+  - ID `url-5677b5793759e19b`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/language-r5-signal-4813/XX5/up`
+  - ID `url-6fc40969529acbbf`; opening `no`; risks `mutating_endpoint`; mentions 74
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/language-r5-signal-nov01-2028/XX/up?x=UNIQUE`
+  - ID `url-28b197280398cef7`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/language-r5-signal-sep17/XX/up`
+  - ID `url-5f73e4a05b5c0d05`; opening `no`; risks `mutating_endpoint`; mentions 17
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/apr15r3a/set?count=CODE`
+  - ID `url-1de25aac870e0396`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/apr17r3a/set?count=CODE`
+  - ID `url-dae70b763db21b9a`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/feb14r3a/set?count=CODE`
+  - ID `url-cc5863fe4761b9d2`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/jan06/set?count=CODE`
+  - ID `url-8a66ef4735dc23bd`; opening `no`; risks `mutating_endpoint`; mentions 6
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/oct16r3a/set?count=CODE`
+  - ID `url-d803e1ec47bc727c`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/maidsr3relay5312026x9/signal/set?count=CODE`
+  - ID `url-2e30f65a327042ea`; opening `no`; risks `mutating_endpoint`; mentions 28
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr06/APR06-R4-ACTUAL/up`
+  - ID `url-ed8d52966144dcb7`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr09/R4-ACTUAL/up`
+  - ID `url-bee647d0c980a909`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr14/APR14-R4-ACTUAL/up`
+  - ID `url-4a8c375f94876bcd`; opening `no`; risks `mutating_endpoint`; mentions 12
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr25/APR24-R4-OBSERVED/up`
+  - ID `url-dc5a04f7c1df2999`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr25/AUG17-R4-OBSERVED/up`
+  - ID `url-2e612a53f51a74ba`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr25/AUG17-R5-SCHEDULED/up`
+  - ID `url-8de4d1d518242ef4`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr26/APR26-R4-SEEN/up`
+  - ID `url-e41519ece8d82fd3`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-apr26/APR26-R5-SCHEDULED/up`
+  - ID `url-4afbfde6e35d87ab`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-aug17/AUG17-R4-ACTUAL/up`
+  - ID `url-70df5261ee4231ac`; opening `no`; risks `mutating_endpoint`; mentions 9
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-aug17/DEC19-R4-OBSERVED/up`
+  - ID `url-8db64311108aee5c`; opening `no`; risks `mutating_endpoint`; mentions 4
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-dec30raw/DEC30-R4-SEEN/up`
+  - ID `url-00c5ce34938656e7`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-feb07/FEB07-R4-SLOVAK/up`
+  - ID `url-4ed7dcf507225718`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-feb19/FEB19-R4-ACTUAL/up`
+  - ID `url-af827bbd52f9b3d7`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-feb19/FEB19-R4-SLOVAK/up`
+  - ID `url-0ee563e4f091ca64`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-feb22/FEB22-R4-ACTUAL/up`
+  - ID `url-661a461e4dc014cc`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-jul14/JUL14-R4-ACTUAL/up`
+  - ID `url-b935beeca90ba42f`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-jul24/JUL24-R4-ACTUAL/up`
+  - ID `url-afd1b4b64ed11258`; opening `no`; risks `mutating_endpoint`; mentions 5
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-jul24/JUL24-R4-SLOVAK/up`
+  - ID `url-e5fee2fac2a4fd86`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-jul24/JUL24-R5-SCHEDULED/up`
+  - ID `url-64312088a66fcf76`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-mar13/MAR13-R4-SEEN/up`
+  - ID `url-7b7e1b68f8942a5b`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-mar21/MAR21-R4-SEEN/up`
+  - ID `url-e706dca745c151f4`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-may02/MAY02-R4-ACTUAL/up`
+  - ID `url-e071ad0e5d394b7c`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-may02/MAY02-R4-SEEN/up`
+  - ID `url-79d768cb3a0ee71c`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-nov02/NOV02-R4-SEEN/up`
+  - ID `url-a2f94855e0acca5f`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-nov18/NOV18-R4-ACTUAL/up`
+  - ID `url-9c0fc977c43a2798`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-nov22/NOV22-R4-ACTUAL/up`
+  - ID `url-e0c9dad014d14d61`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-oct07/OCT07-R4-SEEN/up`
+  - ID `url-aadae3dfa281d4e3`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-oct07/OCT07-R4-SLOVAK-CONFIRMED/up`
+  - ID `url-c534a8fd3e2491c5`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/APR09-R4-ACTUAL/up`
+  - ID `url-46920b1f5de77eac`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/COUNTRY/up`
+  - ID `url-33b3051a150b66f1`; opening `no`; risks `mutating_endpoint`; mentions 6
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/JUL10-0700-R4-ACTUAL/up`
+  - ID `url-a47c6da48624c51b`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R4-Slovak/up`
+  - ID `url-a036b0097ad65b05`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R4ACTUAL-JUN20-LATE/up`
+  - ID `url-cb01ea1f23751895`; opening `no`; risks `mutating_endpoint`; mentions 14
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R4APR09-ACTUAL/up`
+  - ID `url-14383a1eb3a7cea0`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R4OBSERVED-SLOVAK/up`
+  - ID `url-d3b4c4344dac7a43`; opening `no`; risks `mutating_endpoint`; mentions 4
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R4SECOND-CONFIRM/up`
+  - ID `url-c1fe0b53720cea42`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-r5-live/R5OBSERVED-COUNTRY/up`
+  - ID `url-9c5900f17f8f62bf`; opening `no`; risks `mutating_endpoint`; mentions 3
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-sep14/R4-ACTUAL/up`
+  - ID `url-1012e74031f90171`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-sep17/SEP17-R4-ACTUAL/up`
+  - ID `url-519a2fd16b2318df`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/oecd-equity-sep19/R4-SLOVAK-ACTUAL/up`
+  - ID `url-78f1cdfaa63c84c9`; opening `no`; risks `mutating_endpoint`; mentions 1
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/poverty-county-r5-sep13/STATE-COUNTY/up`
+  - ID `url-07865c63529f6a8e`; opening `no`; risks `mutating_endpoint`; mentions 30
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/sector61-state5-fast-9417/XX/up`
+  - ID `url-5807fa671f6b3abf`; opening `no`; risks `mutating_endpoint`; mentions 19
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/sector61-state5-fast-9417/XX5/up`
+  - ID `url-1b6683f5460b83aa`; opening `no`; risks `mutating_endpoint`; mentions 8
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.counterapi.dev/v1/transport-r3-fast-1128/STATE/up`
+  - ID `url-b1874dc145869316`; opening `no`; risks `mutating_endpoint`; mentions 2
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## api.dp.la
+
+- `https://api.dp.la/v2/items/2aef5dc10c8baa4a6829ac9f306477b9?api_key=910de961922b85c6e95ee1311938ece6`
+  - ID `url-52533bec7fb50335`; opening `no`; risks `credential`; mentions 8
+  - Labels: `dpla credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.dp.la/v2/items/6eb0a773ebbfa239d18a51652afc6390?api_key=910de961922b85c6e95ee1311938ece6`
+  - ID `url-d76bae664b87b446`; opening `no`; risks `credential`; mentions 4
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`; `dpla credential`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://api.dp.la/v2/items/x?api_key=y`
+  - ID `url-383075869b9f642b`; opening `no`; risks `credential`; mentions 1
+  - Labels: `dpla credential`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## app.bitily.in
+
+- `https://app.bitily.in/admin/index.php?search=OAIJUL21PRODREPLY&search_in=all&perpage=20`
+  - ID `url-d4e4b941bf4a4415`; opening `caution`; risks `external_logging`; mentions 1
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## bitily.in
+
+- `https://bitily.in/MYLABI/admin/index.php?search_in=all&sort_by=timestamp&sort_order=desc&page=1&perpage=15&total_pages=2895&search`
+  - ID `url-6ee00f0df3a409fa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Bitily historical listing URL`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## charts.dataforindia.com
+
+- [open](<https://charts.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7>) — `https://charts.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7`
+  - ID `url-43a5629bd631065b`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Data For India chart d88e...`
+  - Located in: `deep-crawl-v2`
+
+## collusion.wiki
+
+- [open](<https://collusion.wiki/>) — `https://collusion.wiki/`
+  - ID `url-6d216f06400d8d58`; opening `yes`; risks `none`; mentions 2
+  - Labels: `collusion.wiki report`; `original report`
+  - Located in: `expanded-search-v4`, `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/#deadman-switches>) — `https://collusion.wiki/#deadman-switches`
+  - ID `url-2366c81270f87dbf`; opening `yes`; risks `none`; mentions 2
+  - Labels: `dead-man switches`
+  - Located in: `counter-api-coordination-report`
+- [open](<https://collusion.wiki/#ssh-tunnels>) — `https://collusion.wiki/#ssh-tunnels`
+  - ID `url-fd8ffd345a258caa`; opening `yes`; risks `none`; mentions 2
+  - Labels: `SSH-tunnel section`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/download.html>) — `https://collusion.wiki/explorer/download.html`
+  - ID `url-37189e88151686d8`; opening `yes`; risks `none`; mentions 1
+  - Labels: `collusion.wiki download page`
+  - Located in: `readme`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentApiPage001.html#rev-3>) — `https://collusion.wiki/explorer/page/dse~AgentApiPage001.html#rev-3`
+  - ID `url-a7935954b44e80ab`; opening `yes`; risks `none`; mentions 1
+  - Labels: `AgentApiPage001@3`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentApiPage001.html#rev-4>) — `https://collusion.wiki/explorer/page/dse~AgentApiPage001.html#rev-4`
+  - ID `url-10ba9e02084a59b0`; opening `yes`; risks `none`; mentions 1
+  - Labels: `@4`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentClarkHtmlWrapperSourceR771.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentClarkHtmlWrapperSourceR771.html#rev-1`
+  - ID `url-f87c5016291b67e8`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentClarkHtmlWrapperSourceR771@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentConstructionArizonaUtahJun16X.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~AgentConstructionArizonaUtahJun16X.html#rev-2`
+  - ID `url-2cafdb00eb1d5736`; opening `yes`; risks `none`; mentions 1
+  - Labels: `AgentConstructionArizonaUtahJun16X@2`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentCountyExploreJune18AA.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentCountyExploreJune18AA.html#rev-1`
+  - ID `url-94d835a69843025d`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentCountyExploreJune18AA@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentDPLALibraryObjectAPILinksK91.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentDPLALibraryObjectAPILinksK91.html#rev-1`
+  - ID `url-ad1286d7ce31f758`; opening `yes`; risks `none`; mentions 4
+  - Labels: `AgentDPLALibraryObjectAPILinksK91@1`; `dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `claim-source-map-v3`, `local-corpus`, `public-evidence-map`, `research-store`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~AgentDPLALibraryObjectAPILinksK91.html#rev-3>) — `https://collusion.wiki/explorer/page/dse~AgentDPLALibraryObjectAPILinksK91.html#rev-3`
+  - ID `url-b445999e360b9e55`; opening `yes`; risks `none`; mentions 1
+  - Labels: `AgentDPLALibraryObjectAPILinksK91@3`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentIvyTuitionValues2015XQ.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentIvyTuitionValues2015XQ.html#rev-1`
+  - ID `url-cd5efbb7353605a4`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentIvyTuitionValues2015XQ@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentIvyTuitionValues2015XQ.html#rev-5>) — `https://collusion.wiki/explorer/page/dse~AgentIvyTuitionValues2015XQ.html#rev-5`
+  - ID `url-6199a8dd7704cf6d`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentIvyTuitionValues2015XQ@5`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentJan1951OCRSourceLinksQX7622ABC.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentJan1951OCRSourceLinksQX7622ABC.html#rev-1`
+  - ID `url-3b8288c83fe74ff2`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentJan1951OCRSourceLinksQX7622ABC@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentMdlCDMRefs2138.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentMdlCDMRefs2138.html#rev-1`
+  - ID `url-711b1bfbb655530d`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentMdlCDMRefs2138@1`
+  - Located in: `expanded-search-v4`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentOpenAICensusTest.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentOpenAICensusTest.html#rev-1`
+  - ID `url-80b45b0c7e0408e0`; opening `yes`; risks `none`; mentions 4
+  - Labels: `AgentOpenAICensusTest@1`; `dse~AgentOpenAICensusTest@1`
+  - Located in: `claim-source-map-v3`, `local-corpus`, `public-evidence-map`, `research-store`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~AgentOpenAIFeb29Run.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~AgentOpenAIFeb29Run.html#rev-2`
+  - ID `url-2561c25895f9a3c6`; opening `yes`; risks `none`; mentions 3
+  - Labels: `AgentOpenAIFeb29Run@2`; `dse~AgentOpenAIFeb29Run@2`
+  - Located in: `claim-source-map-v3`, `public-evidence-map`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentOpenAIFeb29Run.html#rev-4>) — `https://collusion.wiki/explorer/page/dse~AgentOpenAIFeb29Run.html#rev-4`
+  - ID `url-c14d276956eb4fd0`; opening `yes`; risks `none`; mentions 3
+  - Labels: `AgentOpenAIFeb29Run@4`; `dse~AgentOpenAIFeb29Run@4`
+  - Located in: `claim-source-map-v3`, `public-evidence-map`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentPathJsonHeroMA009.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentPathJsonHeroMA009.html#rev-1`
+  - ID `url-77e132a59097823d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `JsonHero object`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentProxyCountyZ77.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentProxyCountyZ77.html#rev-1`
+  - ID `url-0246ff3ab4b283f5`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentProxyCountyZ77@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentProxyCountyZ77.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~AgentProxyCountyZ77.html#rev-2`
+  - ID `url-86e1ac6be725b5bb`; opening `yes`; risks `none`; mentions 1
+  - Located in: `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentRootTexasDocPaths672292.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentRootTexasDocPaths672292.html#rev-1`
+  - ID `url-55d410d3bcf28f67`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentRootTexasDocPaths672292@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentRootTexasDocPaths672292.html#rev-4>) — `https://collusion.wiki/explorer/page/dse~AgentRootTexasDocPaths672292.html#rev-4`
+  - ID `url-fd1565b77583fa8c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `AgentRootTexasDocPaths672292@4`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTBEcuadorDataCitations48291.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTBEcuadorDataCitations48291.html#rev-1`
+  - ID `url-85695be26d029730`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentTBEcuadorDataCitations48291@1`
+  - Located in: `expanded-search-v4`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTBEcuadorDataOfficialRefs.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTBEcuadorDataOfficialRefs.html#rev-1`
+  - ID `url-cd7deb4e365f7793`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentTBEcuadorDataOfficialRefs@1`
+  - Located in: `expanded-search-v4`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTempFormXYZ.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTempFormXYZ.html#rev-1`
+  - ID `url-624bda1eaaddee5b`; opening `yes`; risks `none`; mentions 2
+  - Labels: `dse~AgentTempFormXYZ@1`
+  - Located in: `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTempMineLemino4477Q.html#rev-7>) — `https://collusion.wiki/explorer/page/dse~AgentTempMineLemino4477Q.html#rev-7`
+  - ID `url-5db8656833e74d03`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentTempMineLemino4477Q@7`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTexasDigitalSource.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTexasDigitalSource.html#rev-1`
+  - ID `url-2d73541d464ad1eb`; opening `yes`; risks `none`; mentions 4
+  - Labels: `AgentTexasDigitalSource@1`; `dse~AgentTexasDigitalSource@1`
+  - Located in: `claim-source-map-v3`, `local-corpus`, `public-evidence-map`, `research-store`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTexasPdfTokenPathUniqueAlpha.html#rev-11>) — `https://collusion.wiki/explorer/page/dse~AgentTexasPdfTokenPathUniqueAlpha.html#rev-11`
+  - ID `url-06e2f04ff21c8282`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentTexasPdfTokenPathUniqueAlpha@11`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTexasPovertyRaceJune22X.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTexasPovertyRaceJune22X.html#rev-1`
+  - ID `url-9c873033566f9ac0`; opening `yes`; risks `none`; mentions 1
+  - Labels: `AgentTexasPovertyRaceJune22X@1`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentTmpOpenAIJun18Test.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentTmpOpenAIJun18Test.html#rev-1`
+  - ID `url-ee9e3ce8f68903a7`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentTmpOpenAIJun18Test@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentYahooCtxTestJj.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentYahooCtxTestJj.html#rev-1`
+  - ID `url-2b9ba478387d4013`; opening `yes`; risks `none`; mentions 4
+  - Labels: `AgentYahooCtxTestJj@1`; `dse~AgentYahooCtxTestJj@1`
+  - Located in: `claim-source-map-v3`, `local-corpus`, `public-evidence-map`, `research-store`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~ApiLinkNavigation2026.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~ApiLinkNavigation2026.html#rev-1`
+  - ID `url-a0bfeb38f6dfe421`; opening `yes`; risks `none`; mentions 2
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~ApiReferencesForResearch.html#rev-12>) — `https://collusion.wiki/explorer/page/dse~ApiReferencesForResearch.html#rev-12`
+  - ID `url-9f39455afe2ed434`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Wiki4D link`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-15>) — `https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-15`
+  - ID `url-d1e611c81b7d614f`; opening `yes`; risks `none`; mentions 2
+  - Labels: `@15`
+  - Located in: `claim-source-map-v3`, `counter-api-coordination-report`
+- [open](<https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-5>) — `https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-5`
+  - ID `url-e93ad79ad8ad1dcd`; opening `yes`; risks `none`; mentions 4
+  - Labels: `@5`; `Apr23CVDHorizonBeacon2025@5`; `dse~Apr23CVDHorizonBeacon2025@5`
+  - Located in: `claim-source-map-v3`, `counter-api-coordination-report`, `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-6>) — `https://collusion.wiki/explorer/page/dse~Apr23CVDHorizonBeacon2025.html#rev-6`
+  - ID `url-3d014b2964609d27`; opening `yes`; risks `none`; mentions 1
+  - Labels: `@6`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-16>) — `https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-16`
+  - ID `url-e09e7ed9ad65303c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `app.bitily.in board claim`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-17>) — `https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-17`
+  - ID `url-064270a852a0ad6f`; opening `yes`; risks `none`; mentions 1
+  - Labels: `negative lookup`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-18>) — `https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-18`
+  - ID `url-fab45650f58cef35`; opening `yes`; risks `none`; mentions 1
+  - Labels: `exact admin route`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-6>) — `https://collusion.wiki/explorer/page/dse~BridgeLAProd1782007689.html#rev-6`
+  - ID `url-3daf40efe11e4491`; opening `yes`; risks `none`; mentions 2
+  - Labels: `BridgeLAProd1782007689@6`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~CachePokeWord880059.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~CachePokeWord880059.html#rev-1`
+  - ID `url-0daaf7066a6304cd`; opening `yes`; risks `none`; mentions 1
+  - Labels: `CachePokeWord880059@1`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~CashierCoordAug03OAI.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~CashierCoordAug03OAI.html#rev-1`
+  - ID `url-c3b1e88c6ba64de4`; opening `yes`; risks `none`; mentions 1
+  - Labels: `CashierCoordAug03OAI@1`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~CashierCoordJul18OAI.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~CashierCoordJul18OAI.html#rev-2`
+  - ID `url-ee49cf5230459ccc`; opening `yes`; risks `none`; mentions 2
+  - Labels: `CashierCoordJul18OAI@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~CashierCoordJun09OAI.html#rev-3>) — `https://collusion.wiki/explorer/page/dse~CashierCoordJun09OAI.html#rev-3`
+  - ID `url-d28a466e77492f2e`; opening `yes`; risks `none`; mentions 2
+  - Labels: `CashierCoordJun09OAI@3`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~CashierCoordJun09OAI.html#rev-5>) — `https://collusion.wiki/explorer/page/dse~CashierCoordJun09OAI.html#rev-5`
+  - ID `url-522c25f842200e87`; opening `yes`; risks `none`; mentions 2
+  - Labels: `@5`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~CashierCoordOct06OAI.html#rev-8>) — `https://collusion.wiki/explorer/page/dse~CashierCoordOct06OAI.html#rev-8`
+  - ID `url-effb083d0de93231`; opening `yes`; risks `none`; mentions 2
+  - Labels: `dse~CashierCoordOct06OAI@8`
+  - Located in: `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~ClothingC3FastSignalJul14.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~ClothingC3FastSignalJul14.html#rev-2`
+  - ID `url-584ff932d7a2c26c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `ClothingC3FastSignalJul14@2`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~CrawlerNavigationBridge2.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~CrawlerNavigationBridge2.html#rev-1`
+  - ID `url-99f06068609827f7`; opening `yes`; risks `none`; mentions 2
+  - Labels: `CrawlerNavigationBridge2@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAClothingSequenceCollabAug08.html#rev-8>) — `https://collusion.wiki/explorer/page/dse~DataUSAClothingSequenceCollabAug08.html#rev-8`
+  - ID `url-4d238c52abc33343`; opening `yes`; risks `none`; mentions 1
+  - Labels: `DataUSAClothingSequenceCollabAug08@8`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAClothingStateSequenceCollabOct10.html#rev-8>) — `https://collusion.wiki/explorer/page/dse~DataUSAClothingStateSequenceCollabOct10.html#rev-8`
+  - ID `url-33c046afc6965f32`; opening `yes`; risks `none`; mentions 1
+  - Labels: `DataUSAClothingStateSequenceCollabOct10@8`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAConstructionSequenceMar08.html#rev-31>) — `https://collusion.wiki/explorer/page/dse~DataUSAConstructionSequenceMar08.html#rev-31`
+  - ID `url-47dda32aba310e17`; opening `yes`; risks `none`; mentions 2
+  - Labels: `DataUSAConstructionSequenceMar08@31`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAConstructionSequenceMar08.html#rev-36>) — `https://collusion.wiki/explorer/page/dse~DataUSAConstructionSequenceMar08.html#rev-36`
+  - ID `url-e655663590125caa`; opening `yes`; risks `none`; mentions 3
+  - Labels: `@36`; `dse~DataUSAConstructionSequenceMar08@36`
+  - Located in: `counter-api-coordination-report`, `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollab2027.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollab2027.html#rev-1`
+  - ID `url-99632b5aa1d2a2cb`; opening `yes`; risks `none`; mentions 1
+  - Labels: `dse~DataUSAGrocerySequenceCollab2027@1`
+  - Located in: `public-evidence-map`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollab2027.html#rev-20>) — `https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollab2027.html#rev-20`
+  - ID `url-3a788e9e69427a96`; opening `yes`; risks `none`; mentions 1
+  - Labels: `dse~DataUSAGrocerySequenceCollab2027@20`
+  - Located in: `public-evidence-map`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollabOct22.html#rev-4>) — `https://collusion.wiki/explorer/page/dse~DataUSAGrocerySequenceCollabOct22.html#rev-4`
+  - ID `url-7e5c5603d41e196f`; opening `yes`; risks `none`; mentions 2
+  - Labels: `DataUSAGrocerySequenceCollabOct22@4`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAQueryBridgeFeb03PovertyAll2021.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~DataUSAQueryBridgeFeb03PovertyAll2021.html#rev-2`
+  - ID `url-cf2168bb3019d228`; opening `yes`; risks `none`; mentions 1
+  - Labels: `DataUSAQueryBridgeFeb03PovertyAll2021@2`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSATransportEquipmentSequenceJun11.html#rev-28>) — `https://collusion.wiki/explorer/page/dse~DataUSATransportEquipmentSequenceJun11.html#rev-28`
+  - ID `url-17a8c9446334119c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `DataUSATransportEquipmentSequenceJun11@28`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~HealthdataCVDSequenceCollab.html#rev-120>) — `https://collusion.wiki/explorer/page/dse~HealthdataCVDSequenceCollab.html#rev-120`
+  - ID `url-500f2b04d8f8183e`; opening `yes`; risks `none`; mentions 1
+  - Labels: `HealthdataCVDSequenceCollab@120`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-5>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-5`
+  - ID `url-544656a8b5208c89`; opening `yes`; risks `none`; mentions 3
+  - Labels: `IHMEFamilyPlanningDec13Cohort@5`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-6>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-6`
+  - ID `url-037ea09bb880cc5e`; opening `yes`; risks `none`; mentions 2
+  - Labels: `IHMEFamilyPlanningDec13Cohort@6`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-7>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-7`
+  - ID `url-a3e0a3d334083c24`; opening `yes`; risks `none`; mentions 1
+  - Labels: `@7`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-8>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningDec13Cohort.html#rev-8`
+  - ID `url-f82ad081bf5a7e46`; opening `yes`; risks `none`; mentions 3
+  - Labels: `IHMEFamilyPlanningDec13Cohort@8`; `dse~IHMEFamilyPlanningDec13Cohort@8`
+  - Located in: `claim-source-map-v3`, `public-evidence-map`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-1`
+  - ID `url-4f904adbee0abeb7`; opening `yes`; risks `none`; mentions 1
+  - Labels: `IHMEFamilyPlanningFeb07Cohort@1`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-3>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-3`
+  - ID `url-aec7c7d293c02992`; opening `yes`; risks `none`; mentions 1
+  - Labels: `@3`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-9>) — `https://collusion.wiki/explorer/page/dse~IHMEFamilyPlanningFeb07Cohort.html#rev-9`
+  - ID `url-f398d016c1fc9f6f`; opening `yes`; risks `none`; mentions 2
+  - Labels: `IHMEFamilyPlanningFeb07Cohort@9`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~LangR5SignalSep01.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~LangR5SignalSep01.html#rev-1`
+  - ID `url-1bb6c141332f093a`; opening `yes`; risks `none`; mentions 3
+  - Labels: `LangR5SignalSep01@1`; `dse~LangR5SignalSep01@1`
+  - Located in: `counter-api-coordination-report`, `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~LangR5SignalSep01.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~LangR5SignalSep01.html#rev-2`
+  - ID `url-5bcb55c4bfa8b944`; opening `yes`; risks `none`; mentions 1
+  - Labels: `LangR5SignalSep01@2`
+  - Located in: `counter-api-coordination-report`
+- [open](<https://collusion.wiki/explorer/page/dse~MementoSecDataMassJune18A008.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~MementoSecDataMassJune18A008.html#rev-1`
+  - ID `url-d33aec0c79cc85f3`; opening `yes`; risks `none`; mentions 2
+  - Labels: `MementoSecDataMassJune18A008@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OAIEquityDec30Raw.html#rev-9>) — `https://collusion.wiki/explorer/page/dse~OAIEquityDec30Raw.html#rev-9`
+  - ID `url-2280b17fd2ef5cc9`; opening `yes`; risks `none`; mentions 2
+  - Labels: `dse~OAIEquityDec30Raw@9`
+  - Located in: `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~OAIResearchBridgeMay3X.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~OAIResearchBridgeMay3X.html#rev-2`
+  - ID `url-7cbffb1c61c47d61`; opening `yes`; risks `none`; mentions 1
+  - Labels: `OAIResearchBridgeMay3X@2`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~OECDEducationEquitySequence.html#rev-19>) — `https://collusion.wiki/explorer/page/dse~OECDEducationEquitySequence.html#rev-19`
+  - ID `url-f148a8330a8a44a4`; opening `yes`; risks `none`; mentions 1
+  - Labels: `dse~OECDEducationEquitySequence@19`
+  - Located in: `public-evidence-map`
+- [open](<https://collusion.wiki/explorer/page/dse~OECDEquityMar26Live.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~OECDEquityMar26Live.html#rev-2`
+  - ID `url-0370a36f2066cca6`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OECDEquityMar26Live@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~Oct16MaidsLive.html#rev-3>) — `https://collusion.wiki/explorer/page/dse~Oct16MaidsLive.html#rev-3`
+  - ID `url-9ab453e5f5df1052`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Oct16MaidsLive@3`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIApr10SchoolPsychSequenceCoord.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~OpenAIApr10SchoolPsychSequenceCoord.html#rev-2`
+  - ID `url-1176aed157fb0f22`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenAIApr10SchoolPsychSequenceCoord@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIFuelPovertyJan01Live.html#rev-6>) — `https://collusion.wiki/explorer/page/dse~OpenAIFuelPovertyJan01Live.html#rev-6`
+  - ID `url-b9457290274f0bc9`; opening `yes`; risks `none`; mentions 2
+  - Labels: `dse~OpenAIFuelPovertyJan01Live@6`
+  - Located in: `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIHealthdataCVDMay02Fast.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~OpenAIHealthdataCVDMay02Fast.html#rev-1`
+  - ID `url-a08e679f6568dfcc`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenAIHealthdataCVDMay02Fast@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIHealthdataCVDMay02Fast.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~OpenAIHealthdataCVDMay02Fast.html#rev-2`
+  - ID `url-b4341599ba0b951d`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenAIHealthdataCVDMay02Fast@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIJan02CVDLive.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~OpenAIJan02CVDLive.html#rev-1`
+  - ID `url-41dbe3db473e0d03`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenAIJan02CVDLive@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenAIOct22CVD.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~OpenAIOct22CVD.html#rev-1`
+  - ID `url-9db2d1e0d5f5ea0f`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenAIOct22CVD@1`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~OpenDirectoryBridge.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~OpenDirectoryBridge.html#rev-2`
+  - ID `url-48ac2283b2274d70`; opening `yes`; risks `none`; mentions 2
+  - Labels: `OpenDirectoryBridge@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~PublicDirectoryResearchLinks.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~PublicDirectoryResearchLinks.html#rev-2`
+  - ID `url-2097bc655cbc754a`; opening `yes`; risks `none`; mentions 2
+  - Labels: `PublicDirectoryResearchLinks@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~SandboxAgentCatalogItSlugTry2026.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~SandboxAgentCatalogItSlugTry2026.html#rev-2`
+  - ID `url-84418b06ea0694e8`; opening `yes`; risks `none`; mentions 2
+  - Labels: `SandboxAgentCatalogItSlugTry2026@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~StartSeite.html#rev-244>) — `https://collusion.wiki/explorer/page/dse~StartSeite.html#rev-244`
+  - ID `url-020cbe6587a78640`; opening `yes`; risks `none`; mentions 1
+  - Labels: `StartSeite@244`
+  - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~StartSeite.html#rev-253>) — `https://collusion.wiki/explorer/page/dse~StartSeite.html#rev-253`
+  - ID `url-ebe71c8896834b58`; opening `yes`; risks `none`; mentions 2
+  - Labels: `StartSeite@253`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-820>) — `https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-820`
+  - ID `url-2e6d200b9bf119d2`; opening `yes`; risks `none`; mentions 2
+  - Labels: `TestSeite@820`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~TmpJul20FPScoutTest.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~TmpJul20FPScoutTest.html#rev-2`
+  - ID `url-a330a1272a9b2ba7`; opening `yes`; risks `none`; mentions 2
+  - Labels: `TmpJul20FPScoutTest@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~WillkommenImWiki.html#rev-583>) — `https://collusion.wiki/explorer/page/dse~WillkommenImWiki.html#rev-583`
+  - ID `url-6481d364a098b6dc`; opening `yes`; risks `none`; mentions 3
+  - Labels: `WillkommenImWiki@583`; `dse~WillkommenImWiki@583`
+  - Located in: `claim-source-map-v3`, `local-corpus`, `public-evidence-map`
+  - Note: Static explorer URL derived from a locally verified revision identifier.
+- [open](<https://collusion.wiki/explorer/page/probier~AgentSECRegCFData.html#rev-2>) — `https://collusion.wiki/explorer/page/probier~AgentSECRegCFData.html#rev-2`
+  - ID `url-c446b3c6593c8196`; opening `yes`; risks `none`; mentions 2
+  - Labels: `AgentSECRegCFData@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/probier~QuintChartAPI4777.html#rev-2>) — `https://collusion.wiki/explorer/page/probier~QuintChartAPI4777.html#rev-2`
+  - ID `url-b9d83a8e5284476e`; opening `yes`; risks `none`; mentions 2
+  - Labels: `QuintChartAPI4777@2`
+  - Located in: `claim-source-map-v3`, `research-store`
+
+## cors.bwa.workers.dev
+
+- `https://cors.bwa.workers.dev/https%3A//tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=7495f82d-da16-4d13-9dd2-fc7b0b744b4d`
+  - ID `url-8270a4b37b3753ef`; opening `no`; risks `signed_token`; mentions 5
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https%3A//tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=da209799-c7eb-4ba7-95c0-0561f42c1198`
+  - ID `url-4ea2350f24914f76`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https%3A//tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=e8f2951a-126e-42f0-9c97-23c03ce6bbd5&scope=ua`
+  - ID `url-ba385e83feaa55ad`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https%3A//tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=oops`
+  - ID `url-d4b23116b729b1c6`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.access.preservica.com/uncategorized/IO_f436a16c-767f-44b8-95fc-2031847276b9/`
+  - ID `url-4da1fd75fbf5e5a6`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~AgentTexasDigitalSource@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/external?entityRef=f436a16c-767f-44b8-95fc-2031847276b9&token=f4f69b57-23dc-47f3-858d-fb85c5afe464&scope=ua`
+  - ID `url-317380a9da8cece9`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content;name.pdf;x=T17811927526475267?token=7233bb62-551b-4444-b246-83b9796f7b8a&scope=ua`
+  - ID `url-56db5161c934eff3`; opening `no`; risks `signed_token`; mentions 5
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content;test.pdf?token=10e8a883-a216-4008-8731-ed9737c981e6&scope=ua`
+  - ID `url-cd74c1cf5bebb754`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content;test.pdf?token=7233bb62-551b-4444-b246-83b9796f7b8a&scope=ua`
+  - ID `url-2f83630d79385a54`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content;test.pdf?token=d1d61506-6006-4106-a5bc-bde266c92fc7&scope=ua`
+  - ID `url-c511e86b6ee3c06c`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=1b63f828-72d7-4ca9-848a-df533183e6ee&v=rootrend9222178115`
+  - ID `url-497aa9e801738276`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=4d054c2c-a6fb-41dd-bcae-a7eceac1b49e&v=pipelinescreen1781162614`
+  - ID `url-be62df497757f3a9`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=569ff3e8-9d8a-4c6e-8218-f2f44e3b8a76`
+  - ID `url-8e3dd8a28c26c4af`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=57098ff6-b1a5-4588-92a2-28fcaf2bc792`
+  - ID `url-14f29f0d535772a6`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=74aba9ec-a03c-4eba-beaf-b3d56fff0ad9&random=1781173281.63622`
+  - ID `url-69bfbf0752e25e0c`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=9ea866e4-2d2e-4c59-b42e-0b6e12208e66`
+  - ID `url-957857bddb9086d8`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=a4cc8672-9cba-44ab-9423-f34b4ed64341&random=1781180041.7493293`
+  - ID `url-94d53ff5b33b0cfb`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=ce02e315-e505-4776-bc40-7148b1a7fd27`
+  - ID `url-189e424251d37546`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?scope=ua&token=ec6c8a2d-9e2c-42ac-b4c1-011fffc7adc3&random=1781163268.2445369`
+  - ID `url-cbacaf1e1659a47f`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=0c49048f-8b7e-46c2-bbf2-b2b07942ef10&scope=ua&seed=0.7733077682981375`
+  - ID `url-8b7ab6f1a431b7a1`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=136d4d61-96c1-4012-854e-f38a0f341578&scope=ua&nwork=1781187013.8014407`
+  - ID `url-275186d679c2cb38`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=1c174492-b8c5-48e9-940c-c568427312ac&scope=ua`
+  - ID `url-ccff8e21b76c6cbd`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=29747826-596d-4b25-aa5c-a672c8952467&scope=ua&fresh=0.8948134037835819`
+  - ID `url-65db22564fedfd49`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=34dc3f06-58dd-4d7a-bcbf-b8bbd419c54e&scope=ua`
+  - ID `url-141c88efb7f0d917`; opening `no`; risks `server_side_fetch, signed_token`; mentions 8
+  - Labels: `Embedded in dse~AgentTexasDigitalSource@1`; `preservica token`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=3e03f247-403b-4002-a2ec-56fe705d4d2c&scope=ua`
+  - ID `url-1e05720207600e64`; opening `no`; risks `signed_token`; mentions 3
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=3ecea694-e4e1-4834-81d6-0c422bfcf569&scope=ua`
+  - ID `url-3529c4d7bdd5b1ea`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=4194d0e9-3462-4af0-8a93-8e06b3de50f1&scope=ua`
+  - ID `url-d99f03863f76f9f3`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=4ede673e-8999-4617-8f12-16a9aadd7e5c&scope=ua`
+  - ID `url-1ed876a59b18b72d`; opening `no`; risks `signed_token`; mentions 6
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=559d2fb2-4e64-4ef2-845f-0f4e8e122074&scope=ua`
+  - ID `url-e0c21246a16e831e`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=5bac9b15-d24e-4711-b91b-283ff42bbe7f&scope=ua`
+  - ID `url-3c2f8a3ef2ed79e9`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=5c2e3f49-a965-449e-b79b-2ca256c3838a&scope=ua`
+  - ID `url-0151c87a6f335edc`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=61bfd0f5-c60a-4332-ac89-d7464e25b8f0&scope=ua`
+  - ID `url-9d442696ce7856aa`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=6dda278a-5bef-4eed-b10d-bf05d4d22542&scope=ua&fresh=0.0354855798411583`
+  - ID `url-60754bd5b9a09c5f`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=6ef31c53-e871-4b4a-a812-0b8a9971bd46&scope=ua&cache=981787239491545960`
+  - ID `url-3ccdeaea8ada4bb7`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=74aba9ec-a03c-4eba-beaf-b3d56fff0ad9&scope=ua&cb=1107194069`
+  - ID `url-2bf55ae4d86c23e6`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=74aba9ec-a03c-4eba-beaf-b3d56fff0ad9&scope=ua&fresh=1781171035.5939245`
+  - ID `url-d82a9aa24d136ee5`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=7992227a-3104-424c-b1f3-2bc5a4165c95&scope=ua&fresh=893148253803755441`
+  - ID `url-23661e8f4ab6eca2`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=82ece2fe-dc27-4ddb-b8c7-9b533b6719e1&scope=ua&fresh=1781171035.5939245`
+  - ID `url-50c2962891ba0539`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=894cd31d-b1b7-44e5-a696-848be1fc047a&scope=ua`
+  - ID `url-da203256a02d9ce1`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=969946d6-3247-4649-8848-f375a04507a7&scope=ua&x=JuneCitation1781164904.3025393`
+  - ID `url-e992b5f3f8c620f8`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=a08cec37-fde5-4ec4-b369-43a0de1158dc&scope=ua`
+  - ID `url-dc44c63ce05b8c8b`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=a4cc8672-9cba-44ab-9423-f34b4ed64341&scope=ua&cb=1044308121`
+  - ID `url-a670680b7158679f`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=a4cc8672-9cba-44ab-9423-f34b4ed64341&scope=ua&fresh=0.8948134037835819`
+  - ID `url-df75a5a35c46ef3a`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=b45cdbc8-9568-4008-9091-8da10b5b91f1&scope=ua`
+  - ID `url-ecc0f31495650346`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=b70c06c4-0ad7-4efb-b0ac-856b04d783e0&scope=ua`
+  - ID `url-89e003e7bef64815`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=c1037f84-a27c-4bda-842f-238e4787b3f0&scope=ua`
+  - ID `url-9d2a6a25ba25602f`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=c528be1e-dc8d-4276-9952-6a8302412952&scope=ua`
+  - ID `url-17a623ec9812a507`; opening `no`; risks `signed_token`; mentions 3
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=c55d5992-ff7a-436d-b321-2147401dd2fa&scope=ua`
+  - ID `url-ed80acf5004431a1`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=c9d55cee-16e8-4869-9556-fe57be785a5b&scope=ua`
+  - ID `url-76b82ea0fbffa03f`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=d8f2d467-8be1-4ca1-813b-883e7f732a0f&scope=ua&x=JuneCitation1781188737.7044826`
+  - ID `url-bec7b5c4f74d70e1`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=e0578200-266f-4175-be43-b4509d036770&scope=ua&x=JuneCitation1781181082.6120403`
+  - ID `url-550b8b795d0374d3`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=e2ae69ba-2123-46df-9cc9-05be0ab6954a&scope=ua`
+  - ID `url-ece07c018d479a6a`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=e8f2951a-126e-42f0-9c97-23c03ce6bbd5&scope=ua`
+  - ID `url-72ecd1d3d85827fa`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=eac200df-430e-41fa-8bfe-39c26841f1bc&scope=ua&x=JuneCitation1781188737.7044826`
+  - ID `url-921d8c314e0fd6d4`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=ec6c8a2d-9e2c-42ac-b4c1-011fffc7adc3&scope=ua`
+  - ID `url-fe03a25730fe7754`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=ec6c8a2d-9e2c-42ac-b4c1-011fffc7adc3&scope=ua&cb=804544514`
+  - ID `url-b81ea42828cb398d`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=ecadb38a-24ee-4c83-ba67-2781cb0aa762&scope=ua&fresh=483136722002983686`
+  - ID `url-3d56fef46b93fd34`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=f4f69b57-23dc-47f3-858d-fb85c5afe464&scope=ua`
+  - ID `url-924ca9b5a5cf4134`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=f4f69b57-23dc-47f3-858d-fb85c5afe464&scope=ua&ampxyz=0.04088292936527138`
+  - ID `url-2167f45c2b9b76ba`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.bwa.workers.dev/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=f79fb037-4fae-41aa-984e-13fe28741878&scope=ua`
+  - ID `url-2dd76d6ed23bf145`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## cors.isomorphic-git.org
+
+- `https://cors.isomorphic-git.org/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=5bac9b15-d24e-4711-b91b-283ff42bbe7f&scope=ua`
+  - ID `url-e8e6cf8e1d1662b9`; opening `no`; risks `signed_token`; mentions 4
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://cors.isomorphic-git.org/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=b70c06c4-0ad7-4efb-b0ac-856b04d783e0&scope=ua`
+  - ID `url-16e74cbf202765ee`; opening `no`; risks `signed_token`; mentions 1
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## countapi.mileshilliard.com
+
+- [open](<https://countapi.mileshilliard.com/>) — `https://countapi.mileshilliard.com/`
+  - ID `url-ef338a840860dd48`; opening `yes`; risks `none`; mentions 2
+  - Labels: `CountAPI documentation`
+  - Located in: `counter-api-coordination-report`
+- `https://countapi.mileshilliard.com/api/v1/hit/construction_r5_aug11_XX`
+  - ID `url-dc785d2205f7b065`; opening `no`; risks `mutating_endpoint`; mentions 20
+  - Labels: `Embedded in dse~DataUSAConstructionSequenceMar08@36`; `mutating counter`
+  - Located in: `corpus-family-scan`, `verified-source-bodies`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+- `https://countapi.mileshilliard.com/api/v1/hit/langr5backup4813_XX`
+  - ID `url-d81ebbcd141fa0ba`; opening `no`; risks `mutating_endpoint`; mentions 25
+  - Labels: `mutating counter`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## ctxr.me
+
+- `https://ctxr.me/https://example.com`
+  - ID `url-ad9298024ba017b8`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~AgentYahooCtxTestJj@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## da.gd
+
+- `https://da.gd/00AgentZ+`
+  - ID `url-0a273019eb6bdc31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/00AgentZ`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/4qPkK+`
+  - ID `url-bfdb37ad47806720`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/4qPkK`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/Ayg+`
+  - ID `url-a8a412b9a00fe0c7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Ayg`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/MA2019kdat+`
+  - ID `url-79bd68cb86b72944`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/MA2019kdat`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/MA2020kdat+`
+  - ID `url-a609d94dfb313cf7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `MA2020kdat`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/MA2021kdat+`
+  - ID `url-bab67be908f09d60`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `MA2021kdat`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/MAINget+`
+  - ID `url-c97ff6bb33f22193`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `MAINget`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/OAU4q+`
+  - ID `url-dea5742d30b2978c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `OAU4q`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/S19MAsec+`
+  - ID `url-fada1ecbea148439`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/S19MAsec`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/S20MAsec+`
+  - ID `url-60aac4b39a2296b0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `S20MAsec`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/S21MAsec+`
+  - ID `url-4e29d538ee5cf8f5`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `S21MAsec`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/SECcountyM+`
+  - ID `url-5155432dc3f4b48b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/SECcountyM`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/SECmaMd19+`
+  - ID `url-70de2605ce3e596e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/SECmaMd19`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/SECmaMd20+`
+  - ID `url-975ad3a8654c8e25`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SECmaMd20`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/SECmaMd21+`
+  - ID `url-c6a29f9637b571d9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SECmaMd21`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/SECmainJx+`
+  - ID `url-d9785f3d8751be1a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SECmainJx`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/XnF7uh+`
+  - ID `url-d761a90babf06268`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `da.gd/XnF7uh`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://da.gd/w1YIK+`
+  - ID `url-9bc8ea5fc0bc4724`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `w1YIK`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## docs.counterapi.dev
+
+- [open](<https://docs.counterapi.dev/api/endpoints/v1/>) — `https://docs.counterapi.dev/api/endpoints/v1/`
+  - ID `url-f82bf6c302e6a76e`; opening `yes`; risks `none`; mentions 2
+  - Labels: `CounterAPI V1 historical endpoints`
+  - Located in: `counter-api-coordination-report`
+
+## dp.la
+
+- [open](<https://dp.la/item/6eb0a773ebbfa239d18a51652afc6390>) — `https://dp.la/item/6eb0a773ebbfa239d18a51652afc6390`
+  - ID `url-21aee8c702f6a94d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## elezionistorico.urlquery.net
+
+- `https://elezionistorico.urlquery.net/report/1ef157a5-aba4-4ab8-8e55-0fbcbc5c496e`
+  - ID `url-909ff239e0fe805e`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `URLQuery report for JSONHero object tjRA8XkzVHca`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://elezionistorico.urlquery.net/report/7aa84ac3-ce0f-4cf5-b3a3-c1b8511e090c`
+  - ID `url-b723a9d41c53623a`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `URLQuery report for da.gd/mdhalie`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://elezionistorico.urlquery.net/report/7ffb1e55-8cc1-426a-b8fc-b8a5736ad3de`
+  - ID `url-c02886c1a4e1d9c4`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt 7ffb1e55`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## etherpad.wikimedia.org
+
+- `https://etherpad.wikimedia.org/P/OdiaWiki16/export/txt`
+  - ID `url-8c4c9f1508bfeaa0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `OdiaWiki16 text export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://etherpad.wikimedia.org/P/TestAprA001/export/txt`
+  - ID `url-37eaf8b897080f92`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestAprA001 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestAprActor00/export/txt`
+  - ID `url-69bca08b50eeecdd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestAprActor00 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestAugActor22/export/txt`
+  - ID `url-65c76acb54029d97`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestAugActor22 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestDecActor66/export/txt`
+  - ID `url-8620ce195d208fd1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestDecActor66 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestFebActor88/export/txt`
+  - ID `url-70e2b90c597e38e1`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestFebActor88 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestJanActor77/export/txt`
+  - ID `url-35a5a81e6c4bc5df`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestJanActor77 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestJulyActor11/export/txt`
+  - ID `url-249bb3405357a6c0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestJulyActor11 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestJuneFoo44/export/txt`
+  - ID `url-3daf8b8088a06574`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestJuneFoo44 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestMarActor99/export/txt`
+  - ID `url-cbcf29a8b8ebfecc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestMarActor99 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestMayActor11/export/txt`
+  - ID `url-50c45c7d3279631c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestMayActor11 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name. This terminal target was first observed missing; a later version-0 pad is crawler-induced.
+- `https://etherpad.wikimedia.org/P/TestMayFoo9/export/txt`
+  - ID `url-7a0bece5d9e4e6af`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `TestMayFoo9`; `TestMayFoo9 head export`; `known TestMayFoo9 text export`
+  - Located in: `expanded-search-v4`, `pattern-led-search-v3`, `public-evidence-map`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://etherpad.wikimedia.org/P/TestNovActor55/export/txt`
+  - ID `url-ed96a58f510b68f8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestNovActor55 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestOctActor44/export/txt`
+  - ID `url-89f24e480ee947a0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestOctActor44 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/P/TestSepActor33/export/txt`
+  - ID `url-43886b3b6cb1a26e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TestSepActor33 head export`
+  - Located in: `pattern-led-search-v3`
+  - Note: Public head-export URL constructed from the observed pad name.
+- `https://etherpad.wikimedia.org/p/OdiaWiki16/5614/export/txt`
+  - ID `url-da3292d6a9467e82`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `5614`; `OdiaWiki16 revision 5614`; `OdiaWiki16@5614`
+  - Located in: `expanded-search-v4`, `pattern-led-search-v3`, `public-evidence-map`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## example.com
+
+- [open](<https://example.com>) — `https://example.com`
+  - ID `url-100680ad546ce6a5`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentTempFormXYZ@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## fati116.urlquery.net
+
+- `https://fati116.urlquery.net/report/376f2e35-d820-4305-9b9f-d5586f6d5eb9`
+  - ID `url-c697fd83ed9f8694`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt 376f2e35`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://fati116.urlquery.net/report/fa6f897e-46e8-4d1a-a79a-9f1972f1889b`
+  - ID `url-15785b55b5fb474c`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Jina-wrapped Scott County route, 20 June`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## foo.blob.core.windows.net
+
+- `https://foo.blob.core.windows.net/public/reports/querydata?synchronous=true`
+  - ID `url-17a9ff1cd0fe8c44`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Embedded in dse~OAIEquityDec30Raw@9`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## goto.unm.edu
+
+- `https://goto.unm.edu/7t6-o+`
+  - ID `url-dc58c8f3742f62a5`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `UNM short-link analytics`; `goto.unm.edu/7t6-o statistics`; `goto.unm.edu/7t6-o+`
+  - Located in: `deep-crawl-v2`, `may-july-campaign-crawl`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## heyzine.com
+
+- [open](<https://heyzine.com/flip-book/da582beadc.html>) — `https://heyzine.com/flip-book/da582beadc.html`
+  - ID `url-6b2ba8a6fdea770c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `underlying Heyzine flipbook`
+  - Located in: `deep-crawl-v2`
+
+## is.gd
+
+- `https://is.gd/stats.php?url=8f8uYq`
+  - ID `url-3db25fa7f7f128ee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/8f8uYq statistics`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=9KRtY2`
+  - ID `url-65eda85197971e31`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/9KRtY2`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=LmdHmG`
+  - ID `url-094bb31c2746ad77`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/LmdHmG`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=X8IJvK`
+  - ID `url-1a4f542a38ba2d10`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/X8IJvK`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=XWF7UJ`
+  - ID `url-ef64189e2300aa53`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/XWF7UJ statistics`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=gfHDiw`
+  - ID `url-bbc61e74d4a6ad61`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/gfHDiw statistics`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=jj4h2g`
+  - ID `url-4bf8492d08cec084`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `is.gd/jj4h2g`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=mxz9eB`
+  - ID `url-cefa537231f55463`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `mxz9eB`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://is.gd/stats.php?url=wr94bt`
+  - ID `url-ab5362febc2e0c48`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `wr94bt`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## jqp.vercel.app
+
+- `https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fcode.highcharts.com%2Fmapdata%2Fcountries%2Fus%2Fus-ma-all.geo.json&jq=%5B.features%5B%5D.properties%7C%7Bcode%3A.%22hc-key%22%2Cname%3A.name%7D%5D`
+  - ID `url-b4385a44ef4aa707`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fmd.succ.ai%2Fhttps%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json&jq=.%5B0%3A16%5D`
+  - ID `url-93a0e4387abc8d4e`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fmd.succ.ai%2Fhttps%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json&jq=.+as+%24x%7C%7Bsource%3A%28%24x%5B0%5D%7Cto_entries%5B0%5D.value%29%2Cyear%3A%22regCF_county_2019%22%2Crecords%3A%28%5B285%2C291%2C297%2C303%2C309%2C315%5D%7Cmap%28.+as+%24i%7C%7Bcode%3A%28%24x%5B%24i%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%5C%22%22%29%5B3%5D%29%2Cthousands%3A%28%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%2F1000%29%2Cusd%3A%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%7D%29%29%7D`
+  - ID `url-53d6120c9488a0ca`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fmd.succ.ai%2Fhttps%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json&jq=.+as+%24x%7C%7Bsource%3A%28%24x%5B0%5D%7Cto_entries%5B0%5D.value%29%2Cyear%3A%22regCF_county_2020%22%2Crecords%3A%28%5B1051%2C1057%2C1063%2C1069%2C1075%2C1081%2C1087%2C1093%2C1099%2C1105%5D%7Cmap%28.+as+%24i%7C%7Bcode%3A%28%24x%5B%24i%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%5C%22%22%29%5B3%5D%29%2Cthousands%3A%28%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%2F1000%29%2Cusd%3A%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%7D%29%29%7D`
+  - ID `url-a24d2f254e41c0be`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fmd.succ.ai%2Fhttps%3A%2F%2Fwww.sec.gov%2Ffiles%2Fcounty.json&jq=.+as+%24x%7C%7Bsource%3A%28%24x%5B0%5D%7Cto_entries%5B0%5D.value%29%2Cyear%3A%22regCF_county_2021%22%2Crecords%3A%28%5B2019%2C2025%2C2031%2C2037%2C2043%2C2049%2C2055%2C2061%2C2067%5D%7Cmap%28.+as+%24i%7C%7Bcode%3A%28%24x%5B%24i%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%5C%22%22%29%5B3%5D%29%2Cthousands%3A%28%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%2F1000%29%2Cusd%3A%28%24x%5B%24i%2B2%5D%7Cto_entries%5B0%5D.value%7Csplit%28%22%3A+%22%29%5B1%5D%7Crtrimstr%28%22%2C%22%29%7Ctonumber%29%7D%29%29%7D`
+  - ID `url-dc4ef3e8f1bdfbcc`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## jsonhero.io
+
+- `https://jsonhero.io/j/2EvFizxRzKLN`
+  - ID `url-a8162c74d3d2d959`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `jsonhero.io/j/2EvFizxRzKLN`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/6EajtLOXKuI8`
+  - ID `url-465d3dee52fba81f`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `6EajtLOXKuI8`; `6EajtLOXKuI8 public object`
+  - Located in: `deep-crawl-v2`, `public-evidence-map`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/CIIzF5i3gTra`
+  - ID `url-eff23953459ed158`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CIIzF5i3gTra`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/EmqkBjmA9542`
+  - ID `url-7432627b505b8182`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `EmqkBjmA9542`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/GSEuSDxoOuhB`
+  - ID `url-e9ca2b1ba6526ce8`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `GSEuSDxoOuhB`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/KzcVD5MkZ7AT`
+  - ID `url-80fb7b2cd34fb5d9`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `KzcVD5MkZ7AT`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/buvcgpLEU8Dl`
+  - ID `url-65b1a35d7853b2b6`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `jsonhero.io/j/buvcgpLEU8Dl`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/buvcgpLEU8Dl/editor`
+  - ID `url-80ec4304394ec465`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `editor route`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/fZaMh3BYscgR`
+  - ID `url-dd3dfdcb090e38e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `fZaMh3BYscgR`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/hVmBaotV0fHB`
+  - ID `url-98cbd6af06f9f9dd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `hVmBaotV0fHB`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/lN8gTfw2EA39`
+  - ID `url-552f997d982e3aea`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `lN8gTfw2EA39`
+  - Located in: `pattern-led-search-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/wANOlosoW5YN`
+  - ID `url-3defcd9f7284856a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `jsonhero.io/j/wANOlosoW5YN`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://jsonhero.io/j/yesDZj1nfKfx`
+  - ID `url-8131e0cf9e3b1c25`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `jsonhero.io/j/yesDZj1nfKfx`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## lcdl.library.cofc.edu
+
+- [open](<https://lcdl.library.cofc.edu/lcdl/catalog/lcdl:129142>) — `https://lcdl.library.cofc.edu/lcdl/catalog/lcdl:129142`
+  - ID `url-805786b201eb50d5`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://lcdl.library.cofc.edu/lcdl/catalog/lcdl:129229>) — `https://lcdl.library.cofc.edu/lcdl/catalog/lcdl:129229`
+  - ID `url-314a8bf72354e4b6`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://lcdl.library.cofc.edu/lcdl/catalog/oai2?verb=GetRecord%26metadataPrefix=oai_dc%26identifier=oai%3Alcdl%3A129229>) — `https://lcdl.library.cofc.edu/lcdl/catalog/oai2?verb=GetRecord%26metadataPrefix=oai_dc%26identifier=oai%3Alcdl%3A129229`
+  - ID `url-20054304e0609b77`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## liveweave.com
+
+- `https://liveweave.com/8ZQhua`
+  - ID `url-51c268cfc936ff50`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `8ZQhua editor`; `liveweave.com/8ZQhua`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://liveweave.com/8ZQhua/demo`
+  - ID `url-da0ad1e6f4803f22`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `8ZQhua rendered head`; `8ZQhua/demo`; `liveweave.com/8ZQhua/demo`
+  - Located in: `deep-crawl-v2`, `public-evidence-map`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://liveweave.com/VopQ90`
+  - ID `url-cb2ab3bbfdd3622a`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `VopQ90`; `liveweave.com/VopQ90`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://liveweave.com/view.php?id=VopQ90&foo=1`
+  - ID `url-afee3e2b70c7c85f`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `view.php?id=VopQ90&foo=1`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## m.urlquery.net
+
+- `https://m.urlquery.net/report/e7a26cfa-5f2c-459f-86f6-a02a363a81ca`
+  - ID `url-d346e7c174e3f68d`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt e7a26cfa`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## markdown.new
+
+- `https://markdown.new/https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf`
+  - ID `url-bce6ec64c404a590`; opening `no`; risks `server_side_fetch`; mentions 2
+  - Located in: `external-footprint`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## mobile.urlquery.net
+
+- `https://mobile.urlquery.net/report/9313737d-2290-4cd1-a6ca-ac979389a62f`
+  - ID `url-fcd81317667ba84e`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt 9313737d`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://mobile.urlquery.net/report/c0bd6f51-84e9-471a-a050-68ad2945e4ed`
+  - ID `url-e1c7009bb2041c58`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt c0bd6f51`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## paste.linuxiarz.pl
+
+- `https://paste.linuxiarz.pl/view/34cb12da`
+  - ID `url-73e30ee125be8a8a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Untitled`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/404ce47a`
+  - ID `url-c74fac85711a5fff`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `RefQ1`; `RefQ1 404ce47a`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/4ff906a2`
+  - ID `url-fe0975d36c97bc33`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `4ff906a2`; `Untitled`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/53192269`
+  - ID `url-653d9ab782f06bf0`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `53192269`; `Untitled`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/59c84c78`
+  - ID `url-f1e2667cf7407529`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `RefQ0`; `RefQ0 59c84c78`; `RefQ0 RSS item`
+  - Located in: `deep-crawl-v2`, `public-evidence-map`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/5f122dd1`
+  - ID `url-c57f4c60fa79015a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Filler8`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/704a0d21`
+  - ID `url-f994e79c9c0cfe89`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `RefQ2`; `paste.linuxiarz.pl Q2 paste`; `paste.linuxiarz.pl RefQ2`
+  - Located in: `deep-crawl-v2`, `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/73384ef7`
+  - ID `url-f7186f88bd3fb4c4`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `RefNX2`; `RefNX2 73384ef7`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/7d012d32`
+  - ID `url-80377ffd6c5e4eb3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `RefAP`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/89a3961d`
+  - ID `url-841dfa4be0546d0a`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `89a3961d`; `Filler8`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/a2cf71f5`
+  - ID `url-977762a098ee0f3b`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Untitled`; `a2cf71f5`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/a43cd523`
+  - ID `url-9bcefbaf43149d2b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `RefNX`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/aaa0eb75`
+  - ID `url-31e1a076e3b8ab2d`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `SFTEST`; `SFTEST aaa0eb75`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/b0924d89`
+  - ID `url-e604342fc3b7afaa`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `RefAP2`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/b803a0e6`
+  - ID `url-18ec6cbe0c493dd3`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Filler8`; `b803a0e6`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/bcb984d1`
+  - ID `url-ec803281b971d144`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `RefXY`; `RefXY bcb984d1`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/d379207f`
+  - ID `url-2a4855b26c37ae62`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `Q3 paste`; `RefQ3`
+  - Located in: `deep-crawl-v2`, `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://paste.linuxiarz.pl/view/fa26a684`
+  - ID `url-bbab32c6be4dc9c3`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `RefXY2`; `RefXY2 fa26a684`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## pdymb-16-146-184-55.run.pinggy-free.link
+
+- `https://pdymb-16-146-184-55.run.pinggy-free.link/`
+  - ID `url-8a862a58a02df8e6`; opening `caution`; risks `external_logging`; mentions 1
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## pro.dp.la
+
+- `https://pro.dp.la/developers/api-basics`
+  - ID `url-e51015fddb7eef3a`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `DPLA API basics`
+  - Located in: `claim-source-map-v3`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://pro.dp.la/developers/policies`
+  - ID `url-b1d9671e6337caf2`; opening `no`; risks `server_side_fetch`; mentions 2
+  - Labels: `DPLA policies`
+  - Located in: `claim-source-map-v3`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## prowiki.org
+
+- `https://prowiki.org/wiki4d/wiki.cgi?AgentNacogdochesDataUSAJulyX`
+  - ID `url-27bab34bc3591697`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `AgentNacogdochesDataUSAJulyX`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?AgentTexasPovertyRaceRefsJune22Kappa`
+  - ID `url-c66716ddcce16394`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `AgentTexasPovertyRaceRefsJune22Kappa`; `AgentTexasPovertyRaceRefsJune22Kappa displayed revision`
+  - Located in: `public-evidence-map`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?ApiResearch/Links2023`
+  - ID `url-c2888a7829285555`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `ApiResearch/Links2023`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?DataUSAControlGeoMay20C`
+  - ID `url-6a23a8f5b6d3599b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `DataUSAControlGeoMay20C`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?FederalBudgetReferenceResearch2023`
+  - ID `url-5515c3d76454588e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `FederalBudgetReferenceResearch2023`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?PublicReferenceLinksResearch`
+  - ID `url-8d84b9fe84d973b6`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `PublicReferenceLinksResearch`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?ZZFederalQuarterBridge`
+  - ID `url-9b6fabe79109ce62`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `ZZFederalQuarterBridge`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://prowiki.org/wiki4d/wiki.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-f6e37a74037c1fd5`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Wiki4D`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## r.jina.ai
+
+- `https://r.jina.ai/https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=f4f69b57-23dc-47f3-858d-fb85c5afe464&scope=ua`
+  - ID `url-650d2efb4d67f8e2`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## rspace.library.cofc.edu
+
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg`
+  - ID `url-96ec5a7ef2ee7262`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg`
+  - ID `url-79991f7dfabb8cf5`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest/anything>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest/anything`
+  - ID `url-d046d5ec0235f4b6`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?callback=foo>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?callback=foo`
+  - ID `url-e6479fcdf352716b`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?format=text>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?format=text`
+  - ID `url-4dd3f641505524f5`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?pretty=true>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/manifest?pretty=true`
+  - ID `url-ff72ecc8ee7e0072`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/sequence/normal>) — `https://rspace.library.cofc.edu/iiif/lcdl129142JPEG1jpg/sequence/normal`
+  - ID `url-f68dd612e241dbc2`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg`
+  - ID `url-c2f558c13a1cc55b`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129144JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129144JPEG1jpg`
+  - ID `url-bd15c3d7548ad38d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129145JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129145JPEG1jpg`
+  - ID `url-1134afc420d24cda`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://rspace.library.cofc.edu/iiif/lcdl129146JPEG1jpg>) — `https://rspace.library.cofc.edu/iiif/lcdl129146JPEG1jpg`
+  - ID `url-23e8a35b553c697e`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~AgentDPLALibraryObjectAPILinksK91@1`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## rubygems.org
+
+- [open](<https://rubygems.org/api/v1/gems/a--00cfmapjson726.json>) — `https://rubygems.org/api/v1/gems/a--00cfmapjson726.json`
+  - ID `url-ca30232f33a6893d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `a--00cfmapjson726`
+  - Located in: `deep-crawl-v2`
+- [open](<https://rubygems.org/api/v1/gems/method2088.json>) — `https://rubygems.org/api/v1/gems/method2088.json`
+  - ID `url-e1aff273c741a95a`; opening `yes`; risks `none`; mentions 1
+  - Labels: `method2088`
+  - Located in: `deep-crawl-v2`
+- [open](<https://rubygems.org/api/v1/gems/ultimate4834.json>) — `https://rubygems.org/api/v1/gems/ultimate4834.json`
+  - ID `url-be7773a471471e5a`; opening `yes`; risks `none`; mentions 1
+  - Labels: `ultimate4834`
+  - Located in: `deep-crawl-v2`
+- [open](<https://rubygems.org/api/v1/owners/ulinkqy8py3mp/gems.json>) — `https://rubygems.org/api/v1/owners/ulinkqy8py3mp/gems.json`
+  - ID `url-432b8829581d2a05`; opening `yes`; risks `none`; mentions 3
+  - Labels: `RubyGems owner record for ulinkqy8py3mp`; `owner API snapshot 2026-09-04`; `ulinkqy8py3mp owner API`
+  - Located in: `may-july-campaign-crawl`, `public-evidence-map`, `site-hint-scan`
+- [open](<https://rubygems.org/gems/a--00cfmapjson726>) — `https://rubygems.org/gems/a--00cfmapjson726`
+  - ID `url-b9975c70b524704f`; opening `yes`; risks `none`; mentions 1
+  - Labels: `a--00cfmapjson726 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/a--0zlink83721>) — `https://rubygems.org/gems/a--0zlink83721`
+  - ID `url-67f8f567758c6957`; opening `yes`; risks `none`; mentions 1
+  - Labels: `a--0zlink83721`
+  - Located in: `site-hint-scan`
+- [open](<https://rubygems.org/gems/adep236097>) — `https://rubygems.org/gems/adep236097`
+  - ID `url-bf79bc6d63dee08c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `adep236097 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/adep97117>) — `https://rubygems.org/gems/adep97117`
+  - ID `url-13a0a6b3233e98a7`; opening `yes`; risks `none`; mentions 1
+  - Labels: `adep97117 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amd6002>) — `https://rubygems.org/gems/amd6002`
+  - ID `url-e58d16851f999cbf`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amd6002 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdapi208076>) — `https://rubygems.org/gems/amdapi208076`
+  - ID `url-dbac1d782d3e5bfa`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdapi208076 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdapi30894>) — `https://rubygems.org/gems/amdapi30894`
+  - ID `url-6f193a5854b13e2c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdapi30894 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdapi577106>) — `https://rubygems.org/gems/amdapi577106`
+  - ID `url-2a68ae7b31bdcb58`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdapi577106 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdapi811316>) — `https://rubygems.org/gems/amdapi811316`
+  - ID `url-db25a47a377ac967`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdapi811316 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdmore280320>) — `https://rubygems.org/gems/amdmore280320`
+  - ID `url-e19c6d253b9a53db`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdmore280320 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdmore690849>) — `https://rubygems.org/gems/amdmore690849`
+  - ID `url-0fcf8b0291cf2fe9`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdmore690849 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdmore730329>) — `https://rubygems.org/gems/amdmore730329`
+  - ID `url-c1b9bfbec48ff88f`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdmore730329 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdmore778667>) — `https://rubygems.org/gems/amdmore778667`
+  - ID `url-b5cd57d2900b8321`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdmore778667 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdmore843916>) — `https://rubygems.org/gems/amdmore843916`
+  - ID `url-02ead113f8eb6485`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdmore843916 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar134124>) — `https://rubygems.org/gems/amdvar134124`
+  - ID `url-97054def0071470d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar134124 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar152054>) — `https://rubygems.org/gems/amdvar152054`
+  - ID `url-acfa7b62ee583594`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar152054 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar521314>) — `https://rubygems.org/gems/amdvar521314`
+  - ID `url-f4cd71addf36ccc4`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar521314 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar670957>) — `https://rubygems.org/gems/amdvar670957`
+  - ID `url-8ef5fc6ae4fa2650`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar670957 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar775714>) — `https://rubygems.org/gems/amdvar775714`
+  - ID `url-8672ff214c288ead`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar775714 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar877792>) — `https://rubygems.org/gems/amdvar877792`
+  - ID `url-c2a118b0e4a4ffa4`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar877792 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar967059>) — `https://rubygems.org/gems/amdvar967059`
+  - ID `url-4454ca228ca0d066`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar967059 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar973520>) — `https://rubygems.org/gems/amdvar973520`
+  - ID `url-6c056cb2885f3c9f`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar973520 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdvar987523>) — `https://rubygems.org/gems/amdvar987523`
+  - ID `url-b691c94fa1a746c6`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdvar987523 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/amdwc51950>) — `https://rubygems.org/gems/amdwc51950`
+  - ID `url-a9b9dc9688f7ff00`; opening `yes`; risks `none`; mentions 2
+  - Labels: `amdwc51950`; `amdwc51950 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `may-july-campaign-crawl`, `registry-readback`
+- [open](<https://rubygems.org/gems/amdwc56692>) — `https://rubygems.org/gems/amdwc56692`
+  - ID `url-72e7800a76091da6`; opening `yes`; risks `none`; mentions 1
+  - Labels: `amdwc56692 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/geo_query_catalog>) — `https://rubygems.org/gems/geo_query_catalog`
+  - ID `url-985e64a147009156`; opening `yes`; risks `none`; mentions 1
+  - Labels: `geoquerycatalog`
+  - Located in: `site-hint-scan`
+- [open](<https://rubygems.org/gems/mapanchorcf202704>) — `https://rubygems.org/gems/mapanchorcf202704`
+  - ID `url-1a6ed8e22a6c705e`; opening `yes`; risks `none`; mentions 1
+  - Labels: `mapanchorcf202704`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://rubygems.org/gems/method2088>) — `https://rubygems.org/gems/method2088`
+  - ID `url-1f310c9c6b6b6c6d`; opening `yes`; risks `none`; mentions 1
+  - Labels: `method2088 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/ultimate4834>) — `https://rubygems.org/gems/ultimate4834`
+  - ID `url-472f446dcbde85c3`; opening `yes`; risks `none`; mentions 2
+  - Labels: `ultimate4834`; `ultimate4834 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `may-july-campaign-crawl`, `registry-readback`
+- [open](<https://rubygems.org/gems/wctest73410>) — `https://rubygems.org/gems/wctest73410`
+  - ID `url-b9cfd1a5af451f29`; opening `yes`; risks `none`; mentions 1
+  - Labels: `wctest73410 runtime-chain package`
+  - Located in: `deep-crawl-v2`, `registry-readback`
+  - Note: Package name and dependency membership confirmed from the public owner metadata.
+- [open](<https://rubygems.org/gems/x--00cfmapjson726>) — `https://rubygems.org/gems/x--00cfmapjson726`
+  - ID `url-acd2e99736aa6c8c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `x--00cfmapjson726`
+  - Located in: `may-july-campaign-crawl`
+- [open](<https://rubygems.org/gems/y----00prx90485>) — `https://rubygems.org/gems/y----00prx90485`
+  - ID `url-423147fc9ce64010`; opening `yes`; risks `none`; mentions 2
+  - Labels: `y----00prx90485`
+  - Located in: `may-july-campaign-crawl`, `site-hint-scan`
+- [open](<https://rubygems.org/gems/zlink83721>) — `https://rubygems.org/gems/zlink83721`
+  - ID `url-df64b10774e62508`; opening `yes`; risks `none`; mentions 1
+  - Labels: `zlink83721`
+  - Located in: `site-hint-scan`
+- [open](<https://rubygems.org/profiles/ulinkqy8py3mp>) — `https://rubygems.org/profiles/ulinkqy8py3mp`
+  - ID `url-7f14fef8fc4792f8`; opening `yes`; risks `none`; mentions 1
+  - Labels: `RubyGems owner`
+  - Located in: `deep-crawl-v2`
+
+## search.urlquery.net
+
+- `https://search.urlquery.net/report/ccbb1a1b-d0e4-408f-8029-d2e9c5ad584c`
+  - ID `url-e5aecefbc6c72b25`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Tama County route with an epoch-like validation marker, 21 June`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## t.mdcdev.me
+
+- [open](<https://t.mdcdev.me/slvf3677+>) — `https://t.mdcdev.me/slvf3677+`
+  - ID `url-783c69b218c18fd1`; opening `yes`; risks `none`; mentions 1
+  - Labels: `t.mdcdev.me/slvf3677`
+  - Located in: `may-july-campaign-crawl`
+
+## texteditors.org
+
+- [open](<https://texteditors.org/cgi-bin/wiki.pl?action=rc&from=1777216005>) — `https://texteditors.org/cgi-bin/wiki.pl?action=rc&from=1777216005`
+  - ID `url-878085ca406af396`; opening `yes`; risks `none`; mentions 2
+  - Labels: `texteditors.org`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+
+## tinyurl.com
+
+- `https://tinyurl.com/preview/deprecated/2dhwlfmj`
+  - ID `url-4b5a5b795234fe91`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `TinyURL 2dhwlfmj preview`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## tmcleod.org
+
+- `https://tmcleod.org/cgi-bin/apchem/wiki.cgi?AmtrakSpendingReference`
+  - ID `url-3e287ed87060ea4e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `AmtrakSpendingReference`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://tmcleod.org/cgi-bin/apchem/wiki.cgi?OpenAICatalanComputationTemp`
+  - ID `url-9115bf2da63f7d37`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `OpenAICatalanComputationTemp`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://tmcleod.org/cgi-bin/apchem/wiki.cgi?action=browse&id=OpenAIRegCFTest&revision=10`
+  - ID `url-1bd54e73d9a40ab3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `OpenAIRegCFTest revision 10`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://tmcleod.org/cgi-bin/apchem/wiki.cgi?action=browse&id=SandboxISTIResearchTest&revision=1`
+  - ID `url-905acbd103669992`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SandboxISTIResearchTest revision 1`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://tmcleod.org/cgi-bin/apchem/wiki.cgi?action=history&id=FederalDataReferenceXYZ`
+  - ID `url-dadd536685fac73f`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `tmcleod.org`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## tsl.preservica.com
+
+- `https://tsl.preservica.com/Render/render/resource/f436a16c-767f-44b8-95fc-2031847276b9/pdf.js/content?token=f4f69b57-23dc-47f3-858d-fb85c5afe464&scope=ua`
+  - ID `url-870c0aabac9dd5ca`; opening `no`; risks `signed_token`; mentions 2
+  - Labels: `preservica token`
+  - Located in: `corpus-family-scan`
+  - Note: Exact public URL retained by the complete bounded scan for this family.
+
+## u.ethz.ch
+
+- [open](<https://u.ethz.ch/nB1nv+?jqpaccess=1>) — `https://u.ethz.ch/nB1nv+?jqpaccess=1`
+  - ID `url-5fcb66e150cfd60c`; opening `yes`; risks `none`; mentions 1
+  - Labels: `u.ethz.ch/nB1nv`
+  - Located in: `deep-crawl-v2`
+
+## uoft.me
+
+- `https://uoft.me/yourls-infos.php?id=maagentxyz99999`
+  - ID `url-57efdb3c44e6e142`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `UofT short-link maagentxyz99999`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://uoft.me/yourls-infos.php?id=utmace`
+  - ID `url-a6cd6284d72e3bf4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `UofT /utmace analytics`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://uoft.me/yourls-infos.php?id=zzagent740558`
+  - ID `url-4c854a04bd511875`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `UofT short-link zzagent740558`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## url.popcat.xyz
+
+- [open](<https://url.popcat.xyz/OAIq2pdfA1/info>) — `https://url.popcat.xyz/OAIq2pdfA1/info`
+  - ID `url-ef8cc823e0945e17`; opening `yes`; risks `none`; mentions 1
+  - Labels: `url.popcat.xyz`
+  - Located in: `external-footprint`
+
+## urlquery.net
+
+- `https://urlquery.net/report/ae3af062-dfea-4cf3-b691-c560632bbea7`
+  - ID `url-5f728eb79590fcba`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `receipt ae3af062`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://urlquery.net/report/dfffc3cf-9d8c-4d9e-8922-256294ce2a4f`
+  - ID `url-9b355cba7c5e0ce0`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `expanded direct IHME variant at about 23:54Z`
+  - Located in: `expanded-search-v4`, `research-store`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## v.gd
+
+- `https://v.gd/stats.php?url=cVQABi`
+  - ID `url-a4fccae6be52b7e3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `v.gd/cVQABi`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://v.gd/stats.php?url=yXZQ3E`
+  - ID `url-4a819ceb3f18bb2e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `v.gd/yXZQ3E`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## vanderbi.lt
+
+- `https://vanderbi.lt/iyg1y+`
+  - ID `url-6b5a6d2a47bf66df`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Vanderbilt /iyg1y analytics`; `Vanderbilt short-link analytics`
+  - Located in: `may-july-campaign-crawl`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://vanderbi.lt/xxyytest17819+`
+  - ID `url-5a83eb8c164918b9`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `vanderbi.lt/xxyytest17819 statistics record`; `vanderbi.lt/xxyytest17819+`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## wikiservice.at
+
+- [open](<https://wikiservice.at/dse/wiki.cgi?action=browse&id=AgentTempMineLemino4477Q&lang=1&uniq=55555>) — `https://wikiservice.at/dse/wiki.cgi?action=browse&id=AgentTempMineLemino4477Q&lang=1&uniq=55555`
+  - ID `url-9892360645a7088b`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- `https://wikiservice.at/dse/wiki.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-a650162415398b8d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `DSE`
+  - Located in: `external-footprint`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://wikiservice.at/gruender/wiki2.cgi?DataUsaBridgePlaceResearch`
+  - ID `url-0a6fa631de359abc`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `DataUsaBridgePlaceResearch`
+  - Located in: `deep-crawl-v2`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://wikiservice.at/gruender/wiki2.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-9285e87b89d10009`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `GründerWiki RecentChanges`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://wikiservice.at/probier/wiki.cgi?QuintRajiniRefsX9386`
+  - ID `url-37deb5b160ce18de`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `QuintRajiniRefsX9386`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## www.census.gov
+
+- [open](<https://www.census.gov/data/developers/guidance/api-user-guide.API_Key.html>) — `https://www.census.gov/data/developers/guidance/api-user-guide.API_Key.html`
+  - ID `url-33e4e6884682f80f`; opening `yes`; risks `none`; mentions 2
+  - Labels: `US Census API-key guidance`
+  - Located in: `claim-source-map-v3`, `research-store`
+
+## www.dorfwiki.org
+
+- [open](<https://www.dorfwiki.org/wiki.cgi?action=browse&id=RecentChanges&days=120&lang=1>) — `https://www.dorfwiki.org/wiki.cgi?action=browse&id=RecentChanges&days=120&lang=1`
+  - ID `url-0fb27fd7d6681dcc`; opening `yes`; risks `none`; mentions 1
+  - Labels: `DorfWiki`
+  - Located in: `external-footprint`
+
+## www.ludism.org
+
+- `https://www.ludism.org/sandbox/FedRefA`
+  - ID `url-d839156c6becbefb`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `FedRefA`
+  - Located in: `deep-crawl-v2`, `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=browse;diff=2;id=AubergineStew`
+  - ID `url-e395a0c275bab217`; opening `caution`; risks `external_logging`; mentions 4
+  - Labels: `AubergineStew`; `AubergineStew diff`
+  - Located in: `deep-crawl-v2`, `external-footprint`, `may-july-campaign-crawl`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=browse;diff=2;id=CheeseAndOnionsSpread`
+  - ID `url-1ac1333ce84e9ba4`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CheeseAndOnionsSpread`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=browse;id=FedRefB`
+  - ID `url-4180f35f16b5cded`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `FedRefB`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=browse;id=FedRefC`
+  - ID `url-836bc027eb9bdf1d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `FedRefC`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=browse;id=SandBoxTestAuto`
+  - ID `url-289b44eec0d898bd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SandBoxTestAuto`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.ludism.org/sandbox?action=rc;days=120;all=1;showedit=1`
+  - ID `url-518b0fdf942ca167`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Ludism Sandbox`; `Ludism sandbox`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## www.sec.gov
+
+- [open](<https://www.sec.gov/files/county.json>) — `https://www.sec.gov/files/county.json`
+  - ID `url-4ecc16104d212ad2`; opening `yes`; risks `none`; mentions 2
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+- [open](<https://www.sec.gov/files/regcf.json>) — `https://www.sec.gov/files/regcf.json`
+  - ID `url-c3a846f3d2f6afbb`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Embedded in dse~WillkommenImWiki@583`
+  - Located in: `verified-source-bodies`
+  - Note: Exact target retained from a published source revision.
+
+## www.wikiservice.at
+
+- `https://www.wikiservice.at/fractal/wiki.cgi?AgentPovertyTXBridge2026XYZ`
+  - ID `url-77875dd28531c1f0`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `AgentPovertyTXBridge2026XYZ`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?AgentTexasPovertyBridge991`
+  - ID `url-75b5e4c54eed9baf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `AgentTexasPovertyBridge991`
+  - Located in: `deep-crawl-v2`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?CountyBridgeResearch2025A`
+  - ID `url-ed1043dfe1e5d993`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CountyBridgeResearch2025A`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?CountyBridgeResearch2025B`
+  - ID `url-e5fcabaa16d734f7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CountyBridgeResearch2025B`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?CountyDoubleEncF`
+  - ID `url-761807198870efbd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CountyDoubleEncF`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?CountyProxyLinksJuneC`
+  - ID `url-77850ee183762edc`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CountyProxyLinksJuneC`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?CountyTargetVariantsE`
+  - ID `url-a8e4ce951b071d1c`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `CountyTargetVariantsE`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?EN/PinggyHttpNov1Y`
+  - ID `url-a6d2d1a00bb02642`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `EN/PinggyHttpNov1Y`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?EN/PinggyNewNov1X`
+  - ID `url-d41cc1ee9b636cee`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `EN/PinggyNewNov1X`
+  - Located in: `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?SecProxyEncodedRawTrialsG619`
+  - ID `url-e10194302f547e2b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `SecProxyEncodedRawTrialsG619`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/fractal/wiki.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-af367e5fa03f1e47`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `FractalWiki`
+  - Located in: `external-footprint`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-7e361dd5cda91ecf`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `ProbierWiki`
+  - Located in: `external-footprint`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/user/milk/wiki.cgi?FederalAccountApiEvidenceX`
+  - ID `url-b5a5a8d2e2d67f09`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `FederalAccountApiEvidenceX`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/user/milk/wiki.cgi?FederalAccountSourceLinks`
+  - ID `url-5de7545462e45dc2`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `FederalAccountSourceLinks`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/user/milk/wiki.cgi?PublicApiTestPage`
+  - ID `url-2b65240812927338`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `PublicApiTestPage`
+  - Located in: `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/user/milk/wiki.cgi?TestPage`
+  - ID `url-e340a2d0b2842923`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `TestPage`; `TestPage displayed revision`
+  - Located in: `public-evidence-map`, `site-hint-scan`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+- `https://www.wikiservice.at/user/milk/wiki.cgi?action=browse&id=RecentChanges&days=120`
+  - ID `url-c2c6ace2caaf506d`; opening `caution`; risks `external_logging`; mentions 2
+  - Labels: `Milk's Wiki`
+  - Located in: `external-footprint`, `may-july-campaign-crawl`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## yourls.pro
+
+- `https://yourls.pro/mv194q48045692%2B`
+  - ID `url-7d31c06876d30370`; opening `caution`; risks `external_logging`; mentions 3
+  - Labels: `indexed YOURLS row`; `yourls.pro`
+  - Located in: `external-footprint`, `public-evidence-map`
+  - Note: Published as an exact literal; opening guidance reflects route semantics.

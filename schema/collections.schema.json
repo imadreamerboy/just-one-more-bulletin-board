@@ -32,6 +32,22 @@
         "notes": {"type": "string"}
       }
     },
+    "url": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url", "canonical_host", "labels", "discovered_in", "mention_count", "risk_tags", "safe_to_open", "notes"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^url-[a-f0-9]{16}$"},
+        "url": {"type": "string", "format": "uri"},
+        "canonical_host": {"type": "string", "pattern": "^[a-z0-9.-]+$"},
+        "labels": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "discovered_in": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"}, "minItems": 1, "uniqueItems": true},
+        "mention_count": {"type": "integer", "minimum": 1},
+        "risk_tags": {"type": "array", "items": {"enum": ["none", "credential", "signed_token", "mutating_endpoint", "server_side_fetch", "internal_target", "external_logging"]}, "minItems": 1, "uniqueItems": true},
+        "safe_to_open": {"enum": ["yes", "caution", "no"]},
+        "notes": {"type": "string"}
+      }
+    },
     "claim": {
       "type": "object",
       "additionalProperties": false,

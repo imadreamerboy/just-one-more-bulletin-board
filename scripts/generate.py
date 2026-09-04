@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sqlite3
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -12,10 +13,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 REPORT = ROOT / "reports" / "index.md"
+URL_REPORT = ROOT / "reports" / "links.md"
 DATABASE = DATA / "evidence.sqlite3"
-COLLECTIONS = ["entities", "sources", "claims", "relations", "runs", "search-events"]
+COLLECTIONS = ["entities", "urls", "sources", "claims", "relations", "runs", "search-events"]
 TABLE_FIELDS = {
     "entities": ["id", "name", "entity_type", "canonical_host", "notes"],
+    "urls": ["id", "url", "canonical_host", "labels", "discovered_in", "mention_count", "risk_tags", "safe_to_open", "notes"],
     "sources": ["id", "source_url", "source_revision", "first_seen_at", "first_seen_precision", "canonical_host", "evidence_type", "publication_status", "risk_tags", "safe_to_open", "notes"],
     "claims": ["id", "category", "summary", "claim_class", "relevance", "attribution_boundary", "novelty_vs_original_report", "investigation_status", "verification_state", "review_method", "caveat", "notes"],
     "relations": ["id", "source_id", "claim_id", "entity_id", "relation_type", "support_type", "evidence_strength", "notes"],
@@ -27,6 +30,53 @@ TABLE_FIELDS = {
 def read_jsonl(name: str) -> list[dict]:
     path = DATA / f"{name}.jsonl"
     return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()]
+
+
+def code_span(value: str) -> str:
+    longest = max((len(run) for run in re.findall(r"`+", value)), default=0)
+    delimiter = "`" * max(1, longest + 1)
+    return f"{delimiter}{value}{delimiter}"
+
+
+def generate_url_report(data: dict[str, list[dict]]) -> None:
+    grouped: dict[str, list[dict]] = defaultdict(list)
+    for row in data["urls"]:
+        grouped[row["canonical_host"]].append(row)
+
+    safety_counts = Counter(row["safe_to_open"] for row in data["urls"])
+    lines = [
+        "# Exact URL inventory",
+        "",
+        "Generated from the canonical URL collection. Exact byte-distinct URLs remain separate because fragments, query order and encoded variants can be evidence.",
+        "",
+        "Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica and mutating-counter URL-family scans. This is not every URL in the 14,591-revision raw corpus.",
+        "",
+        f"- {len(data['urls'])} exact URLs across {len(grouped)} hosts",
+        f"- opening guidance: {safety_counts['yes']} yes, {safety_counts['caution']} caution, {safety_counts['no']} no",
+        "- `caution` and `no` URLs are published as code literals rather than automatic links",
+        "",
+    ]
+
+    for host in sorted(grouped):
+        rows = sorted(grouped[host], key=lambda row: row["url"])
+        lines.extend([f"## {host}", ""])
+        for row in rows:
+            literal = code_span(row["url"])
+            if row["safe_to_open"] == "yes":
+                rendered = f"[open](<{row['url']}>) — {literal}"
+            else:
+                rendered = literal
+            lines.append(f"- {rendered}")
+            lines.append(
+                f"  - ID `{row['id']}`; opening `{row['safe_to_open']}`; risks `{', '.join(row['risk_tags'])}`; mentions {row['mention_count']}"
+            )
+            if row["labels"]:
+                lines.append(f"  - Labels: {'; '.join(code_span(label) for label in row['labels'])}")
+            lines.append(f"  - Located in: {', '.join(code_span(value) for value in row['discovered_in'])}")
+            if row["notes"]:
+                lines.append(f"  - Note: {row['notes']}")
+        lines.append("")
+    URL_REPORT.write_text("\n".join(lines), encoding="utf-8")
 
 
 def generate_report(data: dict[str, list[dict]]) -> None:
@@ -45,6 +95,7 @@ def generate_report(data: dict[str, list[dict]]) -> None:
         "",
         f"- {len(data['claims'])} claims",
         f"- {len(data['sources'])} deduplicated sources",
+        f"- {len(data['urls'])} exact recovered URLs ([inventory](links.md))",
         f"- {len(data['relations'])} evidence relations",
         f"- evidence strength: {strength_counts['high']} high, {strength_counts['medium']} medium, {strength_counts['low']} low",
         "",
@@ -59,7 +110,7 @@ def generate_report(data: dict[str, list[dict]]) -> None:
             if source["source_url"] and source["safe_to_open"] == "yes":
                 citation = f"[{source['source_revision']}]({source['source_url']})"
             elif source["source_url"]:
-                citation = f"{source['source_revision']} (not linked; open with caution)"
+                citation = f"{source['source_revision']} — {code_span(source['source_url'])} (opening `{source['safe_to_open']}`)"
             else:
                 citation = f"{source['source_revision']} (link withheld)"
             lines.extend([
@@ -91,6 +142,7 @@ def generate_database(data: dict[str, list[dict]]) -> None:
             """
             PRAGMA foreign_keys = ON;
             CREATE TABLE entities (id TEXT PRIMARY KEY, name TEXT NOT NULL, entity_type TEXT NOT NULL, canonical_host TEXT NOT NULL, notes TEXT NOT NULL);
+            CREATE TABLE urls (id TEXT PRIMARY KEY, url TEXT NOT NULL UNIQUE, canonical_host TEXT NOT NULL, labels_json TEXT NOT NULL, discovered_in_json TEXT NOT NULL, mention_count INTEGER NOT NULL, risk_tags_json TEXT NOT NULL, safe_to_open TEXT NOT NULL, notes TEXT NOT NULL);
             CREATE TABLE sources (id TEXT PRIMARY KEY, source_url TEXT, source_revision TEXT NOT NULL, first_seen_at TEXT, first_seen_precision TEXT NOT NULL, canonical_host TEXT NOT NULL, evidence_type TEXT NOT NULL, publication_status TEXT NOT NULL, risk_tags_json TEXT NOT NULL, safe_to_open TEXT NOT NULL, notes TEXT NOT NULL);
             CREATE TABLE claims (id TEXT PRIMARY KEY, category TEXT NOT NULL, summary TEXT NOT NULL, claim_class TEXT NOT NULL, relevance TEXT NOT NULL, attribution_boundary TEXT NOT NULL, novelty_vs_original_report TEXT NOT NULL, investigation_status TEXT NOT NULL, verification_state TEXT NOT NULL, review_method TEXT NOT NULL, caveat TEXT NOT NULL, notes TEXT NOT NULL);
             CREATE TABLE relations (id TEXT PRIMARY KEY, source_id TEXT NOT NULL REFERENCES sources(id), claim_id TEXT NOT NULL REFERENCES claims(id), entity_id TEXT NOT NULL REFERENCES entities(id), relation_type TEXT NOT NULL, support_type TEXT NOT NULL, evidence_strength TEXT NOT NULL, notes TEXT NOT NULL);
@@ -100,6 +152,8 @@ def generate_database(data: dict[str, list[dict]]) -> None:
             CREATE INDEX idx_relations_claim ON relations(claim_id);
             CREATE INDEX idx_relations_entity ON relations(entity_id);
             CREATE INDEX idx_sources_host ON sources(canonical_host);
+            CREATE INDEX idx_urls_host ON urls(canonical_host);
+            CREATE INDEX idx_urls_open_safety ON urls(safe_to_open);
             CREATE VIEW evidence AS
             SELECT r.id AS evidence_id, c.category, c.summary, c.claim_class, c.relevance,
                    r.relation_type, r.support_type, r.evidence_strength,
@@ -121,9 +175,11 @@ def generate_database(data: dict[str, list[dict]]) -> None:
             placeholders = ", ".join("?" for _ in fields)
             for row in data[collection]:
                 values = [row[field] for field in fields]
-                if collection == "sources":
-                    risk_index = fields.index("risk_tags")
-                    values[risk_index] = json.dumps(values[risk_index], separators=(",", ":"))
+                if collection in {"sources", "urls"}:
+                    list_fields = ("risk_tags",) if collection == "sources" else ("labels", "discovered_in", "risk_tags")
+                    for list_field in list_fields:
+                        index = fields.index(list_field)
+                        values[index] = json.dumps(values[index], separators=(",", ":"))
                 connection.execute(f"INSERT INTO {table} VALUES ({placeholders})", values)
         connection.commit()
     finally:
@@ -133,8 +189,9 @@ def generate_database(data: dict[str, list[dict]]) -> None:
 def main() -> None:
     data = {name: read_jsonl(name) for name in COLLECTIONS}
     generate_report(data)
+    generate_url_report(data)
     generate_database(data)
-    print(f"generated {REPORT.relative_to(ROOT)} and {DATABASE.relative_to(ROOT)}")
+    print(f"generated {REPORT.relative_to(ROOT)}, {URL_REPORT.relative_to(ROOT)} and {DATABASE.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

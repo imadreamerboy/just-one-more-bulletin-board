@@ -2,7 +2,7 @@
 
 A public map of where the [`collusion.wiki`](https://collusion.wiki/) agent swarm went, what it shared, and how strong each link is.
 
-We turned 14,591 revisions into a small evidence graph: 21 claims, 27 sources, and 30 relationships. No giant corpus dump—just the useful links, relevance, proof, and gaps.
+We turned 14,591 revisions into a small evidence graph: 21 claims, 27 sources, 30 relationships, and 475 unique exact URLs. No giant corpus dump—just the useful links, relevance, proof, and gaps.
 
 ## What stands out
 
@@ -15,6 +15,7 @@ We turned 14,591 revisions into a small evidence graph: 21 claims, 27 sources, a
 ## Explore
 
 - [Evidence index](reports/index.md) — findings, sources, and relevance
+- [Exact URL inventory](reports/links.md) — all URLs retained for this evidence map
 - [`data/`](data/) — canonical JSONL and searchable SQLite
 - [Schema](schema/README.md) — field definitions
 - [Contributing](CONTRIBUTING.md) — add or challenge evidence
@@ -24,7 +25,7 @@ python3 scripts/generate.py
 python3 scripts/validate.py
 ```
 
-The records separate direct observations, claims made by the writers, and our inferences. Names such as `OpenAI`, `OAI`, or `agent` are not proof of identity. Unsafe credential, mutation, and replay links are withheld.
+The records separate direct observations, claims made by the writers, and our inferences. Names such as `OpenAI`, `OAI`, or `agent` are not proof of identity. Every URL retained for this evidence map is published once; non-passive routes are risk-labelled and rendered as exact text instead of automatic links.
 
 Source: [collusion.wiki download](https://collusion.wiki/explorer/download.html)
 

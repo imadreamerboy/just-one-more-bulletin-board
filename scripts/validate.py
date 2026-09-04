@@ -3,9 +3,11 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
+from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
@@ -15,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_PATH = ROOT / "schema" / "collections.schema.json"
 COLLECTIONS = {
     "entities.jsonl": "entity",
+    "urls.jsonl": "url",
     "sources.jsonl": "source",
     "claims.jsonl": "claim",
     "relations.jsonl": "relation",
@@ -38,7 +41,7 @@ SECRET_PATTERNS = [
     re.compile(r"xox[baprs]-[A-Za-z0-9-]{10,}"),
     re.compile(r"eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+"),
     re.compile(r"-----BEGIN [A-Z ]*PRIVATE KEY-----"),
-    re.compile(r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b"),
+    re.compile(r"(?<![A-Za-z0-9.])(?:[0-9]{1,3}\.){3}[0-9]{1,3}(?![A-Za-z0-9.])"),
 ]
 MUTATING_SOURCE_PATTERNS = [
     re.compile(r"(?i)/(?:up|down|reset|hit|set)(?:/|\?|$)"),
@@ -51,6 +54,16 @@ COLLUSION_REVISION_RE = re.compile(
 
 class ValidationError(Exception):
     pass
+
+
+def exact_url_id(raw: str) -> str:
+    return "url-" + hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
+
+
+def code_span(value: str) -> str:
+    longest = max((len(run) for run in re.findall(r"`+", value)), default=0)
+    delimiter = "`" * max(1, longest + 1)
+    return f"{delimiter}{value}{delimiter}"
 
 
 def load_jsonl(path: Path) -> list[dict]:
@@ -74,6 +87,7 @@ def type_matches(value: object, expected: str) -> bool:
         "object": isinstance(value, dict),
         "array": isinstance(value, list),
         "string": isinstance(value, str),
+        "integer": isinstance(value, int) and not isinstance(value, bool),
         "null": value is None,
     }.get(expected, False)
 
@@ -105,6 +119,9 @@ def validate_value(value: object, schema: dict, location: str) -> None:
                 datetime.fromisoformat(value.replace("Z", "+00:00"))
             except ValueError as exc:
                 raise ValidationError(f"{location}: invalid ISO 8601 date-time") from exc
+
+    if isinstance(value, int) and value < schema.get("minimum", value):
+        raise ValidationError(f"{location}: value is below minimum {schema['minimum']}")
 
     if isinstance(value, list):
         if len(value) < schema.get("minItems", 0):
@@ -143,14 +160,58 @@ def canonical_url(raw: str) -> str:
     return urlunsplit((scheme, netloc, path, query, ""))
 
 
+def validate_url_records(rows: list[dict]) -> None:
+    seen_urls: set[str] = set()
+    for row in rows:
+        url = row["url"]
+        if url in seen_urls:
+            raise ValidationError(f"{row['id']}: duplicate exact URL")
+        seen_urls.add(url)
+        expected_id = exact_url_id(url)
+        if row["id"] != expected_id:
+            raise ValidationError(f"{row['id']}: expected exact-URL ID {expected_id}")
+        parsed = urlsplit(url)
+        if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+            raise ValidationError(f"{row['id']}: URL must use HTTP(S) with a host")
+        if re.search(r"[\s<>\[\]“”‘’—]", url) or url.count(")") > url.count("("):
+            raise ValidationError(f"{row['id']}: URL contains likely extraction debris")
+        canonical_host = (parsed.hostname or "").lower().rstrip(".")
+        if canonical_host != row["canonical_host"]:
+            raise ValidationError(f"{row['id']}: canonical_host does not match URL")
+        risks = row["risk_tags"]
+        if "none" in risks and len(risks) != 1:
+            raise ValidationError(f"{row['id']}: risk tag 'none' cannot be combined with other tags")
+        if any(pattern.search(url) for pattern in SECRET_PATTERNS):
+            if not {"credential", "signed_token"}.intersection(risks):
+                raise ValidationError(f"{row['id']}: credential-shaped URL requires a credential/token risk tag")
+            if row["safe_to_open"] != "no":
+                raise ValidationError(f"{row['id']}: credential/token URL must be marked no")
+        if any(pattern.search(url) for pattern in MUTATING_SOURCE_PATTERNS):
+            if "mutating_endpoint" not in risks or row["safe_to_open"] != "no":
+                raise ValidationError(f"{row['id']}: mutating URL requires mutating_endpoint/no")
+        if set(risks).intersection({"credential", "signed_token", "mutating_endpoint", "server_side_fetch"}) and row["safe_to_open"] != "no":
+            raise ValidationError(f"{row['id']}: non-passive URL must be marked no")
+        if "external_logging" in risks and row["safe_to_open"] == "yes":
+            raise ValidationError(f"{row['id']}: external-logging URL cannot be marked yes")
+
+
 def validate_safety(files: dict[str, list[dict]]) -> None:
-    serialised = "\n".join(json.dumps(row, sort_keys=True) for rows in files.values() for row in rows)
+    scrubbed_rows = []
+    for filename, rows in files.items():
+        for row in rows:
+            scrubbed = dict(row)
+            if filename == "urls.jsonl":
+                scrubbed["url"] = "<published-url>"
+            scrubbed_rows.append(scrubbed)
+    serialised = "\n".join(json.dumps(row, sort_keys=True) for row in scrubbed_rows)
     for pattern in PRIVATE_PATH_PATTERNS:
         if match := pattern.search(serialised):
             raise ValidationError(f"private absolute path detected near {match.group(0)!r}")
     for pattern in SECRET_PATTERNS:
         if match := pattern.search(serialised):
             raise ValidationError(f"credential-shaped value detected near {match.group(0)[:40]!r}")
+
+    validate_url_records(files["urls.jsonl"])
 
     for source in files["sources.jsonl"]:
         url = source["source_url"]
@@ -195,6 +256,7 @@ def validate_repository_shape() -> None:
         "runs.jsonl",
         "search-events.jsonl",
         "sources.jsonl",
+        "urls.jsonl",
     }
     present = {path.name for path in (ROOT / "data").iterdir() if path.is_file()}
     unexpected = sorted(present - allowed_data)
@@ -217,12 +279,15 @@ def validate_references(files: dict[str, list[dict]]) -> None:
         ids[filename] = set(record_ids)
 
     seen_source_tuples: set[tuple[str | None, str]] = set()
+    known_exact_urls = {row["url"] for row in files["urls.jsonl"]}
     for source in files["sources.jsonl"]:
         url = canonical_url(source["source_url"]) if source["source_url"] else None
         key = (url, source["source_revision"])
         if key in seen_source_tuples:
             raise ValidationError(f"{source['id']}: duplicate canonical source tuple {key}")
         seen_source_tuples.add(key)
+        if source["source_url"] and source["source_url"] not in known_exact_urls:
+            raise ValidationError(f"{source['id']}: source URL missing from urls.jsonl")
 
     for relation in files["relations.jsonl"]:
         checks = [
@@ -258,17 +323,44 @@ def validate_readme_links() -> None:
             raise ValidationError(f"README.md: linked path does not exist: {path_text}")
 
 
+def validate_url_report(rows: list[dict], url_report: str) -> None:
+    url_report_lines = url_report.splitlines()
+    id_line_numbers: dict[str, list[int]] = defaultdict(list)
+    for line_number, line in enumerate(url_report_lines):
+        if match := re.fullmatch(r"  - ID `(url-[a-f0-9]{16})`;.*", line):
+            id_line_numbers[match.group(1)].append(line_number)
+
+    for row in rows:
+        locations = id_line_numbers.get(row["id"], [])
+        if len(locations) != 1:
+            raise ValidationError(f"reports/links.md: expected one entry for {row['id']}, found {len(locations)}")
+        entry_line = url_report_lines[locations[0] - 1] if locations[0] else ""
+        if code_span(row["url"]) not in entry_line:
+            raise ValidationError(f"reports/links.md: exact URL missing beside {row['id']}")
+        markdown_targets = {f"]({row['url']})", f"](<{row['url']}>)", f"<{row['url']}>"}
+        if row["safe_to_open"] != "yes" and any(target in entry_line for target in markdown_targets):
+            raise ValidationError(f"reports/links.md: caution/no URL became clickable for {row['id']}")
+
+    extra_ids = sorted(set(id_line_numbers) - {row["id"] for row in rows})
+    if extra_ids:
+        raise ValidationError(f"reports/links.md: entries without URL records: {', '.join(extra_ids)}")
+
+
 def validate_generated_links(files: dict[str, list[dict]]) -> None:
     report = (ROOT / "reports" / "index.md").read_text(encoding="utf-8")
+    url_report = (ROOT / "reports" / "links.md").read_text(encoding="utf-8")
     related_sources = {row["source_id"] for row in files["relations.jsonl"]}
     for source in files["sources.jsonl"]:
         url = source["source_url"]
         if not url or source["id"] not in related_sources:
             continue
-        if source["safe_to_open"] == "yes" and url not in report:
-            raise ValidationError(f"reports/index.md: safe citation missing for {source['id']}")
-        if source["safe_to_open"] != "yes" and url in report:
+        if url not in report:
+            raise ValidationError(f"reports/index.md: exact citation missing for {source['id']}")
+        markdown_targets = {f"]({url})", f"](<{url}>)", f"<{url}>"}
+        if source["safe_to_open"] != "yes" and any(target in report for target in markdown_targets):
             raise ValidationError(f"reports/index.md: caution/no source became clickable for {source['id']}")
+
+    validate_url_report(files["urls.jsonl"], url_report)
 
 
 def main() -> int:

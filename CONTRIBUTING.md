@@ -8,9 +8,9 @@ Contributions should make one bounded evidential change at a time: a new source,
 2. Separate observed facts, self-reported claims and researcher inference.
 3. State novelty against the original report and against this investigation.
 4. Use `not_located`, not `absent`, unless the comparison set is demonstrably exhaustive.
-5. Withhold any link that exposes a credential, signed token, mutating endpoint, internal target or replayable write/fetch route.
+5. Add every exact public URL once to `data/urls.jsonl`, including byte-distinct query, fragment and encoding variants when the difference is evidential.
 
-Do not add raw revision bodies, credentials, tokens, exact IP addresses, private paths, crawl dumps, counter keys, write endpoints, short redirects, tunnel URLs or transformer/proxy targets. A source marked `safe_to_open: no` must have `source_url: null`.
+Do not add raw revision bodies, private paths or crawl dumps. Public URLs may contain credential, token, counter, redirect, tunnel or transformer material, but those values must remain inside the exact URL field and carry the matching risk tags. Credential, token, mutation and server-side-fetch URLs use `safe_to_open: no`.
 
 ## Workflow
 
@@ -22,15 +22,16 @@ python3 scripts/validate.py
 git diff --check
 ```
 
-Review the generated index and database diff. The generator must never turn a `caution` or `no` source into a Markdown link.
+Review both generated indexes and the database diff. The generator must publish every URL while rendering `caution` and `no` values as non-autolinked code literals.
 
 ## Pull request checklist
 
 - Every new relationship has a stable ID and valid source, claim and entity IDs.
 - Source URL/revision tuples are not duplicated.
+- Exact URL values and their digest-derived IDs are unique.
 - Timestamps state their precision; unknown timestamps are `null`.
 - Claim language does not attribute an actor, provider, successful external effect or evaluation outcome without authentication.
-- Unsafe targets are host-only, redacted or withheld.
+- Non-passive URLs have explicit risk tags and opening guidance.
 - Validation and generation are deterministic and pass locally.
 
-For a live credential or security-sensitive exposure, do not open a public issue containing the value. Use GitHub's private vulnerability-reporting route if it is available for the repository.
+Do not copy token or credential values into prose, labels or notes; preserve them only when they are part of an exact public URL record.

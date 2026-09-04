@@ -7,6 +7,7 @@ The canonical dataset is split into normalised JSONL collections. Every line is 
 | Collection | Purpose |
 | --- | --- |
 | `entities.jsonl` | Normalised target sites, services and providers. |
+| `urls.jsonl` | Exact, deduplicated public URLs with discovery and opening metadata. |
 | `sources.jsonl` | Deduplicated citations and source-safety metadata. |
 | `claims.jsonl` | Bounded claims, novelty, verification and caveats. |
 | `relations.jsonl` | One evidence item per source–claim–entity relationship. |
@@ -20,16 +21,30 @@ The machine-readable contract is [`collections.schema.json`](collections.schema.
 | Field | Meaning |
 | --- | --- |
 | `id` | Stable source ID. |
-| `source_url` | Safe read-only citation, or `null` when publication would expose unsafe material. |
-| `source_revision` | Public revision/object identifier, or an explicit withheld locator. |
+| `source_url` | Public citation URL, or `null` when no exact citation was recovered. |
+| `source_revision` | Public revision or object identifier. |
 | `first_seen_at` | Earliest defensible source timestamp in RFC 3339 form, or `null`. |
 | `first_seen_precision` | `second`, `minute`, `date`, `approximate` or `unknown`. |
 | `canonical_host` | Host of the source citation. The target host is held by the related entity. |
 | `evidence_type` | Static revision, history, registry metadata, public object, indexed record, corpus aggregate or research summary. |
-| `publication_status` | Whether the citation is public, redacted, private or withheld in this release. |
+| `publication_status` | Whether the citation is public, redacted, private or withheld. |
 | `risk_tags` | Credential, signed-token, mutating-endpoint, server-side-fetch, internal-target or external-logging risk. `none` cannot be combined with another tag. |
-| `safe_to_open` | `yes`, `caution` or `no`. `no` requires a `null` URL. |
+| `safe_to_open` | `yes`, `caution` or `no`; this is opening guidance, not publication status. |
 | `notes` | Source-specific context that does not reproduce raw payloads. |
+
+## Exact URL fields
+
+| Field | Meaning |
+| --- | --- |
+| `id` | `url-` plus the first 16 hexadecimal characters of SHA-256 over the exact URL string. |
+| `url` | Exact HTTP(S) URL as recovered. Query order, encoding, doubled slashes and fragments are preserved. |
+| `canonical_host` | Lower-case host used for grouping and queries; a terminal DNS dot is removed. |
+| `labels` | Distinct human labels attached to the URL in the investigation notes. |
+| `discovered_in` | Bounded investigation records in which the exact URL was retained. |
+| `mention_count` | Number of retained occurrences across those records. |
+| `risk_tags` | Credential, token, mutation, server-side-fetch, internal-target or external-logging metadata. |
+| `safe_to_open` | Whether following the URL is passive (`yes`), should be treated cautiously, or may have effects (`no`). |
+| `notes` | URL-specific provenance or opening context. |
 
 ## Claim fields
 
@@ -55,6 +70,6 @@ The target or canonical host requested for relationship queries comes from `rela
 
 ## Deduplication and generation
 
-Validation rejects duplicate IDs and duplicate canonical `(source_url, source_revision)` tuples. URL canonicalisation lower-cases the scheme and host, removes default ports and fragments, normalises an empty path, trims non-root trailing slashes and sorts query parameters. It does not follow redirects or decode paths.
+Validation rejects duplicate IDs and duplicate canonical `(source_url, source_revision)` tuples for evidence citations. The exact URL inventory instead rejects only identical strings: byte-distinct variants remain separate because their fragments, query ordering and encodings can carry evidence. URL IDs are recomputed during validation.
 
-Run `python3 scripts/generate.py` after editing canonical JSONL. Commit the regenerated Markdown and SQLite views with the source change.
+Run `python3 scripts/generate.py` after editing canonical JSONL. Commit the regenerated Markdown and SQLite views with the source change. `reports/links.md` must contain every exact URL; `caution` and `no` records appear as code literals rather than automatic links.
