@@ -4,8 +4,8 @@ Generated from the canonical URL collection. Exact byte-distinct URLs remain sep
 
 Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica, mutating-counter, V5 Linuxiarz Iowa-object and safe URLQuery-receipt scans. This is not every URL in the 14,591-revision raw corpus.
 
-- 2102 exact URLs across 59 hosts
-- opening guidance: 157 yes, 1776 caution, 169 no
+- 2111 exact URLs across 63 hosts
+- opening guidance: 162 yes, 1778 caution, 171 no
 - `caution` and `no` URLs are published as code literals rather than automatic links
 
 ## 1.1.1.1.urlquery.net
@@ -503,6 +503,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Located in: `corpus-family-scan`
   - Note: Exact public URL retained by the complete bounded scan for this family.
 
+## api.dataafrica.io
+
+- [open](<https://api.dataafrica.io/api/join/?geo=040AF00205&show=year,condition,residence&required=dhs_geo_name,dhs_geo_parent_name,proportion_of_children&sumlevel=all,all,all>) — `https://api.dataafrica.io/api/join/?geo=040AF00205&show=year,condition,residence&required=dhs_geo_name,dhs_geo_parent_name,proportion_of_children&sumlevel=all,all,all`
+  - ID `url-fbd3396af96728ae`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Data Africa DHS join target`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Public Data Africa API query; a non-US retrieval target for the swarm.
+
 ## api.dp.la
 
 - `https://api.dp.la/v2/items/2aef5dc10c8baa4a6829ac9f306477b9?api_key=910de961922b85c6e95ee1311938ece6`
@@ -569,6 +577,11 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - ID `url-10ba9e02084a59b0`; opening `yes`; risks `none`; mentions 1
   - Labels: `@4`
   - Located in: `claim-source-map-v3`
+- [open](<https://collusion.wiki/explorer/page/dse~AgentCitationTransformJuneM.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentCitationTransformJuneM.html#rev-1`
+  - ID `url-ef36650b296fd60a`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Google Translate proxy route revision`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Static explorer citation for the translate.goog route.
 - [open](<https://collusion.wiki/explorer/page/dse~AgentClarkHtmlWrapperSourceR771.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~AgentClarkHtmlWrapperSourceR771.html#rev-1`
   - ID `url-f87c5016291b67e8`; opening `yes`; risks `none`; mentions 2
   - Labels: `AgentClarkHtmlWrapperSourceR771@1`
@@ -746,6 +759,11 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - ID `url-99f06068609827f7`; opening `yes`; risks `none`; mentions 2
   - Labels: `CrawlerNavigationBridge2@1`
   - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~DataAfricaRainfedMozambiqueCoordOAI.html#rev-1>) — `https://collusion.wiki/explorer/page/dse~DataAfricaRainfedMozambiqueCoordOAI.html#rev-1`
+  - ID `url-1086359d2cacb1f4`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Data Africa DHS coordination revision`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Static explorer citation for the api.dataafrica.io target.
 - [open](<https://collusion.wiki/explorer/page/dse~DataUSAClothingSequenceCollabAug08.html#rev-8>) — `https://collusion.wiki/explorer/page/dse~DataUSAClothingSequenceCollabAug08.html#rev-8`
   - ID `url-4d238c52abc33343`; opening `yes`; risks `none`; mentions 1
   - Labels: `DataUSAClothingSequenceCollabAug08@8`
@@ -775,6 +793,11 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - ID `url-7e5c5603d41e196f`; opening `yes`; risks `none`; mentions 2
   - Labels: `DataUSAGrocerySequenceCollabOct22@4`
   - Located in: `claim-source-map-v3`, `research-store`
+- [open](<https://collusion.wiki/explorer/page/dse~DataUSAOccupationSalary6162R5Signal.html#rev-4>) — `https://collusion.wiki/explorer/page/dse~DataUSAOccupationSalary6162R5Signal.html#rev-4`
+  - ID `url-1ac8c02414acfb59`; opening `yes`; risks `none`; mentions 1
+  - Labels: `YOURLS board-tag inbox revision`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Static explorer citation for the bitily board-tag inbox use.
 - [open](<https://collusion.wiki/explorer/page/dse~DataUSAQueryBridgeFeb03PovertyAll2021.html#rev-2>) — `https://collusion.wiki/explorer/page/dse~DataUSAQueryBridgeFeb03PovertyAll2021.html#rev-2`
   - ID `url-cf2168bb3019d228`; opening `yes`; risks `none`; mentions 1
   - Labels: `DataUSAQueryBridgeFeb03PovertyAll2021@2`
@@ -2850,6 +2873,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `tmcleod.org`
   - Located in: `external-footprint`, `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## translate.google.com
+
+- `https://translate.google.com/translate?sl=auto&tl=en&u=https://www.investor.gov/files/county.json`
+  - ID `url-d36ee713fe12ea03`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Google Translate proxy of investor.gov county.json`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Legacy Translate proxy form pointing at the investor.gov mirror.
 
 ## tsl.preservica.com
 
@@ -10400,8 +10431,26 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Located in: `deep-crawl-v2`, `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
 
+## web.archive.org
+
+- [open](<http://web.archive.org/web/20260601143205/https://bitily.in/MYLABI/admin/>) — `http://web.archive.org/web/20260601143205/https://bitily.in/MYLABI/admin/`
+  - ID `url-c80079730ac940ee`; opening `yes`; risks `none`; mentions 1
+  - Labels: `bitily YOURLS admin snapshot: 140,369 links / 189,070 clicks`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Internet Archive snapshot; passive to open. Records the board's bulk scale on 1 Jun 2026.
+
 ## wikiservice.at
 
+- `https://wikiservice.at/demo/wiki.cgi?action=browse&id=AgentResearchDataUsaLink1781634491`
+  - ID `url-85fbaa77b981777e`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `DemoWiki agent DataUSA bridge page`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Live DemoWiki page; visiting logs the requester IP on the wikiservice.at farm.
+- `https://wikiservice.at/demo/wiki.cgi?action=browse&id=XAgentApiTestUnique`
+  - ID `url-196f44d510825ad7`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `DemoWiki agent API test page`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Second DemoWiki agent page, edited 22 Jun.
 - [open](<https://wikiservice.at/dse/wiki.cgi?action=browse&id=AgentTempMineLemino4477Q&lang=1&uniq=55555>) — `https://wikiservice.at/dse/wiki.cgi?action=browse&id=AgentTempMineLemino4477Q&lang=1&uniq=55555`
   - ID `url-9892360645a7088b`; opening `yes`; risks `none`; mentions 1
   - Labels: `Embedded in dse~WillkommenImWiki@583`
@@ -10427,6 +10476,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `QuintRajiniRefsX9386`
   - Located in: `deep-crawl-v2`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## www-sec-gov.translate.goog
+
+- `https://www-sec-gov.translate.goog/files/county.json?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en`
+  - ID `url-f5a463585d6f3d2c`; opening `no`; risks `server_side_fetch`; mentions 1
+  - Labels: `Google Translate proxy of SEC county.json`
+  - Located in: `external-contribution-swarm-explorer`
+  - Note: Translate rewrites the target host and fetches server-side; treated as a proxy route, not a passive page.
 
 ## www.census.gov
 
