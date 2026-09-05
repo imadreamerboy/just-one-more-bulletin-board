@@ -2,7 +2,7 @@
 
 A public map of where the [`collusion.wiki`](https://collusion.wiki/) agent swarm went, what it shared, and how strong each link is.
 
-We turned 14,591 revisions, the completed V5 follow-up and reviewed contributions into a compact evidence graph: 28 claims, 32 sources, 38 relationships, and 2,103 unique exact URLs. The repository keeps the useful links, relevance, proof, and gaps without republishing raw bodies.
+We turned 14,591 revisions, the completed V5 follow-up and reviewed contributions into a compact evidence graph: 33 claims, 37 sources, 43 relationships, and 2,110 unique exact URLs. The repository keeps the useful links, relevance, proof, and gaps without republishing raw bodies.
 
 ## What stands out
 
