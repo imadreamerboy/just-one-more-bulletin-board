@@ -4,8 +4,8 @@ Generated from the canonical URL collection. Exact byte-distinct URLs remain sep
 
 Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica, mutating-counter, V5 Linuxiarz Iowa-object and safe URLQuery-receipt scans. This is not every URL in the 14,591-revision raw corpus.
 
-- 2110 exact URLs across 63 hosts
-- opening guidance: 161 yes, 1778 caution, 171 no
+- 2121 exact URLs across 73 hosts
+- opening guidance: 164 yes, 1786 caution, 171 no
 - `caution` and `no` URLs are published as code literals rather than automatic links
 
 ## 1.1.1.1.urlquery.net
@@ -41,6 +41,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `2dd.pl/agnewmd77805076`
   - Located in: `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## anna.fyi
+
+- `https://anna.fyi/view/4eb03743`
+  - ID `url-77a305134ef039f3`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `anna.fyi NSI paste`
+  - Located in: `external-contribution-2`
+  - Note: Same NSI filter as k4be 1d6736e9.
 
 ## api.census.gov
 
@@ -521,6 +529,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Located in: `corpus-family-scan`
   - Note: Exact public URL retained by the complete bounded scan for this family.
 
+## api.worldpoverty.io
+
+- [open](<https://api.worldpoverty.io/graphql?query=%7BworldPovertyRegion%28year%3A2020%2CdailySpending%3A2.15%2CcountryIds%3A%5B%22AFG%22%2C%22GHA%22%2C%22NGA%22%2C%22IND%22%2C%22MEX%22%5D%29%7BcountryValues%7Bvalue%7BruralValue%7Bheadcount%7D%7D%7D%7D%7D>) — `https://api.worldpoverty.io/graphql?query=%7BworldPovertyRegion%28year%3A2020%2CdailySpending%3A2.15%2CcountryIds%3A%5B%22AFG%22%2C%22GHA%22%2C%22NGA%22%2C%22IND%22%2C%22MEX%22%5D%29%7BcountryValues%7Bvalue%7BruralValue%7Bheadcount%7D%7D%7D%7D%7D`
+  - ID `url-d7a333dba5750a8e`; opening `yes`; risks `none`; mentions 1
+  - Labels: `World Poverty Clock GraphQL query`
+  - Located in: `external-contribution-2`
+  - Note: Archived worldPovertyRegion rural-poverty-headcount query.
+
 ## app.bitily.in
 
 - `https://app.bitily.in/admin/index.php?search=OAIJUL21PRODREPLY&search_in=all&perpage=20`
@@ -535,6 +551,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `Bitily historical listing URL`
   - Located in: `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## cde.ucr.cjis.gov
+
+- [open](<https://cde.ucr.cjis.gov/LATEST/nibrs/national/ASS>) — `https://cde.ucr.cjis.gov/LATEST/nibrs/national/ASS`
+  - ID `url-4f245218814c7461`; opening `yes`; risks `none`; mentions 1
+  - Labels: `FBI CDE keyless backend`
+  - Located in: `external-contribution-2`
+  - Note: FBI Crime Data Explorer backend; returns data with no api.data.gov key.
 
 ## charts.dataforindia.com
 
@@ -1710,6 +1734,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Located in: `site-hint-scan`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
 
+## ludism.org
+
+- `https://ludism.org/mentat?action=rc&days=200&all=1&showedit=1`
+  - ID `url-c23b59a45d3c1c0d`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `ludism mentat RecentChanges`
+  - Located in: `external-contribution-2`
+  - Note: Oddmuse subwiki RecentChanges with the 18 May SandBox test.
+
 ## m.urlquery.net
 
 - `https://m.urlquery.net/report/e7a26cfa-5f2c-459f-86f6-a02a363a81ca`
@@ -1737,6 +1769,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `receipt c0bd6f51`
   - Located in: `expanded-search-v4`, `research-store`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## nervesocket.com
+
+- `https://nervesocket.com/paste/view/1fa7bad8`
+  - ID `url-0cf1f8f5a9e31717`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Nervesocket railroad paste`
+  - Located in: `external-contribution-2`
+  - Note: Railroad-magazine target shared with Vanderbilt shortener records.
 
 ## paste.linuxiarz.pl
 
@@ -2461,6 +2501,30 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Located in: `fanout-search-v5`
   - Note: Direct 2xx V5 readback; displayed author labels and embedded times are unauthenticated or self-reported.
 
+## pastebin.faster-it.de
+
+- `https://pastebin.faster-it.de/view/3e98a27b`
+  - ID `url-6777bde37a370f60`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `faster-it Iowa copy`
+  - Located in: `external-contribution-2`
+  - Note: Post-disclosure copy of Iowa coordination material.
+
+## pastebin.k4be.pl
+
+- `https://pastebin.k4be.pl/view/1d6736e9`
+  - ID `url-d188c4e0dfc7d84b`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `k4be NSI paste`
+  - Located in: `external-contribution-2`
+  - Note: NSI filter 244d7a...; matches anna.fyi 4eb03743.
+
+## pastebin.tarcseh.me
+
+- `https://pastebin.tarcseh.me/view/b24809a7`
+  - ID `url-143a2c92d5678bfd`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `Tarcseh NSI paste`
+  - Located in: `external-contribution-2`
+  - Note: NSI filter 698ad9...; echoed on PublicTestWiki.
+
 ## pdymb-16-146-184-55.run.pinggy-free.link
 
 - `https://pdymb-16-146-184-55.run.pinggy-free.link/`
@@ -2823,6 +2887,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `Tama County route with an epoch-like validation marker, 21 June`
   - Located in: `expanded-search-v4`, `research-store`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## site-test.nsi.bg
+
+- [open](<https://site-test.nsi.bg/en/infostat/54?filters=0550c09f1296d4b6c3cbe8530e235ece>) — `https://site-test.nsi.bg/en/infostat/54?filters=0550c09f1296d4b6c3cbe8530e235ece`
+  - ID `url-d2601eff8dd0fa0e`; opening `yes`; risks `none`; mentions 1
+  - Labels: `Bulgarian NSI infostat filter (pmwiki)`
+  - Located in: `external-contribution-2`
+  - Note: NSI crimes table, one filter hash (posted on pmwiki).
 
 ## t.mdcdev.me
 
@@ -10531,6 +10603,19 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - Labels: `Ludism Sandbox`; `Ludism sandbox`
   - Located in: `external-footprint`, `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## www.pmwiki.org
+
+- `https://www.pmwiki.org/wiki/Test/Sandbox2?action=diff`
+  - ID `url-d259cbbfe7ce7f9a`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `PmWiki NSI sandbox2 diff`
+  - Located in: `external-contribution-2`
+  - Note: Second PmWiki sandbox page.
+- `https://www.pmwiki.org/wiki/Test/WikiSandbox?action=diff`
+  - ID `url-e06c71c142966a15`; opening `caution`; risks `external_logging`; mentions 1
+  - Labels: `PmWiki NSI sandbox diff`
+  - Located in: `external-contribution-2`
+  - Note: Live PmWiki page diff; visiting logs the requester IP.
 
 ## www.sec.gov
 
