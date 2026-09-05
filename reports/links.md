@@ -4,8 +4,8 @@ Generated from the canonical URL collection. Exact byte-distinct URLs remain sep
 
 Scope: URLs retained in the bounded investigation records and evidence map, plus complete DPLA, Census, Preservica, mutating-counter, V5 Linuxiarz Iowa-object and safe URLQuery-receipt scans. This is not every URL in the 14,591-revision raw corpus.
 
-- 2102 exact URLs across 59 hosts
-- opening guidance: 157 yes, 1776 caution, 169 no
+- 2103 exact URLs across 60 hosts
+- opening guidance: 157 yes, 1777 caution, 169 no
 - `caution` and `no` URLs are published as code literals rather than automatic links
 
 ## 1.1.1.1.urlquery.net
@@ -2452,6 +2452,14 @@ Scope: URLs retained in the bounded investigation records and evidence map, plus
   - ID `url-8a862a58a02df8e6`; opening `caution`; risks `external_logging`; mentions 1
   - Located in: `may-july-campaign-crawl`
   - Note: Published as an exact literal; opening guidance reflects route semantics.
+
+## play.clickhouse.com
+
+- `https://play.clickhouse.com/?user=play&query=SELECT%201`
+  - ID `url-a317fdc07276aabe`; opening `caution`; risks `none`; mentions 1
+  - Labels: `ClickHouse public-playground compute probe (SELECT 1)`
+  - Located in: `apchem-openai-catalan-computation-temp`
+  - Note: Exact query URL as it appears on the wiki page. Read-only SELECT 1 on a public playground; carries no credential, token or mutation, but opening triggers a benign server-side query, so it is not marked passive.
 
 ## pro.dp.la
 
